@@ -21,8 +21,8 @@ st.set_page_config(
 # ── LOAD DATA ────────────────────────────────────────
 @st.cache_data
 def load_data():
-    user = pd.read_csv('user_dataset/user_profile_labeled.csv')
-    tkpi = pd.read_csv('nutrition_dataset/tkpi_clean_labeled.csv')
+    user = pd.read_csv('user_profile_labeled.csv')
+    tkpi = pd.read_csv('tkpi_clean_labeled.csv')
     return user, tkpi
 
 df_user, df_tkpi = load_data()
