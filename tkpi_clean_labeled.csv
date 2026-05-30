@@ -1,0 +1,1147 @@
+kode,nama_bahan,kategori,energi_kkal,protein_g,lemak_g,karbohidrat_g,serat_g,kalsium_mg,fosfor_mg,besi_mg,natrium_mg,vitc_mg,kelas_rekomendasi,label_kelas
+AR001,"Beras Giling, Mentah",Serealia,357,8.4,1.7,77.1,0.2,147.0,81.0,1.8,27.0,0.0,1,Karbo_Kompleks
+AR002,"Beras Giling Var Pelita,  Mentah",Serealia,369,9.5,1.4,77.1,0.4,68.0,171.0,1.4,34.0,0.0,1,Karbo_Kompleks
+AR003,"Beras Giling Var  Rojolele, Mentah",Serealia,357,8.4,1.7,77.1,0.2,147.0,81.0,1.8,34.0,0.0,1,Karbo_Kompleks
+AR004,"Beras Hitam, Mentah",Serealia,351,8.0,1.3,76.9,20.1,6.0,198.0,0.1,15.0,0.0,1,Karbo_Kompleks
+AR005,"Beras Jagung Kuning, Kering, Mentah",Serealia,358,5.5,0.1,82.7,10.0,20.0,90.0,1.4,1.0,3.0,1,Karbo_Kompleks
+AR006,"Beras Jagung Putih,  Kering, Mentah",Serealia,307,4.8,0.1,71.8,10.0,17.0,78.0,1.2,1.0,0.0,1,Karbo_Kompleks
+AR007,"Beras Ketan Hitam Tumbuk, Mentah",Serealia,360,8.0,2.3,74.5,1.0,10.0,347.0,6.2,11.0,0.0,1,Karbo_Kompleks
+AR008,"Beras Ketan Putih  Tumbuk, Mentah",Serealia,361,7.4,0.8,78.4,0.4,13.0,157.0,3.4,3.0,0.0,1,Karbo_Kompleks
+AR009,"Beras Ladang, Mentah",Serealia,376,7.5,3.8,78.0,5.9,20.0,110.0,0.8,10.0,0.0,1,Karbo_Kompleks
+AR010,"Beras Menir, Mentah",Serealia,362,7.7,4.4,73.0,0.2,22.0,272.0,3.7,90.0,0.0,1,Karbo_Kompleks
+AR011,Beras Parboiled,Serealia,353,6.8,0.6,80.0,0.5,5.0,142.0,0.8,2.0,0.0,1,Karbo_Kompleks
+AR012,"Beras Tumbuk, Mentah",Serealia,354,7.8,0.4,79.9,3.8,3.0,112.0,0.6,5.0,0.0,1,Karbo_Kompleks
+AR013,"Beras Tumbuk Merah,  Mentah",Serealia,352,7.3,0.9,76.2,0.8,15.0,257.0,4.2,10.0,0.0,1,Karbo_Kompleks
+AR014,"Cantel, Mentah",Serealia,366,11.0,3.3,73.0,1.2,28.0,287.0,4.4,7.0,0.0,1,Karbo_Kompleks
+AR015,"Jagung Muda, Kuning,  Mentah",Serealia,147,5.1,0.7,31.5,1.3,6.0,122.0,1.1,5.0,9.0,1,Karbo_Kompleks
+AR016,"Jagung Kuning Pipil,  Kering, Mentah",Serealia,366,9.8,7.3,69.1,2.2,30.0,538.0,2.3,5.0,3.0,1,Karbo_Kompleks
+AR017,"Jagung Pipil Var,  Harapan, Kering",Serealia,367,6.2,5.1,76.2,2.6,7.0,354.0,2.8,1.0,0.0,1,Karbo_Kompleks
+AR018,"Jagung Pipil Var,  Metro, Kering",Serealia,368,5.5,4.6,78.0,2.9,7.0,300.0,2.4,1.0,0.0,1,Karbo_Kompleks
+AR019,"Jali, Mentah",Serealia,324,11.0,4.0,61.0,3.1,213.0,176.0,0.0,24.0,0.0,1,Karbo_Kompleks
+AR020,"Jawawut, Mentah",Serealia,364,9.7,3.5,73.4,8.2,28.0,311.0,5.3,7.0,0.0,1,Karbo_Kompleks
+AR021,"Jampang Huma,  Mentah",Serealia,350,6.2,1.4,78.2,1.7,329.0,254.0,5.3,53.0,0.0,1,Karbo_Kompleks
+AP001,Nasi,Serealia,180,3.0,0.3,39.8,0.2,25.0,27.0,0.4,1.0,0.0,1,Karbo_Kompleks
+AP002,Nasi Tim,Serealia,120,2.4,0.4,26.0,0.5,3.0,7.0,0.4,0.0,0.0,1,Karbo_Kompleks
+AP003,"Beras, Tapai",Serealia,99,1.7,0.3,22.4,0.0,4.0,19.0,0.0,26.0,0.0,3,Rendah_Kalori
+AP004,"Beras, Tepung, Mentah",Serealia,353,7.0,0.5,80.0,2.4,5.0,140.0,0.8,5.0,0.0,1,Karbo_Kompleks
+AP005,"Beras Merah, Nasi",Serealia,149,2.8,0.4,32.5,0.3,6.0,63.0,0.8,5.0,0.0,1,Karbo_Kompleks
+AP006,"Bihun, Mentah",Serealia,348,4.7,0.1,82.1,1.2,6.0,35.0,1.8,12.0,0.0,1,Karbo_Kompleks
+AP007,Bihun Goreng Instan,Serealia,381,6.1,3.9,80.3,0.0,266.0,151.0,2.9,928.0,0.0,1,Karbo_Kompleks
+AP008,"Bihun Jagung, Mentah",Serealia,354,0.5,0.3,87.4,3.0,13.0,111.0,0.6,49.0,0.0,1,Karbo_Kompleks
+AP009,"Jagung Nasi, Mentah",Serealia,357,8.8,0.5,79.5,6.2,5.0,43.0,0.6,2.0,0.0,1,Karbo_Kompleks
+AP010,"Jagung Muda, Rebus",Serealia,142,5.0,0.7,30.3,0.8,5.0,105.0,0.8,5.0,0.0,1,Karbo_Kompleks
+AP011,"Jagung Kuning, Tepung",Serealia,355,9.2,3.9,73.7,7.2,10.0,256.0,2.4,11.0,0.0,1,Karbo_Kompleks
+AP012,"Jagung Kuning Pipil,  Rebus",Serealia,154,3.8,3.5,28.4,0.7,7.0,171.0,0.5,5.0,0.0,1,Karbo_Kompleks
+AP013,"Jagung, Tepung Putih",Serealia,355,9.2,3.9,73.7,7.2,10.0,256.0,2.4,11.0,0.0,1,Karbo_Kompleks
+AP014,"Ketan, Ketupat",Serealia,212,4.0,4.6,38.6,0.2,8.0,46.0,1.0,0.0,0.0,1,Karbo_Kompleks
+AP015,"Ketan Hitam, Matang",Serealia,181,4.0,1.2,37.3,0.3,9.0,144.0,1.7,9.0,0.0,1,Karbo_Kompleks
+AP016,"Ketan Hitam, Tapai",Serealia,166,3.8,1.0,34.4,0.3,8.0,106.0,1.6,5.0,0.0,1,Karbo_Kompleks
+AP017,"Ketan Putih, Matang",Serealia,163,3.0,0.4,35.7,0.2,4.0,55.0,0.7,8.0,0.0,1,Karbo_Kompleks
+AP018,"Ketan Putih, Tapai",Serealia,172,3.0,0.5,37.5,0.6,6.0,35.0,0.5,1.0,0.0,1,Karbo_Kompleks
+AP019,"Maizena, Tepung",Serealia,341,0.3,0.0,85.0,7.0,20.0,30.0,1.5,6.0,0.0,1,Karbo_Kompleks
+AP020,"Makaroni, Mentah",Serealia,353,8.7,0.4,78.7,4.9,20.0,80.0,0.3,5.0,0.0,1,Karbo_Kompleks
+AP021,Mi Basah,Serealia,88,0.6,3.3,14.0,0.1,14.0,13.0,6.8,63.0,0.0,3,Rendah_Kalori
+AP022,Mi Kering,Serealia,339,10.0,1.7,6.3,0.4,31.0,143.0,3.9,760.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+AP023,Misoa,Serealia,345,8.5,2.2,78.0,0.5,52.0,120.0,8.7,3064.0,0.0,1,Karbo_Kompleks
+AP024,Roti Putih,Serealia,248,8.0,1.2,50.0,9.1,10.0,95.0,1.5,530.0,0.0,1,Karbo_Kompleks
+AP025,Tepung Terigu,Serealia,333,9.0,1.0,77.2,0.3,22.0,150.0,1.3,2.0,0.0,1,Karbo_Kompleks
+AP026,Amparan Tatak,Serealia,191,1.3,5.5,34.0,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP027,"Apang Kukus, Kue",Serealia,202,3.0,0.3,46.7,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP028,"Apem, Kue",Serealia,148,2.0,0.5,33.9,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP029,Biskuit,Serealia,458,6.9,14.4,75.1,2.1,62.0,87.0,2.7,241.0,0.0,1,Karbo_Kompleks
+AP030,"Bakpia, Kue",Serealia,272,8.7,6.7,44.1,0.9,194.0,117.0,4.5,0.0,0.0,1,Karbo_Kompleks
+AP031,Bakwan,Serealia,280,8.2,10.2,39.0,3.4,204.0,79.0,7.0,0.0,0.0,1,Karbo_Kompleks
+AP032,Bantal,Serealia,190,3.3,0.3,43.5,3.4,9.0,0.0,0.4,164.0,0.0,1,Karbo_Kompleks
+AP033,Baruasa,Serealia,417,6.5,8.2,79.3,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP034,Batar Daan,Serealia,107,2.2,2.2,19.6,0.0,20.0,30.0,0.6,0.0,0.0,3,Rendah_Kalori
+AP035,Bika Ambon,Serealia,199,2.1,1.5,44.4,0.3,45.0,28.0,1.8,0.0,0.0,1,Karbo_Kompleks
+AP036,Bingka,Serealia,273,5.3,10.6,39.1,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP037,Bobengka,Serealia,225,5.3,2.6,45.2,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP038,Bolu Peca,Serealia,197,3.3,4.6,35.6,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP039,Brem,Serealia,249,3.4,0.4,58.0,0.0,198.0,86.0,2.0,0.0,0.0,1,Karbo_Kompleks
+AP040,Bubur Tinotuan  (Manado),Serealia,156,2.3,0.2,15.6,8.2,41.0,20.0,0.4,486.0,15.0,3,Rendah_Kalori
+AP041,Cake Tape,Serealia,323,4.9,11.5,50.1,1.4,131.0,83.0,2.6,0.0,0.0,1,Karbo_Kompleks
+AP042,Cangkuning,Serealia,204,2.8,7.5,31.4,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP043,Dodol Bali,Serealia,298,3.7,2.1,65.9,0.4,70.0,76.0,2.5,0.0,0.0,1,Karbo_Kompleks
+AP044,Dodol Galamai,Serealia,348,0.4,3.8,76.1,0.5,41.0,144.0,2.6,38.0,0.0,1,Karbo_Kompleks
+AP045,Dodol Kedondong,Serealia,331,1.9,7.6,63.8,1.0,90.0,55.0,2.3,0.0,5.0,1,Karbo_Kompleks
+AP046,Dodol Manado,Serealia,373,4.3,16.5,51.9,0.4,41.0,142.0,2.4,35.0,0.0,1,Karbo_Kompleks
+AP047,Emping Beras,Serealia,403,10.6,2.2,85.3,0.2,11.0,240.0,0.3,1.0,0.0,1,Karbo_Kompleks
+AP048,Gemblong,Serealia,274,1.7,5.4,55.5,2.2,69.0,55.0,3.3,0.0,0.0,1,Karbo_Kompleks
+AP049,Gendar Goreng,Serealia,407,6.4,28.2,32.0,0.1,216.0,62.0,1.6,0.0,0.0,2,Lemak_Tinggi
+AP050,Intip Goreng,Serealia,474,7.6,21.6,62.3,1.2,36.0,64.0,2.5,0.0,0.0,2,Lemak_Tinggi
+AP051,Jagung Gerontol,Serealia,156,2.7,1.3,33.3,1.0,51.0,105.0,1.2,0.0,0.0,1,Karbo_Kompleks
+AP052,Jagung Titi,Serealia,374,9.4,2.2,79.1,0.8,14.0,142.0,2.9,0.0,0.0,1,Karbo_Kompleks
+AP053,Japilus,Serealia,500,1.2,25.1,67.3,0.4,186.0,29.0,4.9,0.0,0.0,2,Lemak_Tinggi
+AP054,Kakicak,Serealia,296,3.4,15.1,36.7,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP055,Kambose,Serealia,164,3.0,2.4,32.6,4.3,16.0,36.0,0.7,0.0,0.0,1,Karbo_Kompleks
+AP056,Kapusa,Serealia,158,4.4,3.2,27.8,5.3,79.0,115.0,1.2,104.0,0.0,1,Karbo_Kompleks
+AP057,Keddo Bodong,Serealia,290,4.6,5.7,55.2,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP058,"Kelepon, Kue",Serealia,215,3.7,3.7,41.8,1.0,232.0,45.0,3.3,0.0,0.0,1,Karbo_Kompleks
+AP059,Kereput,Serealia,580,4.8,39.6,51.1,0.0,0.0,0.0,0.0,0.0,0.0,2,Lemak_Tinggi
+AP060,Ketoprak,Serealia,153,7.9,7.7,13.0,2.9,153.0,134.0,3.4,0.0,0.0,3,Rendah_Kalori
+AP061,Ketupat Kandangan,Serealia,109,2.2,5.2,13.4,0.0,0.0,0.0,0.0,0.0,0.0,3,Rendah_Kalori
+AP062,Koya,Serealia,366,4.2,4.3,77.5,0.8,153.0,222.0,7.0,0.0,0.0,1,Karbo_Kompleks
+AP063,Koya Mirasa,Serealia,370,8.0,1.0,82.2,0.4,83.0,110.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP064,Koyabu,Serealia,241,3.4,4.3,47.2,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP065,Kue Ali,Serealia,440,3.8,18.5,64.5,0.3,27.0,47.0,2.5,0.0,0.0,1,Karbo_Kompleks
+AP066,Kue Bangen,Serealia,442,3.3,14.7,74.2,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP067,Kue Gelang,Serealia,448,5.8,16.1,70.0,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP068,Kue Jahe,Serealia,425,1.6,8.8,84.6,1.2,155.0,61.0,4.0,0.0,0.0,1,Karbo_Kompleks
+AP069,Kue Kelapa,Serealia,591,5.6,42.1,47.5,0.0,32.0,180.0,1.6,33.0,0.0,2,Lemak_Tinggi
+AP070,Kue Koa,Serealia,340,4.8,0.4,79.3,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP071,Kue Ku Temu,Serealia,214,3.5,0.2,49.6,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP072,Kue Lumpur,Serealia,291,3.6,11.1,44.1,0.0,96.0,60.0,2.3,0.0,0.0,1,Karbo_Kompleks
+AP073,Kue Pelita,Serealia,141,5.3,5.5,17.6,0.0,0.0,0.0,0.0,0.0,0.0,3,Rendah_Kalori
+AP074,Kue Putu Cangkir,Serealia,304,5.3,7.0,54.9,0.9,18.0,193.0,4.0,0.0,0.0,1,Karbo_Kompleks
+AP075,Kue Sus,Serealia,221,7.5,10.2,24.8,0.0,105.0,85.0,2.5,0.0,0.0,3,Rendah_Kalori
+AP076,Kue Thipan,Serealia,247,2.9,4.2,49.5,0.0,16.0,107.0,1.8,95.0,0.0,1,Karbo_Kompleks
+AP077,Laksa/Putu Mayang,Serealia,121,1.7,3.4,21.1,0.0,0.0,0.0,0.0,0.0,0.0,3,Rendah_Kalori
+AP078,Lapis Legit,Serealia,389,6.6,15.7,55.5,0.5,16.0,136.0,1.9,0.0,0.0,1,Karbo_Kompleks
+AP079,Lupis Ketan,Serealia,164,1.8,2.1,34.5,0.7,119.0,31.0,1.5,0.0,0.0,1,Karbo_Kompleks
+AP080,Manan Samin,Serealia,379,3.4,18.1,50.6,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP081,Martabak India,Serealia,153,4.5,4.2,24.3,0.0,14.0,108.0,2.4,240.0,0.0,3,Rendah_Kalori
+AP082,Martabak Mesir,Serealia,278,5.1,8.6,45.0,0.0,49.0,168.0,3.4,193.0,0.0,1,Karbo_Kompleks
+AP083,Masekat,Serealia,369,2.1,7.0,74.1,4.0,17.0,52.0,0.8,141.0,0.0,1,Karbo_Kompleks
+AP084,Mie Aceh Rebus,Serealia,113,3.0,3.2,18.1,0.0,22.0,44.0,1.4,191.0,0.0,3,Rendah_Kalori
+AP085,Mie Ayam,Serealia,102,6.2,3.9,10.5,0.0,262.0,51.0,1.8,279.0,0.0,3,Rendah_Kalori
+AP086,Mie Bakso,Serealia,114,5.3,3.0,16.4,0.1,286.0,53.0,1.9,760.0,0.0,3,Rendah_Kalori
+AP087,Mie Celon,Serealia,102,3.0,2.1,17.8,0.0,12.0,84.0,1.4,451.0,0.0,3,Rendah_Kalori
+AP088,Mie Pangsit Basah,Serealia,105,5.9,4.9,9.4,0.0,208.0,48.0,2.0,530.0,0.0,3,Rendah_Kalori
+AP089,Nasi Gemuk,Serealia,192,3.8,8.8,24.4,0.7,15.0,74.0,1.0,355.0,0.0,3,Rendah_Kalori
+AP090,Nasi Gurih,Serealia,190,4.7,7.5,26.0,0.7,12.0,62.0,0.8,296.0,0.0,1,Karbo_Kompleks
+AP091,Nasi Minyak,Serealia,207,3.5,5.0,37.1,0.8,26.0,100.0,1.5,74.0,0.0,1,Karbo_Kompleks
+AP092,Nasi Rames,Serealia,155,10.3,4.2,19.1,0.0,239.0,62.0,1.8,265.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+AP093,Nopia Spesial,Serealia,387,5.3,7.6,74.3,0.3,903.0,133.0,4.2,0.0,0.0,1,Karbo_Kompleks
+AP094,Onde-Onde,Serealia,336,4.0,9.8,57.9,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP095,Padamaran,Serealia,171,3.9,8.9,18.8,0.0,0.0,0.0,0.0,0.0,0.0,3,Rendah_Kalori
+AP096,Pastel,Serealia,307,4.5,13.3,42.4,0.0,296.0,53.0,2.5,0.0,0.0,1,Karbo_Kompleks
+AP097,Pulut,Serealia,216,2.6,3.1,44.4,0.0,6.0,70.0,3.8,100.0,0.0,1,Karbo_Kompleks
+AP098,Pundut Nasi,Serealia,104,1.9,4.1,15.1,0.4,26.0,100.0,1.5,74.0,0.0,3,Rendah_Kalori
+AP099,Putri Hijau,Serealia,189,5.4,2.1,37.2,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP100,Putri Selat,Serealia,163,2.2,6.5,23.8,0.0,72.0,3.0,4.0,6.0,0.0,3,Rendah_Kalori
+AP101,Putu Sopa,Serealia,215,3.3,4.1,41.1,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP102,Renggi Goreng,Serealia,471,4.7,21.8,64.1,6.4,4.0,80.0,1.1,126.0,0.0,2,Lemak_Tinggi
+AP103,Roti Boong,Serealia,341,5.5,16.2,43.3,0.0,15.0,65.0,1.1,161.0,0.0,1,Karbo_Kompleks
+AP104,Roti Warna Sawo  Matang,Serealia,249,7.9,1.5,49.7,0.0,20.0,140.0,2.5,500.0,0.0,1,Karbo_Kompleks
+AP105,Sarimuka,Serealia,166,2.3,2.8,32.9,0.0,36.0,13.0,2.0,3.0,0.0,1,Karbo_Kompleks
+AP106,Spaghetti,Serealia,139,7.4,2.1,22.6,0.0,109.0,53.0,4.7,0.0,0.0,3,Rendah_Kalori
+AP107,Srikaya Ketan,Serealia,265,2.7,6.4,49.1,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP108,Sunduk Lawang,Serealia,181,1.9,1.3,32.4,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+AP109,Suwir-Suwir,Serealia,347,0.5,0.9,84.2,0.8,42.0,40.0,4.3,0.0,0.0,1,Karbo_Kompleks
+AP110,Tipa-Tipa,Serealia,355,6.2,1.2,79.8,1.3,17.0,328.0,1.6,0.0,0.0,1,Karbo_Kompleks
+AP111,Wajit Camilan,Serealia,303,6.3,2.7,63.3,6.9,61.0,302.0,5.5,0.0,0.0,1,Karbo_Kompleks
+AP112,Widaran,Serealia,424,1.3,10.7,80.7,0.2,49.0,88.0,2.5,0.0,0.0,1,Karbo_Kompleks
+AP113,Wingko Babat,Serealia,355,3.2,15.1,51.4,2.4,47.0,63.0,1.1,0.0,0.0,1,Karbo_Kompleks
+AP114,Yangko,Serealia,254,3.0,1.1,58.1,0.8,184.0,24.0,2.6,0.0,0.0,1,Karbo_Kompleks
+BR001,"Arrowroot, Segar",Umbi Berpati,102,1.0,0.2,24.1,1.7,28.0,35.0,1.7,36.0,2.0,3,Rendah_Kalori
+BR002,"Batatas Gembili, Segar",Umbi Berpati,76,1.1,0.9,16.0,4.2,0.0,40.0,0.2,10.0,0.0,3,Rendah_Kalori
+BR003,"Batatas Kelapa, Ubi,  Segar",Umbi Berpati,89,1.1,0.1,21.0,4.0,0.0,40.0,0.2,20.0,0.0,3,Rendah_Kalori
+BR004,"Belitung, Talas, Segar",Umbi Berpati,145,1.2,0.4,34.2,1.5,26.0,54.0,1.4,6.0,2.0,1,Karbo_Kompleks
+BR005,"Bengkuang, Segar",Umbi Berpati,59,1.4,0.2,12.8,1.0,15.0,18.0,0.6,2.0,20.0,3,Rendah_Kalori
+BR006,"Bentul (Komba), Talas,  Segar",Umbi Berpati,98,1.6,0.7,20.9,0.7,44.0,66.0,1.5,0.0,0.0,3,Rendah_Kalori
+BR007,"Gadeng/Gadung,  Kering",Umbi Berpati,322,2.4,0.6,76.6,0.0,39.0,22.0,2.2,5.0,0.0,1,Karbo_Kompleks
+BR008,"Gadung, Ubi, Segar",Umbi Berpati,100,0.9,0.3,23.5,2.1,79.0,66.0,0.9,8.0,2.0,3,Rendah_Kalori
+BR009,"Ganyong, Segar",Umbi Berpati,77,0.6,0.2,18.4,0.8,15.0,67.0,1.0,0.0,9.0,3,Rendah_Kalori
+BR010,"Gembili, Ubi, Segar",Umbi Berpati,131,1.1,0.2,31.3,1.1,14.0,56.0,0.6,10.0,4.0,1,Karbo_Kompleks
+BR011,"Hofa/Ubi Hutan, Segar",Umbi Berpati,127,1.2,0.5,29.5,3.4,30.0,8.0,0.7,3.0,0.0,1,Karbo_Kompleks
+BR012,"Kaburan, Ubi, Segar",Umbi Berpati,133,1.0,0.2,32.2,0.7,65.0,50.0,0.6,10.0,0.0,1,Karbo_Kompleks
+BR013,"Kentang, Segar",Umbi Berpati,62,2.1,0.2,13.5,0.5,63.0,58.0,0.7,7.0,21.0,3,Rendah_Kalori
+BR014,"Kentang Hitam, Segar",Umbi Berpati,142,0.9,0.4,33.7,5.4,34.0,75.0,0.2,22.0,38.0,1,Karbo_Kompleks
+BR015,"Keribang, Ubi, Segar",Umbi Berpati,137,1.3,1.1,29.8,0.6,45.0,56.0,0.8,10.0,0.0,1,Karbo_Kompleks
+BR016,"Ketela Pohon/  Singkong, Segar",Umbi Berpati,154,1.0,0.3,36.8,0.9,77.0,24.0,1.1,2.0,31.0,1,Karbo_Kompleks
+BR017,Lepok/Ubi Rumput,Umbi Berpati,181,2.8,1.2,39.8,10.7,7.0,50.0,3.1,116.0,0.0,1,Karbo_Kompleks
+BR018,"Sagu Aren, Kering",Umbi Berpati,355,0.6,1.1,85.6,0.3,91.0,167.0,2.2,2.0,0.0,1,Karbo_Kompleks
+BR019,"Sagu Aren, Segar",Umbi Berpati,231,0.6,0.2,56.6,3.2,20.0,20.0,0.1,7.0,0.0,1,Karbo_Kompleks
+BR020,Sagu Kasbi Segar,Umbi Berpati,230,0.6,0.2,56.5,3.0,20.0,1.0,0.3,100.0,0.0,1,Karbo_Kompleks
+BR021,Sagu Lempeng,Umbi Berpati,347,0.9,0.3,85.2,4.7,30.0,30.0,0.2,11.0,0.0,1,Karbo_Kompleks
+BR022,"Sagu Singkong, Kering",Umbi Berpati,362,0.5,0.3,86.9,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+BR023,"Sente, Talas, Segar",Umbi Berpati,353,0.7,0.2,84.7,6.6,11.0,13.0,1.5,30.0,5.0,1,Karbo_Kompleks
+BR024,"Suweg, Talas, Segar",Umbi Berpati,74,1.4,0.1,17.2,1.4,42.0,46.0,1.3,7.0,2.0,3,Rendah_Kalori
+BR025,"Talas Bogor, Segar",Umbi Berpati,108,1.4,0.4,25.0,0.9,47.0,67.0,0.7,10.0,4.0,1,Karbo_Kompleks
+BR026,"Talas Pontianak, Segar",Umbi Berpati,163,2.3,0.5,36.4,0.7,45.0,80.0,1.7,14.0,0.0,1,Karbo_Kompleks
+BR027,"Talas Viqueque, Segar",Umbi Berpati,115,1.8,0.5,25.9,8.6,50.0,220.0,0.9,1.0,0.0,1,Karbo_Kompleks
+BR028,"Ubi Jalar, Kuning, Segar",Umbi Berpati,119,0.5,0.4,25.1,4.2,30.0,40.0,0.4,3.0,21.0,1,Karbo_Kompleks
+BR029,"Ubi Jalar Manis, Segar",Umbi Berpati,83,1.5,0.2,18.8,0.6,27.0,162.0,2.1,52.0,0.0,3,Rendah_Kalori
+BR030,"Ubi Jalar Merah, Segar",Umbi Berpati,151,1.6,0.3,35.4,0.7,29.0,74.0,0.7,92.0,11.0,1,Karbo_Kompleks
+BR031,"Ubi Jalar Putih, Segar",Umbi Berpati,88,0.4,0.4,20.6,4.0,30.0,10.0,0.5,2.0,36.0,3,Rendah_Kalori
+BR032,Ubi Jalar Tinta/  Kemayung,Umbi Berpati,108,0.5,0.4,25.6,4.2,30.0,40.0,0.5,1.0,24.0,1,Karbo_Kompleks
+BR033,"Umbi Uwi, Segar",Umbi Berpati,120,2.8,0.5,82.3,2.6,9.0,42.0,1.3,12.0,4.0,1,Karbo_Kompleks
+BP001,"Batatas Kelapa, Ubi,  Bakar",Umbi Berpati,110,1.4,1.1,23.4,4.5,1.0,46.0,0.2,12.0,0.0,3,Rendah_Kalori
+BP002,"Batatas Kelapa, Ubi,  Kukus",Umbi Berpati,92,1.2,0.3,21.0,4.1,0.0,42.0,0.2,10.0,0.0,3,Rendah_Kalori
+BP003,"Batatas Tali, Ubi, Rebus",Umbi Berpati,182,2.4,0.4,42.2,9.2,1.0,80.0,0.3,20.0,0.0,1,Karbo_Kompleks
+BP004,"Belitung, Talas, Kukus",Umbi Berpati,145,1.2,0.4,34.2,1.0,21.0,48.0,0.9,7.0,1.0,1,Karbo_Kompleks
+BP005,"Bentul, Talas, Kukus",Umbi Berpati,71,2.3,0.3,15.4,0.5,29.0,26.0,0.6,0.0,21.0,3,Rendah_Kalori
+BP006,"Gadung, Ubi, Kukus",Umbi Berpati,88,0.6,0.3,20.9,0.9,26.0,47.0,0.4,6.0,0.0,3,Rendah_Kalori
+BP007,"Ganyong, Rebus",Umbi Berpati,100,0.8,0.2,23.8,0.9,15.0,65.0,0.9,0.0,6.0,3,Rendah_Kalori
+BP008,Ketela Pohon/  Singkong Kukus,Umbi Berpati,153,1.2,0.3,36.4,1.3,56.0,22.0,0.4,2.0,20.0,1,Karbo_Kompleks
+BP009,"Suweg, Talas, Kukus",Umbi Berpati,93,1.5,0.1,21.9,0.9,50.0,58.0,0.8,6.0,0.0,3,Rendah_Kalori
+BP010,"Talas Bogor, Kukus",Umbi Berpati,120,1.5,0.3,28.2,0.7,31.0,63.0,0.7,11.0,2.0,1,Karbo_Kompleks
+BP011,"Ubi Jalar, Kuning,  Kukus",Umbi Berpati,100,0.7,0.3,23.8,1.0,44.0,46.0,0.4,3.0,16.0,3,Rendah_Kalori
+BP012,Ubi Jalar Tinta/  Kemayung Kukus,Umbi Berpati,165,0.9,0.2,39.8,1.1,20.0,23.0,0.8,1.0,0.0,1,Karbo_Kompleks
+BP013,Bagea Kelapa Asin,Umbi Berpati,450,3.2,13.9,78.1,0.0,38.0,38.0,0.3,74.0,0.0,1,Karbo_Kompleks
+BP014,Bagea Kelapa Manis,Umbi Berpati,452,1.3,13.8,80.6,0.0,38.0,39.0,0.3,75.0,0.0,1,Karbo_Kompleks
+BP015,Bagea Kenari Asin,Umbi Berpati,529,3.2,29.1,63.6,0.0,38.0,40.0,0.4,74.0,0.0,2,Lemak_Tinggi
+BP016,Bagea Kenari Manis,Umbi Berpati,523,3.2,28.2,64.2,0.0,38.0,39.0,0.3,74.0,0.0,2,Lemak_Tinggi
+BP017,Bagea Kw 1,Umbi Berpati,416,6.5,9.4,76.3,0.4,49.0,77.0,4.9,0.0,0.0,1,Karbo_Kompleks
+BP018,Bagea Kw 2,Umbi Berpati,382,0.3,3.5,87.2,0.9,172.0,120.0,7.6,0.0,0.0,1,Karbo_Kompleks
+BP019,Beras Cerdas,Umbi Berpati,350,2.7,1.1,82.3,6.2,28.0,351.0,2.9,358.0,0.0,1,Karbo_Kompleks
+BP020,Beras Ganyong,Umbi Berpati,364,3.4,0.7,86.3,4.7,4.0,47.0,5.0,4.0,0.0,1,Karbo_Kompleks
+BP021,Beras Siger,Umbi Berpati,344,1.1,0.2,28.3,5.6,32.0,22.0,5.6,106.0,0.0,1,Karbo_Kompleks
+BP022,Biji Nangka/Biji Salak,Umbi Berpati,262,2.3,5.4,51.1,8.0,60.0,80.0,0.8,10.0,10.0,1,Karbo_Kompleks
+BP023,Bubur Sagu,Umbi Berpati,167,0.2,4.0,33.0,0.0,3.0,3.0,0.1,7.0,0.0,1,Karbo_Kompleks
+BP024,Cassavastick,Umbi Berpati,460,0.8,18.7,17.2,1.6,144.0,58.0,7.5,0.0,0.0,3,Rendah_Kalori
+BP025,Ceriping Getuk  Singkong,Umbi Berpati,462,1.2,20.7,67.7,0.6,1248.0,172.0,8.8,0.0,0.0,2,Lemak_Tinggi
+BP026,Gatot,Umbi Berpati,347,1.3,0.7,83.8,5.8,78.0,44.0,17.1,28.0,0.0,1,Karbo_Kompleks
+BP027,Geblek,Umbi Berpati,195,0.4,1.7,44.4,3.6,35.0,13.0,0.6,353.0,0.0,1,Karbo_Kompleks
+BP028,Getuk Goreng,Umbi Berpati,360,1.3,6.4,74.3,0.8,59.0,81.0,3.2,0.0,0.0,1,Karbo_Kompleks
+BP029,Getuk Singkong,Umbi Berpati,204,0.5,1.4,47.4,0.8,97.0,52.0,1.5,0.0,0.0,1,Karbo_Kompleks
+BP030,Gurandil,Umbi Berpati,218,0.5,2.5,48.5,3.1,50.0,25.0,2.8,0.0,0.0,1,Karbo_Kompleks
+BP031,Kabuto,Umbi Berpati,250,2.6,2.5,35.4,1.8,35.0,49.0,1.1,2.0,0.0,1,Karbo_Kompleks
+BP032,Kapurung,Umbi Berpati,41,2.0,0.3,7.8,2.0,34.0,12.0,0.3,185.0,15.0,3,Rendah_Kalori
+BP033,Kecimpring Singkong  Goreng,Umbi Berpati,464,1.2,18.6,73.0,1.3,82.0,52.0,3.4,0.0,0.0,1,Karbo_Kompleks
+BP034,Keremes,Umbi Berpati,475,1.6,25.2,64.4,2.1,153.0,88.0,1.0,0.0,0.0,2,Lemak_Tinggi
+BP035,Keripik Gadung,Umbi Berpati,446,2.8,14.5,76.0,1.7,147.0,52.0,1.9,0.0,0.0,1,Karbo_Kompleks
+BP036,Keripik Kentang,Umbi Berpati,448,2.7,18.8,67.1,3.8,25.0,130.0,1.2,712.0,0.0,1,Karbo_Kompleks
+BP037,Keripik Singkong,Umbi Berpati,478,0.9,20.7,72.0,2.0,189.0,101.0,1.9,0.0,0.0,2,Lemak_Tinggi
+BP038,Keripik Singkong  Berbumbu,Umbi Berpati,481,2.2,19.7,73.6,1.6,156.0,103.0,1.6,0.0,0.0,1,Karbo_Kompleks
+BP039,Keripik Ubi,Umbi Berpati,486,0.2,23.9,67.6,14.3,68.0,92.0,0.9,52.0,0.0,2,Lemak_Tinggi
+BP040,Kerupuk Cumi Goreng,Umbi Berpati,444,6.9,14.6,71.3,5.0,47.0,375.0,1.8,837.0,0.0,1,Karbo_Kompleks
+BP041,Kerupuk Kemplang  (Ikan) Mentah,Umbi Berpati,325,1.8,0.4,78.5,4.5,59.0,268.0,2.3,1123.0,0.0,1,Karbo_Kompleks
+BP042,Kerupuk Kemplang  Goreng,Umbi Berpati,504,5.6,28.1,57.1,0.3,50.0,94.0,2.9,0.0,0.0,2,Lemak_Tinggi
+BP043,Kerupuk Kemplang  Panggang,Umbi Berpati,356,9.7,1.1,76.9,1.0,62.0,129.0,2.9,0.0,0.0,1,Karbo_Kompleks
+BP044,Kerupuk Mie Kuning  Goreng,Umbi Berpati,476,0.1,21.1,71.3,4.2,57.0,36.0,4.6,0.0,0.0,2,Lemak_Tinggi
+BP045,Kerupuk Udang Goreng,Umbi Berpati,477,4.7,20.5,68.5,5.0,24.0,188.0,0.9,449.0,0.0,2,Lemak_Tinggi
+BP046,Kue Bangket,Umbi Berpati,338,1.5,1.2,80.3,0.0,34.0,35.0,0.3,67.0,0.0,1,Karbo_Kompleks
+BP047,Kue Putu Singkong,Umbi Berpati,217,1.2,0.5,53.2,2.4,48.0,68.0,1.5,3.0,0.0,1,Karbo_Kompleks
+BP048,Lanting Getuk,Umbi Berpati,422,0.9,10.8,80.4,1.4,206.0,104.0,3.6,0.0,0.0,1,Karbo_Kompleks
+BP049,Mi Golosor,Umbi Berpati,71,0.2,0.8,15.9,0.1,117.0,5.0,0.2,0.0,0.0,3,Rendah_Kalori
+BP050,Mie Bendo,Umbi Berpati,353,0.3,0.0,88.0,2.4,28.0,14.0,2.8,9.0,0.0,1,Karbo_Kompleks
+BP051,Mie Sagu,Umbi Berpati,190,0.2,0.4,46.5,1.4,8.0,7.0,0.3,10.0,0.0,1,Karbo_Kompleks
+BP052,Ongol-Ongol Sagu,Umbi Berpati,111,0.3,2.7,21.2,0.3,79.0,15.0,1.7,0.0,0.0,3,Rendah_Kalori
+BP053,Oyek,Umbi Berpati,351,0.9,0.9,84.9,4.3,60.0,36.0,2.1,5.0,0.0,1,Karbo_Kompleks
+BP054,Papeda,Umbi Berpati,61,0.2,0.1,14.9,0.5,3.0,1.0,0.2,4.0,0.0,3,Rendah_Kalori
+BP055,Rasbi (Beras Ubi),Umbi Berpati,394,2.2,8.8,76.6,6.8,68.0,76.0,1.6,165.0,0.0,1,Karbo_Kompleks
+BP056,Rasi (Beras Singkong),Umbi Berpati,350,0.9,0.4,85.7,14.4,42.0,21.0,1.5,8.0,0.0,1,Karbo_Kompleks
+BP057,Sagu Forno,Umbi Berpati,291,0.5,4.0,63.4,0.0,10.0,20.0,0.8,40.0,0.0,1,Karbo_Kompleks
+BP058,Sagu Lemak (Kue  Sagon),Umbi Berpati,452,2.8,14.8,76.8,1.1,15.0,39.0,1.1,182.0,0.0,1,Karbo_Kompleks
+BP059,Sagu Manis,Umbi Berpati,287,0.5,3.9,62.4,0.0,8.0,17.0,0.7,34.0,0.0,1,Karbo_Kompleks
+BP060,Sagu Rendang,Umbi Berpati,364,0.1,0.2,90.5,1.9,13.0,9.0,3.9,42.0,0.0,1,Karbo_Kompleks
+BP061,Sagu Sinole,Umbi Berpati,354,0.8,8.3,68.9,0.0,10.0,30.0,0.8,30.0,0.0,1,Karbo_Kompleks
+BP062,Serimping Talas  Kebumen,Umbi Berpati,478,2.5,21.2,69.2,1.7,112.0,118.0,2.3,0.0,0.0,2,Lemak_Tinggi
+BP063,Tapai Singkong,Umbi Berpati,169,1.4,0.3,40.2,2.0,21.0,34.0,0.8,0.0,9.0,1,Karbo_Kompleks
+BP064,Tepung Arrowroot,Umbi Berpati,355,0.7,0.2,85.2,0.4,8.0,22.0,1.5,2.0,0.0,1,Karbo_Kompleks
+BP065,Tepung Ganyong,Umbi Berpati,353,0.8,1.7,83.6,0.7,4.0,31.0,3.3,3.0,1.0,1,Karbo_Kompleks
+BP066,Tepung Gaplek,Umbi Berpati,345,2.4,0.4,83.1,6.7,18.0,95.0,1.5,6.0,0.0,1,Karbo_Kompleks
+BP067,"Tepung Kentang,  Kering",Umbi Berpati,347,0.3,0.1,85.6,0.4,20.0,30.0,0.5,51.0,0.0,1,Karbo_Kompleks
+BP068,Tepung Mocaf,Umbi Berpati,350,1.2,0.6,85.0,6.0,60.0,64.0,15.8,8.0,2.0,1,Karbo_Kompleks
+BP069,Tepung Sente,Umbi Berpati,326,4.0,0.4,76.7,8.5,41.0,141.0,3.5,14.0,0.0,1,Karbo_Kompleks
+BP070,Tepung Singkong/  Tapioka,Umbi Berpati,363,1.1,0.5,88.2,0.9,84.0,125.0,1.0,1.0,0.0,1,Karbo_Kompleks
+BP071,Tepung Tales Beneng,Umbi Berpati,332,5.7,0.6,76.1,12.2,59.0,302.0,10.7,7.0,0.0,1,Karbo_Kompleks
+BP072,Tepung Ubi Ungu,Umbi Berpati,354,2.8,0.6,84.4,12.9,89.0,125.0,3.9,42.0,0.0,1,Karbo_Kompleks
+BP073,Tiwul,Umbi Berpati,353,2.4,1.1,83.4,6.5,55.0,95.0,4.7,5.0,3.0,1,Karbo_Kompleks
+BP074,Tiwul Instan,Umbi Berpati,395,3.2,8.5,76.5,4.2,81.0,81.0,5.8,377.0,4.0,1,Karbo_Kompleks
+BP075,Ubi Cilembu,Umbi Berpati,186,1.9,0.2,44.3,3.4,37.0,51.0,0.6,1.0,0.0,1,Karbo_Kompleks
+BP076,Uli Batatas,Umbi Berpati,150,1.1,4.0,27.4,0.0,0.0,23.0,0.1,6.0,0.0,1,Karbo_Kompleks
+CR001,"Kacang Arab, Kering","Kacang, Biji, Bean",330,23.8,1.4,60.2,17.4,57.0,388.0,4.7,24.0,2.0,0,Tinggi_Protein_Rendah_Lemak
+CR002,"Kacang Babi, Kering","Kacang, Biji, Bean",341,30.4,3.2,51.3,4.5,178.0,521.0,6.8,13.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CR003,"Kacang Belimbing  (Kecipir), Kering","Kacang, Biji, Bean",400,34.4,16.9,34.1,10.7,468.0,182.0,6.8,37.0,0.0,1,Karbo_Kompleks
+CR004,"Kacang Beracun, Segar","Kacang, Biji, Bean",118,4.4,1.5,21.6,0.0,50.0,50.0,1.7,10.0,0.0,3,Rendah_Kalori
+CR005,"Kacang Bogor, Kering","Kacang, Biji, Bean",370,16.0,6.0,65.0,26.3,85.0,264.0,4.2,44.0,0.0,1,Karbo_Kompleks
+CR006,"Kacang Bogor, Segar","Kacang, Biji, Bean",165,7.7,3.1,27.4,2.5,96.0,126.0,5.3,6.0,0.0,1,Karbo_Kompleks
+CR007,"Kacang Endel, Biji,  Kering","Kacang, Biji, Bean",331,25.0,1.0,58.0,23.6,80.0,400.0,5.0,12.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CR008,"Kacang Ercis, Segar","Kacang, Biji, Bean",129,12.4,0.7,18.3,28.6,40.0,130.0,2.3,4.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CR009,"Kacang Galing, Segar","Kacang, Biji, Bean",336,23.1,1.7,59.5,0.0,80.0,400.0,5.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CR010,"Kacang Gude, Biji,  Kering","Kacang, Biji, Bean",316,20.7,1.0,58.0,4.6,146.0,445.0,4.7,16.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CR011,"Kacang Gude, Biji,  Segar","Kacang, Biji, Bean",114,7.0,0.6,20.8,4.4,3.0,122.0,1.5,4.0,43.0,3,Rendah_Kalori
+CR012,"Kacang Hijau Var,  Bakti, Kering","Kacang, Biji, Bean",350,17.1,1.8,70.7,5.7,94.0,315.0,4.9,46.0,11.0,1,Karbo_Kompleks
+CR013,"Kacang Hijau Var,  Siwalik, Kering","Kacang, Biji, Bean",339,20.8,2.1,64.6,7.4,122.0,136.0,4.9,45.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CR014,"Kacang Hijau, Kering","Kacang, Biji, Bean",323,22.9,1.5,56.8,7.5,223.0,319.0,7.5,42.0,10.0,0,Tinggi_Protein_Rendah_Lemak
+CR015,"Kacang Hitam, Kering","Kacang, Biji, Bean",346,16.6,1.7,66.1,22.8,70.0,300.0,4.7,3.0,0.0,1,Karbo_Kompleks
+CR016,"Kacang Kapri, Segar","Kacang, Biji, Bean",98,6.7,0.4,17.7,6.2,22.0,122.0,1.9,6.0,26.0,3,Rendah_Kalori
+CR017,"Kacang Kedelai, Kering","Kacang, Biji, Bean",381,40.4,16.7,24.9,3.2,222.0,682.0,10.0,210.0,0.0,3,Rendah_Kalori
+CR018,"Kacang Kedelai, Segar","Kacang, Biji, Bean",286,30.2,15.6,30.1,2.9,196.0,506.0,6.9,28.0,0.0,1,Karbo_Kompleks
+CR019,"Kacang Kincai, Kering","Kacang, Biji, Bean",444,19.9,16.0,55.0,0.0,26.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+CR020,"Kacang Komak, Segar","Kacang, Biji, Bean",327,16.4,4.3,55.8,0.5,74.0,282.0,4.0,22.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CR021,"Kacang Kuning, Kering","Kacang, Biji, Bean",355,17.0,2.5,66.0,15.1,140.0,220.0,5.8,1.0,0.0,1,Karbo_Kompleks
+CR022,"Kacang Lebui /Iris,  Kering","Kacang, Biji, Bean",346,16.5,1.5,66.6,37.3,144.0,368.0,3.4,17.0,0.0,1,Karbo_Kompleks
+CR023,"Kacang Mentega,  Kering","Kacang, Biji, Bean",344,16.7,2.1,64.6,13.0,110.0,300.0,6.7,1.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CR024,"Kacang Merah /Banda,  Kering","Kacang, Biji, Bean",350,13.9,3.0,66.9,26.3,84.0,242.0,6.8,19.0,0.0,1,Karbo_Kompleks
+CR025,"Kacang Merah Tua,  Kering","Kacang, Biji, Bean",280,16.7,1.6,63.2,4.6,209.0,335.0,6.4,19.0,6.0,0,Tinggi_Protein_Rendah_Lemak
+CR026,"Kacang Merah, Kering","Kacang, Biji, Bean",314,22.1,1.1,56.2,4.0,502.0,429.0,10.3,11.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CR027,"Kacang Merah, Segar","Kacang, Biji, Bean",171,11.0,2.2,28.0,2.1,293.0,134.0,3.7,7.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CR028,"Kacang Mete/Biji  Jambu Monyet, Segar","Kacang, Biji, Bean",616,16.3,48.4,28.7,0.9,26.0,521.0,3.8,26.0,0.0,2,Lemak_Tinggi
+CR029,"Kacang Panjang, Biji,  Kering","Kacang, Biji, Bean",357,17.3,1.5,68.6,10.6,163.0,437.0,6.9,16.0,2.0,1,Karbo_Kompleks
+CR030,Kacang Tanah Sangan,"Kacang, Biji, Bean",560,29.5,43.0,24.1,2.9,107.0,366.0,4.1,34.0,0.0,2,Lemak_Tinggi
+CR031,Kacang Tanah Sangan  Tanpa Selaput,"Kacang, Biji, Bean",559,26.9,44.2,23.6,2.6,74.0,393.0,1.9,33.0,0.0,2,Lemak_Tinggi
+CR032,"Kacang Tanah, Kering","Kacang, Biji, Bean",525,27.9,42.7,17.4,2.4,316.0,456.0,5.7,31.0,0.0,2,Lemak_Tinggi
+CR033,"Kacang Tolo / Tunggak,  Kering","Kacang, Biji, Bean",331,24.4,1.9,56.6,1.6,481.0,399.0,13.9,15.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CR034,"Kacang Tunis, Kering","Kacang, Biji, Bean",351,12.2,1.2,72.9,29.5,120.0,220.0,6.9,1.0,0.0,1,Karbo_Kompleks
+CR035,"Kacang Uci, Kering","Kacang, Biji, Bean",358,23.4,2.4,60.6,7.4,269.0,264.0,0.5,13.0,2.0,0,Tinggi_Protein_Rendah_Lemak
+CR036,"Kacang Urei, Kering","Kacang, Biji, Bean",354,12.8,1.8,69.3,26.1,220.0,220.0,5.1,1.0,0.0,1,Karbo_Kompleks
+CR037,"Kenari Banda, Kering","Kacang, Biji, Bean",616,13.9,56.2,13.7,0.0,0.0,380.0,1.4,11.0,0.0,2,Lemak_Tinggi
+CR038,"Kenari, Kering","Kacang, Biji, Bean",657,15.0,66.0,13.0,0.0,92.0,691.0,7.7,3.0,0.0,2,Lemak_Tinggi
+CR039,"Komak Polong, Segar","Kacang, Biji, Bean",99,3.3,0.1,21.2,10.3,50.0,99.0,13.1,15.0,0.0,3,Rendah_Kalori
+CR040,"Koro Andong, Kering","Kacang, Biji, Bean",356,20.5,4.1,61.6,7.0,150.0,272.0,6.2,18.0,1.0,0,Tinggi_Protein_Rendah_Lemak
+CR041,"Koro Benguk, Biji,  Kering","Kacang, Biji, Bean",332,24.0,3.0,55.0,5.6,30.0,200.0,2.0,42.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CR042,"Koro Kerupuk, Biji,  Segar","Kacang, Biji, Bean",125,8.3,0.7,22.1,2.2,17.0,12.0,2.7,16.0,31.0,0,Tinggi_Protein_Rendah_Lemak
+CR043,"Koro Loke, Biji, Segar","Kacang, Biji, Bean",33,2.7,0.2,7.9,3.5,60.0,40.0,2.0,2.0,0.0,3,Rendah_Kalori
+CR044,"Koro Roay, Kering","Kacang, Biji, Bean",344,12.5,2.1,69.4,7.5,70.0,103.0,4.4,18.0,1.0,1,Karbo_Kompleks
+CR045,"Koro Wedus, Biji,  Kering","Kacang, Biji, Bean",338,22.2,1.5,61.0,5.8,88.0,395.0,3.5,43.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CR046,"Lamtoro Biji, Muda,  Segar","Kacang, Biji, Bean",85,5.7,0.3,15.4,10.8,180.0,53.0,2.7,35.0,15.0,3,Rendah_Kalori
+CR047,"Lamtoro Biji, Tua,  Segar","Kacang, Biji, Bean",148,10.6,0.5,26.2,17.0,155.0,59.0,2.2,28.0,20.0,0,Tinggi_Protein_Rendah_Lemak
+CR048,"Lamtoro Var, Gung  Tanpa Kulit","Kacang, Biji, Bean",367,46.4,5.4,32.5,2.6,136.0,441.0,23.3,65.0,9.0,0,Tinggi_Protein_Rendah_Lemak
+CR049,"Lamtoro Var, Lokal  Dengan Kulit","Kacang, Biji, Bean",336,23.8,1.2,59.7,15.4,867.0,321.0,1.5,134.0,16.0,0,Tinggi_Protein_Rendah_Lemak
+CR050,"Nangka, Biji, Segar","Kacang, Biji, Bean",165,4.2,0.1,36.7,1.8,33.0,200.0,1.0,69.0,10.0,1,Karbo_Kompleks
+CR051,"Saga Merah Terkupas,  Mentah","Kacang, Biji, Bean",449,30.6,25.5,31.9,3.5,1062.0,161.0,14.2,66.0,7.0,2,Lemak_Tinggi
+CR052,"Wijen, Mentah","Kacang, Biji, Bean",568,19.3,51.1,18.1,3.6,1125.0,614.0,9.5,18.0,0.0,2,Lemak_Tinggi
+CP001,"Kacang Belimbing,  Rebus","Kacang, Biji, Bean",204,16.9,8.8,17.5,4.8,230.0,180.0,3.3,43.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP002,"Kacang Bogor, Goreng","Kacang, Biji, Bean",479,12.7,23.2,58.9,1.2,135.0,184.0,2.9,0.0,0.0,2,Lemak_Tinggi
+CP003,"Kacang Bogor, Rebus","Kacang, Biji, Bean",161,7.7,2.8,27.1,2.0,56.0,134.0,1.4,0.0,0.0,1,Karbo_Kompleks
+CP004,"Kacang Gude, Rebus","Kacang, Biji, Bean",147,9.0,0.5,27.5,3.4,50.0,175.0,2.0,14.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP005,"Kacang Hijau, Rebus","Kacang, Biji, Bean",109,8.7,0.5,18.3,1.5,95.0,149.0,1.5,447.0,3.0,0,Tinggi_Protein_Rendah_Lemak
+CP006,"Kacang Kedelai,  Goreng","Kacang, Biji, Bean",521,32.2,37.7,22.9,7.6,296.0,800.0,6.5,3492.0,0.0,2,Lemak_Tinggi
+CP007,"Kacang Kedelai, Rebus","Kacang, Biji, Bean",189,20.2,8.2,12.7,1.6,91.0,270.0,3.9,181.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP008,"Kacang Merah Kering,  Rebus","Kacang, Biji, Bean",158,10.3,0.9,28.2,2.6,160.0,149.0,3.7,6.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP009,"Kacang Merah Segar,  Rebus","Kacang, Biji, Bean",144,10.0,1.0,24.7,3.5,144.0,150.0,2.8,6.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP010,"Kacang Mete/Biji  Jambu Monyet, Goreng","Kacang, Biji, Bean",629,20.4,56.3,19.8,1.1,502.0,493.0,8.0,13.0,0.0,2,Lemak_Tinggi
+CP011,Kacang Tanah Rebus Dg  Kulit,"Kacang, Biji, Bean",360,13.5,31.2,12.8,0.0,42.0,177.0,1.4,32.0,5.0,2,Lemak_Tinggi
+CP012,"Kacang Tanah, Goreng","Kacang, Biji, Bean",564,25.5,44.4,25.5,2.8,106.0,390.0,4.1,0.0,0.0,2,Lemak_Tinggi
+CP013,"Kacang Tanah, Rebus","Kacang, Biji, Bean",220,10.6,18.0,8.0,1.0,89.0,273.0,1.9,36.0,0.0,3,Rendah_Kalori
+CP014,"Kacang Tolo, Rebus","Kacang, Biji, Bean",138,10.7,1.1,22.6,0.9,165.0,172.0,4.0,13.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP015,Ampas Kacang Hijau,"Kacang, Biji, Bean",96,3.7,0.6,19.1,2.7,133.0,150.0,1.3,0.0,0.0,3,Rendah_Kalori
+CP016,"Ampas Tahu, Mentah","Kacang, Biji, Bean",67,5.0,2.1,8.1,4.1,460.0,88.0,1.0,8.0,0.0,3,Rendah_Kalori
+CP017,Ampas Tahu Kukus,"Kacang, Biji, Bean",75,4.1,2.1,10.7,5.1,203.0,60.0,1.3,0.0,0.0,3,Rendah_Kalori
+CP018,"Ampas Tahu, Kering","Kacang, Biji, Bean",414,26.6,18.3,41.3,0.0,19.0,29.0,4.0,45.0,0.0,1,Karbo_Kompleks
+CP019,Pepea Oncom Ampas  Tahu,"Kacang, Biji, Bean",76,5.2,1.8,10.6,2.2,215.0,66.0,12.5,0.0,0.0,3,Rendah_Kalori
+CP020,Bungkil Biji Karet,"Kacang, Biji, Bean",333,29.3,3.3,50.0,0.0,102.0,660.0,12.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP021,Bungkil Kacang Tanah,"Kacang, Biji, Bean",336,37.4,13.0,30.5,0.0,730.0,470.0,30.7,0.0,0.0,1,Karbo_Kompleks
+CP022,Bungkil Kelapa,"Kacang, Biji, Bean",368,23.0,15.0,40.0,0.0,137.0,433.0,41.5,0.0,0.0,1,Karbo_Kompleks
+CP023,Dodol Banjarmasin,"Kacang, Biji, Bean",368,2.6,8.6,70.0,0.5,51.0,180.0,3.3,48.0,0.0,1,Karbo_Kompleks
+CP024,Emping (Kerupuk  Melinjo),"Kacang, Biji, Bean",345,12.0,1.5,71.5,0.0,100.0,400.0,5.0,0.0,0.0,1,Karbo_Kompleks
+CP025,Emping Komak,"Kacang, Biji, Bean",355,17.8,4.6,60.7,0.0,87.0,304.0,4.3,24.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP026,Enting-Enting Gepuk  Hello Kity,"Kacang, Biji, Bean",538,13.6,30.3,52.6,0.2,81.0,248.0,1.6,0.0,0.0,2,Lemak_Tinggi
+CP027,Enting-Enting Gepuk  Kacang Tanah,"Kacang, Biji, Bean",524,13.3,29.2,52.0,0.2,76.0,248.0,1.4,0.0,0.0,2,Lemak_Tinggi
+CP028,Enting-Enting Wijen,"Kacang, Biji, Bean",565,18.2,38.4,36.8,1.9,251.0,502.0,10.9,0.0,0.0,2,Lemak_Tinggi
+CP029,Geplak,"Kacang, Biji, Bean",350,1.4,14.4,53.6,1.8,151.0,43.0,2.1,0.0,0.0,1,Karbo_Kompleks
+CP030,Geplak Jahe,"Kacang, Biji, Bean",462,3.1,24.4,57.7,3.3,212.0,161.0,6.6,0.0,0.0,2,Lemak_Tinggi
+CP031,Kacang Atom,"Kacang, Biji, Bean",533,27.8,38.1,28.8,2.5,87.0,423.0,3.0,0.0,0.0,2,Lemak_Tinggi
+CP032,Kacang Goyang,"Kacang, Biji, Bean",516,14.7,31.1,44.4,0.0,34.0,230.0,0.7,2.0,0.0,2,Lemak_Tinggi
+CP033,Kacang Negara,"Kacang, Biji, Bean",480,18.4,19.1,58.5,11.7,34.0,404.0,10.3,1010.0,0.0,1,Karbo_Kompleks
+CP034,Kacang Sukro,"Kacang, Biji, Bean",484,8.8,26.1,57.7,1.8,49.0,194.0,2.5,0.0,0.0,2,Lemak_Tinggi
+CP035,Kacang Tanah Sari,"Kacang, Biji, Bean",561,25.5,43.8,26.0,2.2,50.0,324.0,3.1,0.0,0.0,2,Lemak_Tinggi
+CP036,Keju Kacang Tanah  (Peanut Butter),"Kacang, Biji, Bean",590,27.0,49.0,20.9,1.6,60.0,360.0,2.0,355.0,0.0,2,Lemak_Tinggi
+CP037,Kembang Tahu,"Kacang, Biji, Bean",380,48.9,13.8,23.3,0.0,378.0,781.0,2.1,55.0,0.0,3,Rendah_Kalori
+CP038,Kembang Tahu Rebus,"Kacang, Biji, Bean",90,10.7,4.0,4.7,0.0,85.0,0.0,0.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP039,Keripik Oncom,"Kacang, Biji, Bean",598,8.3,43.8,42.6,3.3,85.0,153.0,27.0,0.0,0.0,2,Lemak_Tinggi
+CP040,Keripik Tempe,"Kacang, Biji, Bean",581,12.1,40.6,41.7,2.2,237.0,116.0,6.9,0.0,0.0,2,Lemak_Tinggi
+CP041,Keripik Tempe Abadi  Besar,"Kacang, Biji, Bean",556,15.8,37.1,39.8,3.5,112.0,215.0,5.4,0.0,0.0,2,Lemak_Tinggi
+CP042,Keripik Tempe Abadi  Murni,"Kacang, Biji, Bean",542,40.3,42.4,11.6,2.2,175.0,529.0,5.2,0.0,0.0,2,Lemak_Tinggi
+CP043,Keripik Tempe Abadi  Sedang,"Kacang, Biji, Bean",510,12.3,27.9,52.4,3.6,122.0,211.0,8.4,0.0,0.0,2,Lemak_Tinggi
+CP044,Keripik Tempe Abadi  Telur,"Kacang, Biji, Bean",529,20.8,31.7,40.2,3.0,124.0,222.0,5.4,0.0,0.0,2,Lemak_Tinggi
+CP045,Kerupik Tempe Abadi  Prima,"Kacang, Biji, Bean",540,16.7,33.9,42.0,2.2,92.0,184.0,3.2,0.0,0.0,2,Lemak_Tinggi
+CP046,Kwaci,"Kacang, Biji, Bean",515,30.6,42.1,13.8,13.6,54.0,312.0,6.2,124.0,0.0,2,Lemak_Tinggi
+CP047,Melinjo Emping Tebal  Goreng Manis,"Kacang, Biji, Bean",439,10.0,16.4,65.7,0.0,66.0,225.0,0.0,0.0,0.0,1,Karbo_Kompleks
+CP048,"Melinjo Emping Tebal,  Goreng Asin","Kacang, Biji, Bean",431,11.1,16.2,63.0,0.0,77.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+CP049,Melinjo Emping Tipis  Goreng,"Kacang, Biji, Bean",485,11.5,24.5,59.1,0.0,85.0,218.0,0.0,0.0,0.0,2,Lemak_Tinggi
+CP050,Moon Tahu,"Kacang, Biji, Bean",128,8.0,10.0,1.3,0.2,205.0,92.0,2.5,393.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP051,Oncom,"Kacang, Biji, Bean",187,13.0,6.0,22.6,0.0,96.0,115.0,27.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP052,Oncom Ampas Kacang  Hijau,"Kacang, Biji, Bean",376,14.9,6.0,65.7,12.3,199.0,110.0,10.9,0.0,0.0,1,Karbo_Kompleks
+CP053,Oncom Kacang Hijau +  Singkong,"Kacang, Biji, Bean",351,11.0,5.3,65.9,9.0,164.0,113.0,7.8,0.0,0.0,1,Karbo_Kompleks
+CP054,Oncom Kacang Tanah  Pepes,"Kacang, Biji, Bean",132,12.7,3.8,13.7,3.1,133.0,355.0,34.4,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP055,Rempeyek Kacang  Tanah,"Kacang, Biji, Bean",513,17.5,32.5,44.3,1.7,65.0,202.0,2.6,0.0,0.0,2,Lemak_Tinggi
+CP056,Rempeyek Kacang Tolo,"Kacang, Biji, Bean",451,11.2,20.2,59.7,1.8,156.0,221.0,4.6,0.0,0.0,2,Lemak_Tinggi
+CP057,Rempeyek Kacang Uci,"Kacang, Biji, Bean",497,17.0,27.6,50.8,2.4,166.0,89.0,6.7,0.0,0.0,2,Lemak_Tinggi
+CP058,Sayur Lebui,"Kacang, Biji, Bean",64,2.1,0.6,12.5,5.7,21.0,2.0,1.0,124.0,0.0,3,Rendah_Kalori
+CP059,"Saridele, Bubuk","Kacang, Biji, Bean",344,30.0,20.0,43.0,6.2,450.0,500.0,4.0,56.0,10.0,2,Lemak_Tinggi
+CP060,Susu Kedelai,"Kacang, Biji, Bean",41,3.5,2.5,5.0,0.2,50.0,45.0,0.7,128.0,2.0,3,Rendah_Kalori
+CP061,"Tahu, Mentah","Kacang, Biji, Bean",80,10.9,4.7,0.8,0.1,223.0,183.0,3.4,2.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP062,Tahu Goreng,"Kacang, Biji, Bean",115,9.7,8.5,2.5,0.1,229.0,200.0,4.1,7.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP063,Tahu Telur,"Kacang, Biji, Bean",328,12.6,19.9,24.6,0.4,492.0,238.0,4.9,755.0,0.0,3,Rendah_Kalori
+CP064,Takwa,"Kacang, Biji, Bean",148,13.8,8.5,4.0,0.0,140.0,214.0,8.5,3.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP065,Tauco,"Kacang, Biji, Bean",184,11.4,5.5,22.2,1.9,72.0,463.0,6.0,1766.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP066,"Tauco Cap Beruang,  Cake","Kacang, Biji, Bean",347,7.4,5.2,67.6,3.2,63.0,106.0,6.2,0.0,0.0,1,Karbo_Kompleks
+CP067,"Tauco Cap Das, Cake","Kacang, Biji, Bean",358,7.5,4.3,70.4,3.1,94.0,94.0,4.5,0.0,0.0,1,Karbo_Kompleks
+CP068,Tauco Cap Meong,"Kacang, Biji, Bean",159,7.4,4.9,21.3,1.6,183.0,84.0,10.1,1547.0,0.0,3,Rendah_Kalori
+CP069,Tauji Cap Singa,"Kacang, Biji, Bean",277,9.1,4.7,49.6,1.2,68.0,106.0,3.0,0.0,0.0,1,Karbo_Kompleks
+CP070,Tempe Bongkrek,"Kacang, Biji, Bean",119,4.4,3.5,18.3,0.0,27.0,100.0,2.6,0.0,0.0,3,Rendah_Kalori
+CP071,Tempe Gembus P3G,"Kacang, Biji, Bean",73,5.7,1.3,10.3,4.2,204.0,80.0,1.5,0.0,0.0,3,Rendah_Kalori
+CP072,Tempe Gembus Yogya,"Kacang, Biji, Bean",76,6.8,0.7,10.6,5.3,76.0,142.0,16.5,0.0,0.0,3,Rendah_Kalori
+CP073,Tempe Kacang Babi,"Kacang, Biji, Bean",139,12.5,0.8,21.9,1.8,68.0,182.0,2.6,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP074,Tempe Kacang  Belimbing,"Kacang, Biji, Bean",212,17.5,10.0,12.9,2.9,186.0,160.0,2.2,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP075,Tempe Kedelai +  Jagung,"Kacang, Biji, Bean",143,12.0,5.5,11.4,1.9,155.0,156.0,6.8,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP076,"Tempe Kedelai Murni,  Goreng","Kacang, Biji, Bean",350,24.5,26.6,10.4,4.2,202.0,296.0,4.9,22.0,0.0,2,Lemak_Tinggi
+CP077,"Tempe Kedelai Murni,  Mentah","Kacang, Biji, Bean",201,20.8,8.8,13.5,1.4,155.0,326.0,4.0,9.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP078,Tempe Koro Benguk,"Kacang, Biji, Bean",141,10.2,1.3,23.2,0.0,42.0,15.0,2.6,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP079,Tempe Lamtoro,"Kacang, Biji, Bean",128,10.7,0.5,21.3,7.1,203.0,108.0,0.6,0.0,2.0,0,Tinggi_Protein_Rendah_Lemak
+CP080,"Tempe Lamtoro Var,  Gung Dengan Kulit","Kacang, Biji, Bean",146,11.7,2.3,19.6,7.6,128.0,41.0,6.8,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP081,"Tempe Lamtoro Var,  Gung Tanpa Kulit","Kacang, Biji, Bean",131,18.0,0.8,13.0,1.3,95.0,154.0,12.4,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP082,Tempe Pasar,"Kacang, Biji, Bean",150,14.0,7.7,9.1,1.4,517.0,202.0,1.5,7.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+CP083,Tempe Pasar Goreng,"Kacang, Biji, Bean",336,20.0,28.0,7.8,3.4,156.0,350.0,3.0,20.0,0.0,2,Lemak_Tinggi
+CP084,Tepung Hunkwe (Pati  Kacang Ijo),"Kacang, Biji, Bean",364,4.5,1.0,83.5,16.1,50.0,100.0,1.0,15.0,0.0,1,Karbo_Kompleks
+CP085,Tepung Jalejo,"Kacang, Biji, Bean",388,19.0,7.5,61.2,5.8,101.0,663.0,2.0,3.0,9.0,0,Tinggi_Protein_Rendah_Lemak
+CP086,Tepung Kacang Kedelai,"Kacang, Biji, Bean",347,35.9,20.6,29.9,5.8,195.0,544.0,8.4,52.0,0.0,2,Lemak_Tinggi
+DR001,"Akar Tonjong, Segar",Sayuran,45,1.1,0.4,10.8,1.2,72.0,125.0,1.3,96.0,2.0,3,Rendah_Kalori
+DR002,"Ale,Toge, Segar",Sayuran,37,4.4,0.5,3.8,1.7,50.0,248.0,2.0,2.0,46.0,3,Rendah_Kalori
+DR003,"Andaliman, Segar",Sayuran,99,4.6,1.0,18.0,8.5,383.0,107.0,2.9,0.0,15.0,3,Rendah_Kalori
+DR004,"Andewi, Segar",Sayuran,226,1.6,0.2,5.3,4.1,33.0,66.0,1.0,29.0,10.0,3,Rendah_Kalori
+DR005,"Bakung, Segar",Sayuran,27,2.0,0.2,4.2,3.8,19.0,20.0,0.5,37.0,42.0,3,Rendah_Kalori
+DR006,"Baligo, Segar",Sayuran,15,0.4,0.2,3.0,0.4,19.0,19.0,0.4,2.0,13.0,3,Rendah_Kalori
+DR007,"Bawang Bombay,  Segar",Sayuran,43,1.4,0.2,10.3,2.0,32.0,44.0,0.5,12.0,9.0,3,Rendah_Kalori
+DR008,"Bayam, Segar",Sayuran,16,0.9,0.4,2.9,0.7,166.0,76.0,3.5,16.0,41.0,3,Rendah_Kalori
+DR009,"Bayam Merah, Segar",Sayuran,41,2.2,0.8,6.3,2.2,520.0,80.0,7.0,20.0,62.0,3,Rendah_Kalori
+DR010,"Bit, Segar",Sayuran,41,1.6,0.1,9.6,2.6,27.0,43.0,1.0,29.0,10.0,3,Rendah_Kalori
+DR011,Buah Kelor,Sayuran,38,1.5,0.2,7.5,3.2,30.0,54.0,0.0,48.0,25.0,3,Rendah_Kalori
+DR012,Buah Merah,Sayuran,87,2.6,2.7,13.1,4.0,30.0,1.0,1.1,110.0,15.0,3,Rendah_Kalori
+DR013,"Buncis, Segar",Sayuran,34,2.4,0.3,7.2,1.9,101.0,42.0,0.7,8.0,11.0,3,Rendah_Kalori
+DR014,"Bunga Pepaya, Segar",Sayuran,45,2.6,0.3,8.1,1.6,290.0,113.0,4.2,2.0,23.0,3,Rendah_Kalori
+DR015,"Bunga Turi, Segar",Sayuran,42,2.0,1.1,6.1,3.3,28.0,23.0,0.8,29.0,1.0,3,Rendah_Kalori
+DR016,"Caisin, Segar",Sayuran,20,1.7,0.4,3.4,1.2,123.0,40.0,1.9,18.0,3.0,3,Rendah_Kalori
+DR017,"Daun Bangun-Bangun,  Segar",Sayuran,27,1.3,0.6,4.0,1.0,279.0,40.0,13.6,4.0,5.0,3,Rendah_Kalori
+DR018,"Daun Bawang Merah,  Segar",Sayuran,41,2.0,0.3,7.8,2.1,60.0,40.0,2.3,30.0,11.0,3,Rendah_Kalori
+DR019,"Daun Bebuas, Segar",Sayuran,41,2.7,1.0,7.3,2.1,29.0,245.0,1.5,0.0,3.0,3,Rendah_Kalori
+DR020,"Daun Belem, Segar",Sayuran,50,4.4,1.4,7.8,1.9,698.0,151.0,7.5,0.0,21.0,3,Rendah_Kalori
+DR021,"Daun Bluntas, Segar",Sayuran,44,1.8,0.5,9.4,0.0,256.0,49.0,5.6,0.0,30.0,3,Rendah_Kalori
+DR022,"Daun Gandaria, Segar",Sayuran,63,3.1,0.3,14.0,2.1,40.0,45.0,4.7,3.0,61.0,3,Rendah_Kalori
+DR023,"Daun Gedi Besar, Segar",Sayuran,58,2.9,0.7,10.0,3.3,440.0,100.0,1.9,30.0,11.0,3,Rendah_Kalori
+DR024,"Daun Gedi Kecil, Segar",Sayuran,61,3.2,0.7,10.4,3.4,420.0,70.0,1.7,20.0,11.0,3,Rendah_Kalori
+DR025,"Daun Gelang, Segar",Sayuran,30,1.3,0.7,5.8,1.3,350.0,210.0,11.9,5.0,1.0,3,Rendah_Kalori
+DR026,"Daun Gunda Bali,  Segar",Sayuran,50,4.6,0.9,7.0,1.4,167.0,62.0,0.5,0.0,20.0,3,Rendah_Kalori
+DR027,"Daun Gunda Serang,  Segar",Sayuran,62,4.2,0.9,9.2,1.3,171.0,64.0,0.6,0.0,20.0,3,Rendah_Kalori
+DR028,"Daun Jambu Mete  Muda, Segar",Sayuran,78,4.6,0.5,16.2,3.0,33.0,64.0,8.9,14.0,65.0,3,Rendah_Kalori
+DR029,"Daun Jampang, Segar",Sayuran,34,3.8,0.5,5.3,1.4,21.0,245.0,1.0,0.0,3.0,3,Rendah_Kalori
+DR030,"Daun Jawaw Seluang,  Segar",Sayuran,93,5.0,1.3,15.3,3.9,146.0,103.0,5.3,2.0,9.0,3,Rendah_Kalori
+DR031,"Daun Jonghe, Segar",Sayuran,27,2.1,0.7,4.4,2.0,253.0,192.0,9.5,0.0,1.0,3,Rendah_Kalori
+DR032,"Daun Kacang Ma,  Segar",Sayuran,36,2.9,0.6,6.8,1.8,64.0,220.0,2.2,7.0,4.0,3,Rendah_Kalori
+DR033,"Daun Kacang Panjang,  Segar",Sayuran,30,3.1,0.3,5.8,1.7,200.0,66.0,4.5,7.0,30.0,3,Rendah_Kalori
+DR034,"Daun Kasbi/Singkong  Karet, Segar",Sayuran,92,4.0,3.6,10.9,5.8,140.0,70.0,1.6,70.0,74.0,3,Rendah_Kalori
+DR035,"Daun Katuk, Segar",Sayuran,59,6.4,1.0,9.9,1.5,233.0,98.0,3.5,21.0,0.0,3,Rendah_Kalori
+DR036,"Daun Kecipir, Segar",Sayuran,52,5.0,0.5,8.5,0.0,134.0,81.0,6.2,6.0,29.0,3,Rendah_Kalori
+DR037,"Daun Kedondong,  Segar",Sayuran,59,3.5,0.3,13.4,10.7,540.0,82.0,6.2,12.0,29.0,3,Rendah_Kalori
+DR038,"Daun Kelor, Segar",Sayuran,92,5.1,1.6,14.3,8.2,1077.0,76.0,6.0,61.0,22.0,3,Rendah_Kalori
+DR039,"Daun Kemang, Segar",Sayuran,43,5.5,0.3,7.5,8.4,35.0,106.0,1.0,10.0,30.0,3,Rendah_Kalori
+DR040,"Daun Kenikir, Segar",Sayuran,45,3.7,0.5,6.6,5.8,328.0,65.0,2.7,6.0,0.0,3,Rendah_Kalori
+DR041,"Daun Kesum, Segar",Sayuran,48,4.5,0.8,9.1,1.6,125.0,142.0,2.6,11.0,4.0,3,Rendah_Kalori
+DR042,"Daun Kol Sawi, Segar",Sayuran,22,2.1,0.5,3.6,0.9,200.0,92.0,3.2,19.0,3.0,3,Rendah_Kalori
+DR043,"Daun Koro, Segar",Sayuran,23,3.0,0.3,3.7,0.0,134.0,81.0,6.2,4.0,29.0,3,Rendah_Kalori
+DR044,"Daun Kubis, Segar",Sayuran,51,2.5,1.1,8.0,3.4,100.0,50.0,3.4,50.0,16.0,3,Rendah_Kalori
+DR045,"Daun Kumak, Segar",Sayuran,14,1.3,0.3,2.3,0.9,90.0,59.0,2.7,2.0,3.0,3,Rendah_Kalori
+DR046,"Daun Labu Siam, Segar",Sayuran,34,4.0,0.4,4.7,3.5,58.0,70.0,2.5,16.0,16.0,3,Rendah_Kalori
+DR047,"Daun Labu  Waluh/Kuning, Segar",Sayuran,34,3.6,0.6,4.5,2.9,138.0,99.0,3.7,16.0,36.0,3,Rendah_Kalori
+DR048,"Daun Lamtoro, Segar",Sayuran,87,8.3,1.8,14.4,3.3,725.0,174.0,3.9,10.0,32.0,0,Tinggi_Protein_Rendah_Lemak
+DR049,"Daun Leilem, Segar",Sayuran,76,2.8,0.2,15.8,3.1,296.0,22.0,3.4,6.0,22.0,3,Rendah_Kalori
+DR050,"Daun Leunca, Segar",Sayuran,49,4.7,0.5,8.1,0.0,210.0,80.0,6.1,0.0,40.0,3,Rendah_Kalori
+DR051,"Daun Lobak, Segar",Sayuran,30,2.3,0.4,5.8,3.2,140.0,33.0,3.7,16.0,0.0,3,Rendah_Kalori
+DR052,"Daun Lompong Talas,  Segar",Sayuran,44,3.0,0.8,7.4,3.3,76.0,59.0,1.0,3.0,31.0,3,Rendah_Kalori
+DR053,"Daun Mangkokan,  Segar",Sayuran,57,3.7,0.3,11.8,0.0,474.0,49.0,4.0,0.0,83.0,3,Rendah_Kalori
+DR054,"Daun Matel Ambon,  Segar",Sayuran,71,6.8,1.6,11.5,4.6,93.0,95.0,10.2,0.0,26.0,3,Rendah_Kalori
+DR055,"Daun Melinjo, Segar",Sayuran,104,5.0,1.3,21.3,10.3,219.0,82.0,4.2,12.0,0.0,3,Rendah_Kalori
+DR056,"Daun Mengkudu,  Segar",Sayuran,65,4.0,1.7,11.4,3.9,296.0,40.0,6.9,0.0,35.0,3,Rendah_Kalori
+DR057,"Daun Ndusuk, Segar",Sayuran,166,1.7,0.5,38.8,10.7,40.0,20.0,1.8,40.0,30.0,1,Karbo_Kompleks
+DR058,"Daun Oyong, Segar",Sayuran,22,1.0,0.1,5.3,2.0,21.0,44.0,2.0,40.0,0.0,3,Rendah_Kalori
+DR059,"Daun Pakis, Segar",Sayuran,39,4.5,0.4,6.9,2.0,136.0,159.0,2.3,20.0,3.0,3,Rendah_Kalori
+DR060,"Daun Pakis Longgiho,  Segar",Sayuran,54,2.2,3.6,3.1,2.1,40.0,80.0,0.7,70.0,8.0,3,Rendah_Kalori
+DR061,"Daun Pakis  Wambateu, Segar",Sayuran,53,3.4,1.2,7.2,4.8,30.0,100.0,0.3,20.0,6.0,3,Rendah_Kalori
+DR062,"Daun Paku, Segar",Sayuran,29,3.4,0.1,6.5,4.3,13.0,88.0,1.3,19.0,10.0,3,Rendah_Kalori
+DR063,"Daun Pangi,Segar",Sayuran,104,3.9,0.6,17.9,8.3,256.0,22.0,1.8,4.0,23.0,3,Rendah_Kalori
+DR064,"Daun Pare, Segar",Sayuran,49,2.7,1.0,8.4,3.0,217.0,70.0,3.3,7.0,7.0,3,Rendah_Kalori
+DR065,"Daun Pepaya, Segar",Sayuran,87,8.0,2.0,11.9,1.5,353.0,63.0,0.8,4.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+DR066,"Daun Pohpohan, Segar",Sayuran,37,2.5,0.8,6.9,2.6,744.0,80.0,5.9,0.0,5.0,3,Rendah_Kalori
+DR067,"Daun Selasih, Segar",Sayuran,62,4.0,0.5,10.5,5.3,122.0,16.0,13.9,3.0,24.0,3,Rendah_Kalori
+DR068,"Daun Semanggi, Segar",Sayuran,45,4.4,0.5,8.5,1.9,98.0,90.0,7.0,64.0,6.0,3,Rendah_Kalori
+DR069,"Daun Simpur, Segar",Sayuran,53,3.2,2.5,7.6,1.6,228.0,194.0,3.5,0.0,5.0,3,Rendah_Kalori
+DR070,"Daun Singkil, Segar",Sayuran,68,2.0,1.0,15.2,3.3,178.0,86.0,2.1,0.0,3.0,3,Rendah_Kalori
+DR071,"Daun Singkong, Segar",Sayuran,50,6.2,1.1,7.1,2.4,166.0,99.0,1.3,17.0,0.0,3,Rendah_Kalori
+DR072,"Daun Singkong  Ambon, Segar",Sayuran,144,12.7,1.2,25.2,10.2,165.0,54.0,3.9,44.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+DR073,"Daun Singkong  Ampenan, Segar",Sayuran,50,6.2,1.1,7.1,2.4,352.0,123.0,2.7,49.0,0.0,3,Rendah_Kalori
+DR074,"Daun Singkong  Kopang, Segar",Sayuran,74,6.3,0.7,10.7,4.6,142.0,115.0,1.7,32.0,0.0,3,Rendah_Kalori
+DR075,"Daun Sintrong, Segar",Sayuran,36,2.6,0.9,6.1,1.7,398.0,95.0,9.3,64.0,3.0,3,Rendah_Kalori
+DR076,"Daun Talas, Segar",Sayuran,59,3.0,0.4,13.5,3.0,236.0,50.0,2.4,4.0,24.0,3,Rendah_Kalori
+DR077,"Daun Tespong, Segar",Sayuran,70,2.9,0.3,13.9,2.3,155.0,65.0,2.5,72.0,21.0,3,Rendah_Kalori
+DR078,"Daun Ubi Kuning,  Segar",Sayuran,62,3.7,0.3,11.1,6.4,170.0,40.0,0.6,10.0,4.0,3,Rendah_Kalori
+DR079,"Daun Ubi Merah, Segar",Sayuran,48,3.0,0.3,10.8,1.4,80.0,81.0,6.4,33.0,27.0,3,Rendah_Kalori
+DR080,"Daun Ubi Putih, Segar",Sayuran,46,2.8,0.2,8.2,4.8,120.0,50.0,0.8,10.0,8.0,3,Rendah_Kalori
+DR081,"Daun Ubi Tinta, Segar",Sayuran,55,1.7,0.1,11.9,7.6,120.0,40.0,0.6,10.0,7.0,3,Rendah_Kalori
+DR082,"Eceng, Segar",Sayuran,19,1.0,0.2,3.8,1.8,80.0,45.0,3.7,45.0,50.0,3,Rendah_Kalori
+DR083,"Gambas (Oyong),  Segar",Sayuran,19,0.8,0.2,4.1,1.3,19.0,33.0,0.9,23.0,8.0,3,Rendah_Kalori
+DR084,"Genjer, Segar",Sayuran,35,1.7,0.2,7.7,2.5,62.0,33.0,2.1,64.0,54.0,3,Rendah_Kalori
+DR085,"Jagung Muda / Semi,  Segar",Sayuran,35,2.2,0.1,7.4,1.9,7.0,100.0,0.5,353.0,8.0,3,Rendah_Kalori
+DR086,Jamur Encik,Sayuran,296,9.4,1.1,62.0,0.0,5.0,277.0,5.3,2.0,0.0,1,Karbo_Kompleks
+DR087,"Jamur Kuping, Kering",Sayuran,294,16.0,0.9,64.6,46.5,51.0,223.0,6.7,174.0,0.0,1,Karbo_Kompleks
+DR088,"Jamur Kuping, Segar",Sayuran,21,3.8,0.6,0.9,5.1,3.0,94.0,1.7,17.0,5.0,3,Rendah_Kalori
+DR089,"Jamur Merang, Segar",Sayuran,30,3.5,0.2,4.0,2.4,14.0,117.0,1.0,6.0,0.0,3,Rendah_Kalori
+DR090,"Jamur Tiram, Segar",Sayuran,30,1.9,0.1,5.5,3.6,9.0,83.0,0.7,22.0,0.0,3,Rendah_Kalori
+DR091,Jamur Sagu,Sayuran,48,1.9,3.2,2.8,1.0,10.0,90.0,0.6,100.0,0.0,3,Rendah_Kalori
+DR092,"Jantung Pisang, Segar",Sayuran,32,1.2,0.3,7.1,3.2,30.0,50.0,0.1,3.0,10.0,3,Rendah_Kalori
+DR093,"Jengkol, Segar",Sayuran,192,5.4,0.3,40.7,1.5,4.0,150.0,0.7,60.0,31.0,1,Karbo_Kompleks
+DR094,"Jotang, Segar",Sayuran,34,1.9,0.3,7.1,3.5,162.0,41.0,4.0,59.0,20.0,3,Rendah_Kalori
+DR095,"Kabau, Segar",Sayuran,130,6.7,0.3,25.2,2.9,4.0,204.0,0.5,1.0,16.0,1,Karbo_Kompleks
+DR096,"Kacang Mekah,  Polong, Segar",Sayuran,22,1.1,1.0,3.4,1.1,63.0,296.0,1.0,2.0,0.0,3,Rendah_Kalori
+DR097,"Kacang Panjang, Segar",Sayuran,31,2.3,0.1,5.3,2.7,60.0,64.0,0.6,30.0,46.0,3,Rendah_Kalori
+DR098,Kacang Ranti Polong,Sayuran,37,3.1,0.2,7.9,2.5,103.0,126.0,0.8,0.0,6.0,3,Rendah_Kalori
+DR099,"Kalakai, Segar",Sayuran,38,2.4,0.2,6.6,5.8,18.0,90.0,1.1,7.0,8.0,3,Rendah_Kalori
+DR100,"Kangkung, Segar",Sayuran,28,3.4,0.7,3.9,2.0,67.0,54.0,2.3,65.0,17.0,3,Rendah_Kalori
+DR101,Kangkung Tondano,Sayuran,43,1.8,0.2,8.4,4.3,72.0,9.0,0.7,30.0,23.0,3,Rendah_Kalori
+DR102,"Kapri Muda, Segar",Sayuran,45,3.3,0.2,9.0,1.8,51.0,85.0,1.0,2.0,49.0,3,Rendah_Kalori
+DR103,Karawila,Sayuran,25,2.3,0.2,3.5,2.1,25.0,67.0,0.3,8.0,39.0,3,Rendah_Kalori
+DR104,"Kecipir Muda, Segar",Sayuran,32,2.9,0.2,5.8,5.5,63.0,37.0,0.3,3.0,19.0,3,Rendah_Kalori
+DR105,"Kecombrang, Segar",Sayuran,34,0.9,1.0,6.7,2.6,60.0,16.0,1.0,47.0,0.0,3,Rendah_Kalori
+DR106,"Kelawi,Kluwih, Segar",Sayuran,118,1.5,0.3,27.2,5.0,28.0,32.0,0.9,2.0,19.0,1,Karbo_Kompleks
+DR107,"Kembang Turi, Segar",Sayuran,51,1.8,0.6,9.6,5.0,23.0,29.0,0.9,22.0,41.0,3,Rendah_Kalori
+DR108,"Kerokot, Segar",Sayuran,26,1.7,0.4,3.8,1.0,103.0,39.0,3.6,4.0,25.0,3,Rendah_Kalori
+DR109,"Ketimun, Segar",Sayuran,8,0.2,0.2,1.4,0.3,29.0,95.0,0.8,2.0,1.0,3,Rendah_Kalori
+DR110,"Ketimun Krai, Segar",Sayuran,10,0.5,0.2,2.0,0.6,20.0,98.0,1.0,10.0,3.0,3,Rendah_Kalori
+DR111,"Ketimun Madura,  Segar",Sayuran,9,0.5,0.1,1.9,0.7,15.0,102.0,0.6,2.0,5.0,3,Rendah_Kalori
+DR112,"Komak, Segar",Sayuran,99,3.3,0.1,21.2,10.3,50.0,99.0,13.1,15.0,0.0,3,Rendah_Kalori
+DR113,Kool Kembang,Sayuran,25,2.4,0.2,4.9,1.6,22.0,72.0,1.1,47.0,69.0,3,Rendah_Kalori
+DR114,"Kool Merah,Kool Putih",Sayuran,29,1.4,0.2,5.3,1.9,46.0,31.0,0.5,28.0,50.0,3,Rendah_Kalori
+DR115,"Koro Kerupuk, Polong",Sayuran,128,8.3,0.7,22.1,0.0,17.0,12.0,2.7,0.0,31.0,0,Tinggi_Protein_Rendah_Lemak
+DR116,"Koro Wedus, Polong",Sayuran,46,3.0,0.3,7.9,3.3,56.0,47.0,1.1,2.0,17.0,3,Rendah_Kalori
+DR117,"Kucai, Segar",Sayuran,45,2.2,0.3,10.3,4.8,52.0,50.0,1.1,21.0,17.0,3,Rendah_Kalori
+DR118,"Kucai Muda (Lokio),  Segar",Sayuran,42,3.8,0.6,7.8,4.9,76.0,91.0,2.5,22.0,59.0,3,Rendah_Kalori
+DR119,Kulit Melinjo,Sayuran,111,4.5,1.1,20.7,5.0,117.0,179.0,2.6,0.0,7.0,3,Rendah_Kalori
+DR120,"Kundur, Segar",Sayuran,22,0.4,0.2,4.7,1.3,3.0,54.0,0.5,2.0,1.0,3,Rendah_Kalori
+DR121,"Labu Air, Segar",Sayuran,19,0.6,0.2,3.8,0.6,12.0,18.0,0.6,2.0,10.0,3,Rendah_Kalori
+DR122,"Labu Kuning, Segar",Sayuran,51,1.7,0.5,10.0,2.7,40.0,180.0,0.7,280.0,2.0,3,Rendah_Kalori
+DR123,"Labu Siam, Segar",Sayuran,30,0.6,0.1,6.7,6.2,14.0,25.0,0.5,3.0,18.0,3,Rendah_Kalori
+DR124,"Labu Waluh, Segar",Sayuran,32,1.1,0.1,6.6,0.5,45.0,64.0,1.4,1.0,52.0,3,Rendah_Kalori
+DR125,"Lantar, Segar",Sayuran,34,2.2,0.3,5.5,2.9,10.0,58.0,0.4,3.0,4.0,3,Rendah_Kalori
+DR126,"Lobak, Segar",Sayuran,21,0.9,0.1,4.2,1.4,35.0,26.0,0.6,49.0,32.0,3,Rendah_Kalori
+DR127,"Lumai/Leunca, Segar",Sayuran,38,1.1,0.3,7.6,2.0,7.0,55.0,1.0,2.0,17.0,3,Rendah_Kalori
+DR128,"Melinjo, Segar",Sayuran,66,5.0,0.7,13.3,0.0,163.0,75.0,2.8,0.0,0.0,3,Rendah_Kalori
+DR129,Mostarda Metan -Sawi,Sayuran,33,2.3,0.5,4.7,1.8,60.0,30.0,3.1,20.0,12.0,3,Rendah_Kalori
+DR130,"Nangka Muda, Segar",Sayuran,57,2.0,0.4,11.3,8.3,45.0,29.0,0.5,1.0,9.0,3,Rendah_Kalori
+DR131,"Paria Putih, Segar",Sayuran,19,1.0,0.4,3.6,1.3,31.0,65.0,0.9,5.0,58.0,3,Rendah_Kalori
+DR132,"Pepare Ular, Segar",Sayuran,19,0.6,0.1,3.9,1.0,20.0,10.0,0.4,130.0,9.0,3,Rendah_Kalori
+DR133,"Pepaya Muda, Segar",Sayuran,29,2.1,0.1,4.9,2.1,50.0,16.0,0.4,22.0,19.0,3,Rendah_Kalori
+DR134,"Petai, Segar",Sayuran,92,5.4,1.1,15.2,2.0,14.0,170.0,1.6,55.0,34.0,3,Rendah_Kalori
+DR135,"Peterseli, Segar",Sayuran,53,3.7,1.0,9.0,0.0,193.0,84.0,4.3,18.0,0.0,3,Rendah_Kalori
+DR136,"Pucuk Lumai/Daun  Leunca, Segar",Sayuran,33,4.5,0.4,2.8,0.0,13.0,75.0,2.9,2.0,41.0,3,Rendah_Kalori
+DR137,"Putri Malu, Segar",Sayuran,76,3.6,0.3,14.6,7.1,119.0,84.0,3.3,1.0,6.0,3,Rendah_Kalori
+DR138,"Rebung, Segar",Sayuran,25,0.8,0.1,5.3,9.7,3.0,5.0,0.5,3.0,0.0,3,Rendah_Kalori
+DR139,"Rimbang, Segar",Sayuran,75,1.6,0.6,15.8,10.0,55.0,97.0,0.6,20.0,38.0,3,Rendah_Kalori
+DR140,Rumput Laut,Sayuran,41,1.4,0.3,8.1,2.2,80.0,20.0,1.6,250.0,7.0,3,Rendah_Kalori
+DR141,"Sawi, Segar",Sayuran,28,2.3,0.3,4.0,2.5,220.0,38.0,2.9,22.0,0.0,3,Rendah_Kalori
+DR142,"Sawi Putih / Pecai,  Segar",Sayuran,9,1.0,0.1,1.7,0.8,56.0,42.0,1.1,5.0,3.0,3,Rendah_Kalori
+DR143,"Sawi Taiwan, Segar",Sayuran,30,1.9,0.5,4.4,2.7,100.0,58.0,1.6,27.0,33.0,3,Rendah_Kalori
+DR144,"Sawi Tanah, Segar",Sayuran,19,1.3,0.2,2.9,2.2,92.0,45.0,1.2,17.0,36.0,3,Rendah_Kalori
+DR145,"Selada, Segar",Sayuran,18,1.2,0.2,2.9,1.8,22.0,25.0,0.5,19.0,8.0,3,Rendah_Kalori
+DR146,"Selada Air, Segar",Sayuran,17,3.1,0.2,2.2,0.7,95.0,152.0,2.4,65.0,56.0,3,Rendah_Kalori
+DR147,"Seledri, Segar",Sayuran,23,1.0,0.1,4.6,2.0,50.0,40.0,1.0,64.0,11.0,3,Rendah_Kalori
+DR148,"Taoge, Segar",Sayuran,34,3.7,1.2,4.3,1.1,166.0,74.0,0.8,19.0,5.0,3,Rendah_Kalori
+DR149,"Taoge Kacang Kedelai,  Segar",Sayuran,76,9.0,2.6,6.4,0.7,50.0,65.0,1.0,5.0,15.0,0,Tinggi_Protein_Rendah_Lemak
+DR150,"Taoge Kacang  Tunggak, Segar",Sayuran,40,5.0,0.2,5.8,2.6,57.0,88.0,1.0,2.0,15.0,3,Rendah_Kalori
+DR151,"Tebu Terubuk (Lilin),  Segar",Sayuran,30,4.6,0.4,3.0,0.8,40.0,80.0,2.0,699.0,50.0,3,Rendah_Kalori
+DR152,"Tekokak, Segar",Sayuran,34,2.0,0.1,7.9,4.9,50.0,30.0,2.0,3.0,8.0,3,Rendah_Kalori
+DR153,"Tekokak, Kering",Sayuran,302,8.3,1.7,72.6,21.2,370.0,180.0,22.2,9.0,0.0,1,Karbo_Kompleks
+DR154,"Terong, Segar",Sayuran,28,1.1,0.2,5.5,2.1,15.0,37.0,0.4,9.0,5.0,3,Rendah_Kalori
+DR155,"Terong Asam, Segar",Sayuran,37,2.0,0.4,6.3,3.2,13.0,59.0,1.5,3.0,4.0,3,Rendah_Kalori
+DR156,"Terung Belanda, Segar",Sayuran,52,2.1,1.1,8.6,1.4,16.0,40.0,1.1,0.0,12.0,3,Rendah_Kalori
+DR157,"Terung Bengkulu,  Segar",Sayuran,52,1.1,0.4,11.2,3.2,19.0,39.0,1.1,14.0,6.0,3,Rendah_Kalori
+DR158,"Terong Hintalo, Segar",Sayuran,45,1.9,0.8,7.5,5.1,19.0,268.0,1.0,167.0,4.0,3,Rendah_Kalori
+DR159,Terung Panjang,Sayuran,25,2.1,0.1,5.3,0.5,38.0,24.0,0.7,9.0,8.0,3,Rendah_Kalori
+DR160,"Tomat, Air (Sari), Segar",Sayuran,20,1.0,0.2,3.5,0.4,7.0,15.0,0.4,10.0,10.0,3,Rendah_Kalori
+DR161,"Tomat Merah, Segar",Sayuran,24,1.3,0.5,4.7,1.5,8.0,77.0,0.6,10.0,34.0,3,Rendah_Kalori
+DR162,"Tomat Muda, Segar",Sayuran,24,2.0,0.7,3.3,1.8,5.0,27.0,0.5,10.0,30.0,3,Rendah_Kalori
+DR163,"Uceng/ Bunga Melinjo,  Segar",Sayuran,82,5.8,1.3,11.7,4.8,70.0,266.0,2.4,0.0,3.0,3,Rendah_Kalori
+DR164,"Umbut Kelapa, Segar",Sayuran,39,2.0,0.2,7.2,2.5,57.0,49.0,0.0,4.0,8.0,3,Rendah_Kalori
+DR165,Umbut Rotan,Sayuran,34,2.4,0.3,5.5,2.2,89.0,79.0,1.3,8.0,9.0,3,Rendah_Kalori
+DR166,"Wortel, Segar",Sayuran,36,1.0,0.6,7.9,1.0,45.0,74.0,1.0,70.0,18.0,3,Rendah_Kalori
+DP001,"Bayam, Kukus",Sayuran,30,1.3,0.7,5.8,1.2,239.0,35.0,5.7,15.0,32.0,3,Rendah_Kalori
+DP002,"Bayam ,Rebus",Sayuran,23,1.2,0.6,3.7,1.1,150.0,35.0,0.5,16.0,19.0,3,Rendah_Kalori
+DP003,"Buncis, Rebus",Sayuran,30,2.2,0.2,6.4,1.5,107.0,47.0,0.5,7.0,8.0,3,Rendah_Kalori
+DP004,"Daun Kacang Panjang,  Kukus",Sayuran,40,3.7,0.3,8.0,1.8,111.0,66.0,3.7,6.0,11.0,3,Rendah_Kalori
+DP005,"Daun Katuk, Rebus",Sayuran,53,5.3,0.9,9.1,1.2,185.0,102.0,3.1,16.0,66.0,3,Rendah_Kalori
+DP006,"Daun Kelor, Rebus",Sayuran,61,6.1,0.9,10.0,0.9,255.0,36.0,2.1,45.0,13.0,3,Rendah_Kalori
+DP007,"Daun Mengkudu,  Kukus",Sayuran,63,3.8,1.5,11.5,2.4,300.0,43.0,6.0,0.0,11.0,3,Rendah_Kalori
+DP008,"Daun Singkong, Rebus",Sayuran,31,3.7,0.6,4.8,1.6,160.0,50.0,2.6,13.0,34.0,3,Rendah_Kalori
+DP009,"Daun Talas, Rebus",Sayuran,27,1.3,0.2,5.9,1.6,119.0,41.0,1.4,3.0,7.0,3,Rendah_Kalori
+DP010,"Daun Ubi Merah,  Kukus",Sayuran,56,3.1,0.3,13.0,1.5,78.0,52.0,4.3,28.0,14.0,3,Rendah_Kalori
+DP011,"Kacang Panjang  ,Kukus",Sayuran,39,3.0,0.6,7.6,1.7,100.0,91.0,1.2,28.0,20.0,3,Rendah_Kalori
+DP012,"Kacang Panjang, Rebus",Sayuran,30,2.3,0.4,5.8,1.4,71.0,68.0,0.8,24.0,15.0,3,Rendah_Kalori
+DP013,"Kangkung, Kukus",Sayuran,30,3.2,0.7,4.7,1.8,70.0,49.0,4.4,45.0,11.0,3,Rendah_Kalori
+DP014,"Kangkung, Rebus",Sayuran,22,2.5,0.6,3.1,1.2,50.0,51.0,3.5,31.0,13.0,3,Rendah_Kalori
+DP015,"Paria Putih, Kukus",Sayuran,16,0.8,0.2,3.4,1.2,16.0,33.0,0.5,4.0,35.0,3,Rendah_Kalori
+DP016,"Selada, Rebus",Sayuran,19,2.7,0.2,2.9,0.7,83.0,74.0,1.4,24.0,27.0,3,Rendah_Kalori
+DP017,"Taoge, Goreng",Sayuran,88,3.2,2.1,14.0,0.7,168.0,50.0,5.7,0.0,0.0,3,Rendah_Kalori
+DP018,"Taoge, Seduh",Sayuran,28,3.0,0.8,4.0,1.0,52.0,73.0,0.5,18.0,2.0,3,Rendah_Kalori
+DP019,"Terung Panjang,  Kukus",Sayuran,23,1.8,0.1,4.9,0.4,40.0,13.0,0.5,9.0,1.0,3,Rendah_Kalori
+DP020,"Wortel, Rebus",Sayuran,28,0.7,0.5,6.3,0.8,46.0,28.0,0.6,41.0,12.0,3,Rendah_Kalori
+DP021,"Wortel, Kukus",Sayuran,37,1.0,0.6,8.3,1.1,44.0,30.0,0.6,43.0,14.0,3,Rendah_Kalori
+DP022,"Asinan Bogor, Sayuran",Sayuran,98,3.9,2.6,14.8,0.5,314.0,17.0,1.2,483.0,5.0,3,Rendah_Kalori
+DP023,"Anyang, Sayur",Sayuran,126,3.4,7.9,10.3,5.4,180.0,1.0,2.9,290.0,0.0,3,Rendah_Kalori
+DP024,"Ares, Sayur",Sayuran,113,0.9,7.2,11.2,4.7,63.0,5.0,1.5,1413.0,0.0,3,Rendah_Kalori
+DP025,Arwan Sirsir,Sayuran,277,2.4,25.0,10.7,4.6,120.0,40.0,2.4,240.0,11.0,2,Lemak_Tinggi
+DP026,Beberuk,Sayuran,65,1.1,5.2,3.5,3.1,179.0,72.0,8.3,53.0,0.0,3,Rendah_Kalori
+DP027,Botok Lamtoro,Sayuran,186,11.7,9.7,13.0,2.1,771.0,322.0,26.0,0.0,2.0,0,Tinggi_Protein_Rendah_Lemak
+DP028,Buntil Daun Talas,Sayuran,141,4.4,10.2,8.0,1.8,149.0,121.0,14.5,0.0,1.0,3,Rendah_Kalori
+DP029,Cammetutu,Sayuran,102,3.2,6.0,8.7,4.3,41.0,93.0,0.5,443.0,19.0,3,Rendah_Kalori
+DP030,"Cap Cai, Sayur",Sayuran,97,5.8,6.3,4.2,0.6,287.0,89.0,1.8,405.0,1.0,3,Rendah_Kalori
+DP031,Gado-Gado,Sayuran,137,6.1,3.2,21.0,1.1,301.0,135.0,7.5,0.0,1.0,3,Rendah_Kalori
+DP032,"Gudeg, Sayur",Sayuran,160,3.3,9.2,16.0,2.3,62.0,55.0,12.8,0.0,0.0,3,Rendah_Kalori
+DP033,Gulai Pakis,Sayuran,143,4.0,11.4,6.0,1.4,548.0,124.0,1.7,0.0,1.0,3,Rendah_Kalori
+DP034,Gulai Pliek,Sayuran,176,7.3,14.9,3.2,0.0,39.0,54.0,1.4,257.0,0.0,3,Rendah_Kalori
+DP035,Kadada Katembe,Sayuran,110,4.5,6.9,7.1,3.9,26.0,77.0,0.0,178.0,23.0,3,Rendah_Kalori
+DP036,"Kaparende, Sayur",Sayuran,38,2.4,2.0,2.6,1.5,126.0,68.0,0.0,170.0,22.0,3,Rendah_Kalori
+DP037,"Karedok, Sayur",Sayuran,92,2.2,3.3,14.1,1.4,174.0,85.0,2.4,0.0,3.0,3,Rendah_Kalori
+DP038,Keripik Bayam,Sayuran,586,4.9,40.6,50.2,0.5,236.0,117.0,3.6,0.0,0.0,2,Lemak_Tinggi
+DP039,Kotiu Hinela Tawang  Nggole,Sayuran,46,2.2,1.5,6.0,3.8,64.0,44.0,0.0,316.0,7.0,3,Rendah_Kalori
+DP040,Lema/ Rebung Asam,Sayuran,15,1.0,0.4,1.9,0.0,17.0,230.0,2.9,3.0,0.0,3,Rendah_Kalori
+DP041,Lilin Bungkus Gedi,Sayuran,79,2.3,5.2,5.8,2.5,170.0,70.0,0.9,170.0,18.0,3,Rendah_Kalori
+DP042,Olah-Olah,Sayuran,9,2.1,6.0,7.1,4.4,26.0,3.0,1.2,289.0,0.0,3,Rendah_Kalori
+DP043,Paku Hinela  Wulelenggapaya,Sayuran,77,3.5,4.6,5.4,3.6,63.0,85.0,0.0,469.0,4.0,3,Rendah_Kalori
+DP044,Pelecing Kangkung,Sayuran,75,2.5,2.8,10.0,5.4,36.0,3.0,2.1,408.0,12.0,3,Rendah_Kalori
+DP045,Purundawa,Sayuran,25,1.5,0.5,3.6,1.7,147.0,39.0,0.0,239.0,2.0,3,Rendah_Kalori
+DP046,Rujak Cingur,Sayuran,153,11.3,8.4,8.0,1.4,256.0,143.0,4.4,0.0,2.0,0,Tinggi_Protein_Rendah_Lemak
+DP047,Sayur Asem,Sayuran,29,0.7,0.6,5.0,0.6,40.0,61.0,3.1,0.0,0.0,3,Rendah_Kalori
+DP048,Sayur Bunga Pepaya,Sayuran,49,1.7,0.3,9.8,2.7,220.0,220.0,1.3,90.0,0.0,3,Rendah_Kalori
+DP049,Sayur Garu,Sayuran,178,2.6,13.9,10.6,8.4,30.0,130.0,0.9,20.0,9.0,3,Rendah_Kalori
+DP050,Sayur Kohu-Kohu,Sayuran,133,7.3,6.6,11.2,1.2,40.0,120.0,0.2,20.0,9.0,3,Rendah_Kalori
+DP051,Sayur Lilin-Terubuk,Sayuran,36,2.7,0.7,4.8,1.4,10.0,90.0,0.1,30.0,18.0,3,Rendah_Kalori
+DP052,Sayur Ndusuk,Sayuran,49,3.1,2.5,3.6,0.0,11.0,6.0,0.5,1011.0,15.0,3,Rendah_Kalori
+DP053,Sayur Sop,Sayuran,27,1.3,2.0,1.0,0.3,168.0,57.0,1.8,0.0,0.0,3,Rendah_Kalori
+DP054,Sayur Umbut Kelapa,Sayuran,67,5.2,2.9,5.1,1.4,48.0,81.0,3.2,313.0,5.0,3,Rendah_Kalori
+DP055,Sayur Umbut Rotan,Sayuran,57,5.4,2.6,3.1,1.6,184.0,135.0,1.2,256.0,6.0,3,Rendah_Kalori
+DP056,Shabu-Shabu,Sayuran,88,3.2,8.0,0.8,0.9,217.0,48.0,2.9,514.0,0.0,3,Rendah_Kalori
+DP057,Semur Jengkol,Sayuran,212,6.0,10.0,29.1,0.0,77.0,99.0,1.0,0.0,4.0,1,Karbo_Kompleks
+DP058,Tinira Ninahu  Nggaluku,Sayuran,33,1.2,1.3,4.1,3.1,35.0,35.0,0.0,161.0,10.0,3,Rendah_Kalori
+DP059,Tumis Bayam  Bersantan,Sayuran,48,1.4,4.2,2.6,0.5,129.0,27.0,0.8,0.0,22.0,3,Rendah_Kalori
+DP060,Waluh Balamak,Sayuran,45,0.8,0.9,8.1,7.9,25.0,25.0,0.5,61.0,2.0,3,Rendah_Kalori
+DP061,Woku Ubi,Sayuran,143,3.1,7.8,15.0,7.0,195.0,91.0,2.8,353.0,15.0,3,Rendah_Kalori
+ER001,"Alpukat, Segar",Buah,85,0.9,6.5,7.7,0.0,10.0,20.0,0.9,2.0,13.0,3,Rendah_Kalori
+ER002,"Anggur Hutan, Segar",Buah,30,0.5,0.2,6.8,1.2,39.0,12.0,1.1,0.0,3.0,3,Rendah_Kalori
+ER003,"Apel Malang, Segar",Buah,57,0.5,0.4,12.8,0.8,9.0,18.0,0.6,3.6,5.0,3,Rendah_Kalori
+ER004,"Apel, Segar",Buah,58,0.3,0.4,14.9,2.6,6.0,10.0,0.3,2.0,5.0,3,Rendah_Kalori
+ER005,"Arbai, Segar",Buah,37,0.8,0.5,8.3,0.0,28.0,27.0,0.8,1.95,60.0,3,Rendah_Kalori
+ER006,"Belimbing, Segar",Buah,36,0.4,0.4,8.8,3.2,4.0,12.0,1.1,4.0,35.0,3,Rendah_Kalori
+ER007,"Biwah, Segar",Buah,51,0.3,0.1,12.1,0.7,220.0,14.0,0.8,1.0,4.0,3,Rendah_Kalori
+ER008,"Buah Atung, Segar",Buah,23,0.8,0.2,5.2,0.0,30.0,50.0,4.6,0.0,38.0,3,Rendah_Kalori
+ER009,"Buah Kelenting, Segar",Buah,110,1.4,2.1,21.4,0.0,8.0,102.0,1.1,2.0,6.0,3,Rendah_Kalori
+ER010,"Buah Kom, Segar",Buah,264,4.0,1.1,59.6,9.0,306.0,92.0,0.8,0.0,9.0,1,Karbo_Kompleks
+ER011,"Buah Mentega  (Bisbul), Segar",Buah,39,0.7,0.2,9.7,2.0,43.0,17.0,0.8,1.0,33.0,3,Rendah_Kalori
+ER012,"Buah Naga Merah,  Segar",Buah,71,1.7,3.1,9.1,3.2,13.0,14.0,0.4,10.0,1.0,3,Rendah_Kalori
+ER013,"Buah Naga Putih,  Segar",Buah,56,0.8,1.0,10.9,3.2,13.0,27.0,0.5,7.0,1.0,3,Rendah_Kalori
+ER014,"Buah Negri, Segar",Buah,55,1.2,0.1,12.2,5.2,30.0,40.0,0.2,10.0,9.0,3,Rendah_Kalori
+ER015,"Buah Nona, Segar",Buah,101,1.7,0.6,25.2,2.8,27.0,20.0,0.8,5.0,22.0,1,Karbo_Kompleks
+ER016,"Buah Rotan, Segar",Buah,78,0.6,0.3,18.2,0.0,1.0,7.0,3.4,7.0,5.0,3,Rendah_Kalori
+ER017,"Buah Rukam, Segar",Buah,113,0.8,0.3,26.8,7.7,108.0,52.0,1.2,2.0,20.0,1,Karbo_Kompleks
+ER018,"Buah Ruruhi, Segar",Buah,29,2.1,0.7,3.6,2.6,6.0,7.0,0.0,36.0,10.0,3,Rendah_Kalori
+ER019,"Buah Tuppa, Segar",Buah,67,0.4,0.2,15.9,0.0,12.0,139.0,0.5,2.0,5.0,3,Rendah_Kalori
+ER020,"Carica Papaya, Segar",Buah,24,1.9,0.2,3.7,1.0,51.0,33.0,1.8,0.0,85.0,3,Rendah_Kalori
+ER021,"Cempedak, Segar",Buah,116,3.0,0.4,28.6,3.4,20.0,30.0,1.5,25.0,15.0,1,Karbo_Kompleks
+ER022,"Duku, Segar",Buah,63,1.0,0.2,16.1,4.3,18.0,9.0,0.9,2.0,9.0,3,Rendah_Kalori
+ER023,"Durian, Segar",Buah,134,2.5,3.0,28.0,3.5,7.0,44.0,1.3,1.0,53.0,1,Karbo_Kompleks
+ER024,"Duwet, Segar",Buah,80,0.5,0.6,18.2,0.9,33.0,138.0,1.3,16.0,0.0,3,Rendah_Kalori
+ER025,"Embacang, Segar",Buah,98,1.4,0.2,25.4,1.9,21.0,15.0,0.5,3.0,56.0,1,Karbo_Kompleks
+ER026,"Encung Asam, Segar",Buah,122,3.5,4.5,17.5,9.3,63.0,69.0,3.2,0.0,0.0,3,Rendah_Kalori
+ER027,"Erbis, Segar",Buah,70,0.6,0.0,18.9,7.7,11.0,50.0,1.1,21.0,16.0,3,Rendah_Kalori
+ER028,Gandaria Masak,Buah,68,0.7,0.1,18.0,2.2,9.0,20.0,1.0,3.0,0.0,3,Rendah_Kalori
+ER029,"Gatep, Segar",Buah,191,4.5,1.5,39.7,13.4,186.0,69.0,3.2,17.0,0.0,1,Karbo_Kompleks
+ER030,"Jambu Air, Segar",Buah,46,0.6,0.2,11.8,2.1,8.0,9.0,1.1,11.0,5.0,3,Rendah_Kalori
+ER031,Jambu Biji,Buah,49,0.9,0.3,12.2,2.4,14.0,28.0,1.1,10.0,87.0,3,Rendah_Kalori
+ER032,Jambu Bj Putih Tdk  Brbj,Buah,61,0.9,0.3,15.4,4.5,31.0,41.0,0.2,20.0,0.0,3,Rendah_Kalori
+ER033,"Jambu Bol, Segar",Buah,49,2.3,0.2,9.6,3.5,8.0,8.0,0.3,1.0,22.0,3,Rendah_Kalori
+ER034,"Jambu Monyet, Segar",Buah,64,0.7,0.6,15.8,1.2,4.0,13.0,0.5,12.0,0.0,3,Rendah_Kalori
+ER035,"Jeruk Bali, Segar",Buah,48,0.6,0.2,12.4,0.8,23.0,27.0,0.5,21.0,43.0,3,Rendah_Kalori
+ER036,"Jeruk Banjar, Segar",Buah,61,0.8,0.2,14.1,5.4,9.0,13.0,0.2,3.0,31.0,3,Rendah_Kalori
+ER037,Jeruk Garut-Keprok,Buah,44,0.8,0.3,10.9,1.6,33.0,23.0,0.4,5.0,31.0,3,Rendah_Kalori
+ER038,"Jeruk Kalamansi, Segar",Buah,39,0.3,0.3,8.9,2.3,42.0,85.0,0.5,3.0,30.0,3,Rendah_Kalori
+ER039,"Jeruk Manis, Segar",Buah,45,0.9,0.2,11.2,1.4,33.0,23.0,0.4,4.0,49.0,3,Rendah_Kalori
+ER040,"Jeruk Nipis, Segar",Buah,44,0.5,0.2,10.0,0.4,18.0,22.0,0.2,3.0,20.0,3,Rendah_Kalori
+ER041,"Jeruk Ragi, Segar",Buah,49,0.7,0.2,11.1,0.5,36.0,67.0,0.7,4.0,30.0,3,Rendah_Kalori
+ER042,"Kawista, Segar",Buah,120,3.5,2.5,20.8,4.6,190.0,230.0,1.6,9.0,3.0,3,Rendah_Kalori
+ER043,"Kedondong Masak,  Segar",Buah,46,1.0,0.1,10.3,2.6,15.0,22.0,2.8,2.0,30.0,3,Rendah_Kalori
+ER044,"Kedondong, Segar",Buah,47,0.5,0.2,10.4,2.7,7.0,58.0,0.8,2.0,32.0,3,Rendah_Kalori
+ER045,"Kelapa Hutan, Kering",Buah,623,2.0,0.0,36.5,15.3,120.0,280.0,3.8,100.0,0.0,1,Karbo_Kompleks
+ER046,"Kelapa Muda, Daging,  Segar",Buah,68,1.0,0.9,14.0,0.0,7.0,30.0,1.0,17.9,4.0,3,Rendah_Kalori
+ER047,"Kemang, Segar",Buah,48,1.0,0.2,11.9,1.7,10.0,24.0,0.1,2.0,58.0,3,Rendah_Kalori
+ER048,"Kesemek, Segar",Buah,78,0.8,0.4,20.0,0.6,6.0,26.0,0.3,0.0,11.0,3,Rendah_Kalori
+ER049,"Kokosan, Segar",Buah,86,1.6,0.2,13.0,1.4,22.0,38.0,1.3,2.0,3.0,3,Rendah_Kalori
+ER050,"Kranji, Segar",Buah,315,2.1,1.4,73.5,3.6,160.0,120.0,3.7,0.0,0.0,1,Karbo_Kompleks
+ER051,"Langsat, Segar",Buah,56,0.9,0.2,14.3,1.4,17.0,24.0,1.1,1.0,9.0,3,Rendah_Kalori
+ER052,"Lemon, Segar",Buah,34,0.5,0.8,6.2,0.1,23.0,20.0,0.3,31.0,50.0,3,Rendah_Kalori
+ER053,"Lontar, Segar",Buah,27,0.4,0.2,6.0,1.6,91.0,243.0,0.5,0.0,0.0,3,Rendah_Kalori
+ER054,"Mangga, Segar",Buah,52,0.7,0.0,12.3,1.6,20.0,16.0,1.0,3.0,12.0,3,Rendah_Kalori
+ER055,"Mangga Benggala,  Segar",Buah,63,2.4,0.4,12.4,5.8,9.0,13.0,0.2,3.0,43.0,3,Rendah_Kalori
+ER056,"Mangga Gedung, Segar",Buah,44,0.7,0.2,11.2,1.6,13.0,10.0,0.2,2.0,30.0,3,Rendah_Kalori
+ER057,"Mangga Golek, Segar",Buah,63,0.5,0.2,16.7,2.3,14.0,10.0,0.7,3.0,65.0,3,Rendah_Kalori
+ER058,"Mangga Harumanis,  Segar",Buah,46,0.4,0.2,11.9,1.7,15.0,9.0,0.2,2.0,6.0,3,Rendah_Kalori
+ER059,"Mangga Indramayu,  Segar",Buah,72,0.8,0.2,18.7,2.5,13.0,10.0,1.9,3.0,16.0,3,Rendah_Kalori
+ER060,"Mangga Kopek, Segar",Buah,56,0.4,0.2,14.6,2.0,16.0,10.0,1.7,2.0,27.0,3,Rendah_Kalori
+ER061,"Mangga Kwini, Segar",Buah,86,0.7,0.5,19.8,6.5,11.0,11.0,0.2,1.0,18.0,3,Rendah_Kalori
+ER062,"Mangga Manalagi,  Segar",Buah,133,1.0,0.1,32.1,11.8,20.0,23.0,1.0,70.0,61.0,1,Karbo_Kompleks
+ER063,"Mangga Muda, Segar",Buah,59,0.5,0.4,15.1,0.0,12.0,11.0,0.4,2.0,2.0,3,Rendah_Kalori
+ER064,"Manggis, Segar",Buah,63,0.6,0.6,15.6,1.5,8.0,12.0,0.8,10.0,5.0,3,Rendah_Kalori
+ER065,"Markisa, Segar",Buah,144,3.5,1.2,29.8,11.4,27.0,203.0,1.4,37.0,10.0,1,Karbo_Kompleks
+ER066,"Matoa, Segar",Buah,90,1.2,0.1,21.1,0.5,20.0,40.0,0.6,10.0,54.0,3,Rendah_Kalori
+ER067,"Melon, Segar",Buah,37,0.6,0.4,7.8,1.0,12.0,14.0,0.4,27.0,0.0,3,Rendah_Kalori
+ER068,"Menteng, Segar",Buah,65,1.7,0.3,16.1,0.0,13.0,20.0,0.8,0.0,0.0,3,Rendah_Kalori
+ER069,"Nanas Palembang,  Segar",Buah,58,0.7,0.2,13.3,1.6,29.0,15.0,0.6,7.0,11.0,3,Rendah_Kalori
+ER070,"Nanas, Segar",Buah,40,0.6,0.3,9.9,0.6,22.0,14.0,0.9,18.0,22.0,3,Rendah_Kalori
+ER071,"Nangka Masak Pohon,  Segar",Buah,106,1.2,0.3,27.6,3.7,20.0,19.0,0.9,2.0,7.0,1,Karbo_Kompleks
+ER072,"Pala, Daging, Segar",Buah,42,0.3,0.2,10.9,0.5,32.0,24.0,1.5,0.0,22.0,3,Rendah_Kalori
+ER073,"Pepaya, Segar",Buah,46,0.5,12.0,12.2,1.6,23.0,12.0,1.7,4.0,78.0,3,Rendah_Kalori
+ER074,"Pisang Ambon, Segar",Buah,108,1.0,0.8,24.3,1.9,20.0,30.0,0.2,10.0,9.0,3,Rendah_Kalori
+ER075,"Pisang Angleng (Pisang  Ampyang), Segar",Buah,68,1.3,0.2,17.2,0.8,10.0,26.0,0.6,23.0,6.0,3,Rendah_Kalori
+ER076,"Pisang Ayam, Segar",Buah,120,1.1,0.2,26.8,4.1,20.0,61.0,0.4,6.0,26.0,1,Karbo_Kompleks
+ER077,"Pisang Gapi, Segar",Buah,131,1.6,0.1,31.1,11.7,58.0,40.0,0.3,6.0,13.0,1,Karbo_Kompleks
+ER078,"Pisang Goroho, Segar",Buah,119,1.5,0.2,27.9,4.6,2.0,30.0,0.2,36.0,10.0,1,Karbo_Kompleks
+ER079,"Pisang Hijau, Segar",Buah,121,1.0,0.1,28.9,0.4,9.0,37.0,0.9,31.0,13.0,1,Karbo_Kompleks
+ER080,"Pisang Kayu, Segar",Buah,100,1.4,0.5,23.6,2.6,15.0,0.0,0.1,1.0,11.0,3,Rendah_Kalori
+ER081,"Pisang Kepok, Segar",Buah,109,0.8,0.5,26.3,5.7,10.0,30.0,0.5,10.0,9.0,1,Karbo_Kompleks
+ER082,"Pisang Ketip, Segar",Buah,145,1.1,0.3,34.5,6.6,5.0,54.0,0.1,4.0,95.0,1,Karbo_Kompleks
+ER083,"Pisang Kidang, Segar",Buah,96,1.0,0.2,22.5,0.6,87.0,173.0,0.6,6.0,2.0,3,Rendah_Kalori
+ER084,"Pisang Lampung, Segar",Buah,99,1.3,0.2,25.6,4.3,10.0,19.0,0.9,28.0,4.0,1,Karbo_Kompleks
+ER085,"Pisang Mas Bali  Ampenan, Segar",Buah,92,1.4,0.2,21.0,3.7,7.0,29.0,1.2,32.0,11.0,3,Rendah_Kalori
+ER086,"Pisang Mas Bali  Kopang, Segar",Buah,127,1.4,0.2,31.8,3.7,10.0,0.0,0.1,43.0,17.0,1,Karbo_Kompleks
+ER087,"Pisang Mas, Segar",Buah,127,1.4,0.2,33.6,1.4,7.0,25.0,0.8,42.0,2.0,1,Karbo_Kompleks
+ER088,"Pisang Raja Sereh,  Segar",Buah,108,1.3,0.3,28.2,0.7,16.0,38.0,0.1,31.0,2.0,1,Karbo_Kompleks
+ER089,"Pisang Raja, Segar",Buah,120,1.2,0.2,31.8,5.3,10.0,22.0,0.8,35.0,10.0,1,Karbo_Kompleks
+ER090,"Pisang Rotan, Segar",Buah,98,1.3,1.2,20.5,1.0,17.0,51.0,1.1,24.0,2.0,3,Rendah_Kalori
+ER091,"Pisang Talas, Segar",Buah,113,1.2,0.2,26.7,4.4,22.0,22.0,0.6,29.0,9.0,1,Karbo_Kompleks
+ER092,Pisang Tujuh Bulan,Buah,94,0.6,0.2,22.5,3.7,50.0,20.0,0.2,0.0,6.0,3,Rendah_Kalori
+ER093,"Pisang Ua, Segar",Buah,128,0.8,0.5,30.2,8.1,12.0,28.0,0.7,33.0,4.0,1,Karbo_Kompleks
+ER094,"Pisang Uli, Segar",Buah,134,1.1,0.5,35.5,1.4,31.0,53.0,0.9,39.0,3.0,1,Karbo_Kompleks
+ER095,"Purut, Segar",Buah,76,4.1,1.1,15.2,1.7,30.0,76.0,0.6,10.0,0.0,3,Rendah_Kalori
+ER096,"Rambutan Binjai,  Segar",Buah,76,0.5,0.2,18.0,3.8,15.0,22.0,1.2,22.0,13.0,3,Rendah_Kalori
+ER097,"Rambutan, Segar",Buah,69,0.9,0.1,18.1,0.8,16.0,16.0,0.5,16.0,58.0,3,Rendah_Kalori
+ER098,"Salak Bali, Segar",Buah,57,0.5,0.1,13.6,1.3,94.0,25.0,2.1,0.0,0.0,3,Rendah_Kalori
+ER099,"Salak Medan, Segar",Buah,55,0.4,0.2,12.8,3.2,6.0,46.0,0.5,39.0,58.0,3,Rendah_Kalori
+ER100,"Salak Pondoh, Segar",Buah,87,0.8,0.4,20.1,0.0,38.0,31.0,3.9,0.0,8.0,3,Rendah_Kalori
+ER101,"Salak, Segar",Buah,77,0.4,0.0,20.9,0.0,28.0,18.0,4.2,0.0,2.0,3,Rendah_Kalori
+ER102,"Sawo Duren, Segar",Buah,64,1.0,3.1,8.0,0.8,18.0,45.0,0.8,13.0,1.0,3,Rendah_Kalori
+ER103,"Sawo Kecik, Segar",Buah,111,0.9,2.3,21.6,1.0,20.0,185.0,0.7,28.0,19.0,3,Rendah_Kalori
+ER104,"Sawo Manila, Segar",Buah,92,0.5,1.1,22.4,9.5,25.0,12.0,1.0,26.0,21.0,3,Rendah_Kalori
+ER105,"Semangka, Segar",Buah,28,0.5,0.2,6.9,0.4,7.0,12.0,0.2,7.0,6.0,3,Rendah_Kalori
+ER106,"Sirsak, Segar",Buah,65,1.0,0.3,16.3,3.2,14.0,27.0,0.6,2.0,20.0,3,Rendah_Kalori
+ER107,"Sowa, Segar",Buah,48,1.6,0.6,9.1,45.0,50.0,40.0,0.3,9.0,4.0,3,Rendah_Kalori
+ER108,"Srikaya, Segar",Buah,63,1.1,0.5,13.9,2.1,127.0,30.0,2.7,0.0,28.0,3,Rendah_Kalori
+ER109,"Sukun Muda, Segar",Buah,119,1.4,0.2,28.1,1.4,24.0,44.0,1.4,24.0,52.0,1,Karbo_Kompleks
+ER110,"Sukun Tua, Segar",Buah,126,1.6,0.2,24.5,1.5,37.0,47.0,1.6,25.0,58.0,3,Rendah_Kalori
+ER111,"Vigus, Segar",Buah,44,2.4,0.1,8.3,0.0,30.0,20.0,0.3,2.0,43.0,3,Rendah_Kalori
+ER112,"Wani, Segar",Buah,74,0.8,0.3,17.1,3.1,66.0,29.0,1.2,0.0,80.0,3,Rendah_Kalori
+EP001,Barongko,Buah,159,3.1,5.8,23.5,0.0,35.0,65.0,1.2,46.0,0.0,3,Rendah_Kalori
+EP002,Dodol Nanas,Buah,338,1.5,1.2,80.3,0.0,0.0,0.0,0.0,0.0,8.0,1,Karbo_Kompleks
+EP003,Getuk Pisang,Buah,144,1.1,0.4,34.1,0.4,48.0,32.0,1.0,0.0,0.0,1,Karbo_Kompleks
+EP004,Keripik Lampung,Buah,485,1.7,0.0,69.7,0.6,43.0,65.0,0.8,0.0,0.0,1,Karbo_Kompleks
+EP005,Ledre Pisang,Buah,405,4.8,5.1,84.9,0.4,59.0,124.0,2.6,0.0,0.0,1,Karbo_Kompleks
+EP006,Lempog Durian,Buah,320,3.5,5.7,63.7,4.9,190.0,93.0,2.5,0.0,0.0,1,Karbo_Kompleks
+EP007,Loka Anjoro,Buah,163,1.1,4.3,30.0,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+EP008,Rica-Rica Taipa,Buah,49,1.6,0.3,10.0,0.0,11.0,48.0,3.0,426.0,15.0,3,Rendah_Kalori
+EP009,Rujak Aceh,Buah,82,0.4,0.3,19.7,2.4,0.0,0.0,0.0,0.0,42.0,3,Rendah_Kalori
+EP010,Sale Kesemek,Buah,296,1.1,0.6,71.4,0.0,0.0,0.0,0.0,0.0,3.0,1,Karbo_Kompleks
+EP011,Sale Pisang Siam,Buah,281,2.4,0.7,66.1,1.0,41.0,64.0,1.2,0.0,0.0,1,Karbo_Kompleks
+EP012,"Sale Pisang, Cilacap",Buah,295,2.3,2.1,66.9,1.3,47.0,97.0,2.8,0.0,0.0,1,Karbo_Kompleks
+EP013,Sanggara Belanda,Buah,242,6.4,7.1,38.2,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+EP014,Tepung Pisang,Buah,338,2.9,0.4,80.6,5.3,23.0,62.0,4.0,18.0,2.0,1,Karbo_Kompleks
+EP015,Tepung Sukun,Buah,353,2.9,0.5,84.4,3.7,100.0,85.0,4.6,9.0,3.0,1,Karbo_Kompleks
+FR001,"Anak Sapi, Daging,  Gemuk, Segar","Daging, Unggas",184,18.8,14.0,0.0,0.0,10.0,200.0,2.2,118.0,0.0,3,Rendah_Kalori
+FR002,"Anak Sapi, Daging,  Kurus, Segar","Daging, Unggas",174,19.6,10.0,0.0,0.0,11.0,201.0,2.9,96.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FR003,"Anak Sapi, Daging,  Sedang, Segar","Daging, Unggas",190,19.1,12.0,0.0,0.0,11.0,193.0,2.9,99.0,0.0,3,Rendah_Kalori
+FR004,"Angsa, Daging, Segar","Daging, Unggas",349,16.4,31.5,0.0,0.0,15.0,188.0,1.8,71.0,0.0,2,Lemak_Tinggi
+FR005,"Ayam, Daging, Segar","Daging, Unggas",298,18.2,25.0,0.0,0.0,14.0,200.0,1.5,109.0,0.0,2,Lemak_Tinggi
+FR006,"Ayam, Dideh/Darah,  Segar","Daging, Unggas",75,13.8,1.9,0.7,0.0,15.0,9.0,1.3,337.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FR007,"Ayam, Hati, Segar","Daging, Unggas",261,27.4,16.1,1.6,0.0,118.0,373.0,15.8,1068.0,0.0,3,Rendah_Kalori
+FR008,"Babi, Daging,  Gemuk,Segar","Daging, Unggas",453,11.9,45.0,0.0,0.0,7.0,117.0,1.8,112.0,0.0,2,Lemak_Tinggi
+FR009,"Babi, Daging, Kurus,  Segar","Daging, Unggas",371,14.1,35.0,0.0,0.0,8.0,151.0,2.1,97.0,0.0,2,Lemak_Tinggi
+FR010,"Babi, Ginjal, Segar","Daging, Unggas",110,16.3,4.6,0.8,0.0,11.0,246.0,8.0,139.0,13.0,0,Tinggi_Protein_Rendah_Lemak
+FR011,"Babi, Hati, Segar","Daging, Unggas",129,19.7,4.8,1.7,0.0,10.0,362.0,18.0,110.0,23.0,0,Tinggi_Protein_Rendah_Lemak
+FR012,"Bebek (Itik), Daging,  Segar","Daging, Unggas",321,16.0,28.6,0.0,0.0,15.0,188.0,1.8,54.0,0.0,2,Lemak_Tinggi
+FR013,"Bebek Alabio, Daging,  Segar","Daging, Unggas",303,11.3,27.0,3.7,0.0,20.0,293.0,4.8,50.0,0.0,2,Lemak_Tinggi
+FR014,"Belibis, Daging, Segar","Daging, Unggas",131,20.2,4.3,2.8,0.0,8.0,192.0,9.6,46.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FR015,"Burung, Sarang, Segar","Daging, Unggas",281,37.5,0.3,32.1,0.0,485.0,18.0,3.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FR016,"Domba, Daging,  Gemuk, Segar","Daging, Unggas",317,15.7,27.7,0.0,0.0,9.0,157.0,2.4,64.0,0.0,2,Lemak_Tinggi
+FR017,"Domba, Daging, Kurus,  Segar","Daging, Unggas",202,17.1,14.8,0.0,0.0,10.0,191.0,2.6,90.0,0.0,3,Rendah_Kalori
+FR018,"Domba, Ginjal, Segar","Daging, Unggas",100,16.6,3.3,1.0,0.0,13.0,237.0,9.2,155.0,13.0,0,Tinggi_Protein_Rendah_Lemak
+FR019,"Kambing, Daging,  Segar","Daging, Unggas",149,16.6,9.2,0.0,0.0,11.0,124.0,1.0,96.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FR020,"Kelinci, Daging, Segar","Daging, Unggas",142,16.9,7.8,0.0,0.0,7.0,350.0,1.0,49.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FR021,"Kerbau, Daging, Segar","Daging, Unggas",79,18.7,0.5,0.0,0.0,14.0,221.0,3.3,91.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FR022,"Kuda, Daging, Segar","Daging, Unggas",113,18.1,4.1,0.9,0.0,10.0,150.0,2.7,46.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FR023,"Sapi, Babat, Segar","Daging, Unggas",108,17.6,4.2,0.0,0.0,12.0,144.0,1.0,147.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FR024,"Sapi, Daging, Gemuk,  Segar","Daging, Unggas",273,17.5,22.0,0.0,0.0,10.0,150.0,2.6,93.0,0.0,2,Lemak_Tinggi
+FR025,"Sapi, Daging, Kurus,  Segar","Daging, Unggas",174,19.6,10.0,0.0,0.0,11.0,181.0,2.9,83.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FR026,"Sapi, Daging, Lemak  Sedang, Segar","Daging, Unggas",201,18.8,14.0,0.0,0.0,11.0,170.0,2.8,105.0,0.0,3,Rendah_Kalori
+FR027,"Sapi, Daleman, Segar","Daging, Unggas",183,12.0,14.4,1.4,0.0,43.0,319.0,1.8,277.0,0.0,3,Rendah_Kalori
+FR028,"Sapi, Dideh/Darah","Daging, Unggas",98,21.9,1.1,0.0,0.0,7.0,24.0,1.3,150.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FR029,"Sapi, Ginjal, Segar","Daging, Unggas",137,15.0,8.1,0.9,0.0,9.0,221.0,7.9,200.0,13.0,0,Tinggi_Protein_Rendah_Lemak
+FR030,"Sapi, Keleponan, Segar","Daging, Unggas",84,10.5,4.6,0.2,0.0,20.0,13.0,2.1,73.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FR031,"Sapi, Liver, Segar","Daging, Unggas",132,19.7,3.2,6.0,0.0,7.0,358.0,6.6,110.0,31.0,0,Tinggi_Protein_Rendah_Lemak
+FR032,"Sapi, Otak, Segar","Daging, Unggas",123,10.4,8.6,0.8,0.0,16.0,330.0,3.6,112.0,18.0,0,Tinggi_Protein_Rendah_Lemak
+FR033,"Sapi, Usus, Segar","Daging, Unggas",126,14.0,7.2,1.5,0.0,14.0,115.0,4.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FR034,Ulat Sagu Segar,"Daging, Unggas",241,5.8,21.6,5.8,2.8,20.0,70.0,0.5,210.0,0.0,2,Lemak_Tinggi
+FP001,"Ayam, Ampela, Goreng","Daging, Unggas",270,32.3,11.2,9.9,0.0,129.0,314.0,4.9,980.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP002,"Ayam, Usus, Goreng","Daging, Unggas",473,45.2,26.3,13.9,0.0,1407.0,458.0,8.4,0.0,0.0,2,Lemak_Tinggi
+FP003,"Bebek, Daging, Goreng","Daging, Unggas",300,24.0,20.7,4.5,0.0,170.0,170.0,4.1,34.0,0.0,2,Lemak_Tinggi
+FP004,"Buaya, Daging,  Dendeng, Mentah","Daging, Unggas",365,49.6,4.8,30.8,0.0,60.0,130.0,4.3,500.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP005,Ham,"Daging, Unggas",384,16.9,35.0,0.3,0.0,10.0,136.0,2.5,112.0,0.0,2,Lemak_Tinggi
+FP006,"Itik Alabio, Daging,  Dendeng, Mentah","Daging, Unggas",496,30.3,33.5,18.4,0.0,135.0,370.0,12.5,1081.0,0.0,2,Lemak_Tinggi
+FP007,Kerupuk Urat,"Daging, Unggas",588,53.7,40.9,1.2,0.0,36.0,15.0,1.3,1024.0,0.0,2,Lemak_Tinggi
+FP008,"Menjangan, Daging,  Dendeng, Mentah","Daging, Unggas",322,55.8,2.0,22.7,0.0,55.0,310.0,2.1,765.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP009,"Punai, Daging, Goreng","Daging, Unggas",224,26.2,11.3,4.4,0.0,362.0,362.0,3.1,2.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP010,"Rusa, Daging,  Dendeng, Mentah","Daging, Unggas",536,40.5,41.5,0.0,0.0,90.0,420.0,13.4,130.0,0.0,2,Lemak_Tinggi
+FP011,"Sapi, Abon","Daging, Unggas",212,18.0,10.6,59.3,7.5,150.0,209.0,12.3,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP012,"Sapi, Abon, Asli","Daging, Unggas",358,14.6,16.1,38.6,2.5,165.0,136.0,14.6,0.0,0.0,1,Karbo_Kompleks
+FP013,"Sapi, Daging, Asap","Daging, Unggas",182,32.0,6.0,0.0,0.0,15.0,300.0,5.0,1620.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP014,"Sapi, Daging, Dendeng,  Mentah","Daging, Unggas",301,55.0,9.0,0.0,0.0,30.0,370.0,5.1,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP015,"Sapi, Daging, Kornet","Daging, Unggas",289,16.0,25.0,0.0,0.0,10.0,170.0,4.0,794.0,0.0,2,Lemak_Tinggi
+FP016,"Sapi, Daging, Sosis  (Worst)","Daging, Unggas",448,14.5,42.3,2.3,0.0,28.0,61.0,1.1,765.0,0.0,2,Lemak_Tinggi
+FP017,"Sapi, Hati, Sosis  (Liverworst)","Daging, Unggas",274,16.0,22.0,3.0,2.3,20.0,150.0,4.0,654.0,0.0,2,Lemak_Tinggi
+FP018,"Sapi, Paru, Dendeng,  Mentah","Daging, Unggas",360,57.3,6.0,19.2,0.0,126.0,903.0,21.1,1483.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP019,"Sapi, Paru, Goreng","Daging, Unggas",268,23.9,12.7,14.5,0.0,102.0,315.0,8.8,923.0,0.0,3,Rendah_Kalori
+FP020,"Ulat Sagu, Panggang","Daging, Unggas",380,11.9,30.3,14.9,4.8,30.0,120.0,1.5,260.0,0.0,2,Lemak_Tinggi
+FP021,"Ayam Goreng Church  Texas, Dada","Daging, Unggas",338,35.2,20.6,0.4,0.0,79.0,221.0,5.6,800.0,0.0,2,Lemak_Tinggi
+FP022,"Ayam Goreng  Church,Texas Paha","Daging, Unggas",287,31.0,15.7,1.7,0.0,99.0,176.0,4.1,723.0,0.0,3,Rendah_Kalori
+FP023,"Ayam Goreng Church  Texas, Sayap","Daging, Unggas",295,34.0,16.0,1.5,0.0,81.0,179.0,3.0,771.0,0.0,3,Rendah_Kalori
+FP024,"Ayam Goreng Kalasan,  Paha","Daging, Unggas",275,37.4,12.2,1.3,0.0,116.0,237.0,5.8,176.0,0.0,3,Rendah_Kalori
+FP025,"Ayam Goreng  Kentucky, Dada","Daging, Unggas",298,34.2,16.8,0.1,0.0,90.0,284.0,5.5,741.0,0.0,3,Rendah_Kalori
+FP026,"Ayam Goreng  Kentucky, Paha","Daging, Unggas",286,32.1,16.1,1.1,0.0,89.0,248.0,6.9,746.0,0.0,3,Rendah_Kalori
+FP027,"Ayam Goreng  Kentucky,Sayap","Daging, Unggas",297,35.9,15.2,1.6,0.0,103.0,227.0,4.4,807.0,0.0,3,Rendah_Kalori
+FP028,Ayam Goreng Mbok  Berek Dada,"Daging, Unggas",295,39.2,13.6,1.0,0.0,114.0,278.0,5.4,0.0,0.0,3,Rendah_Kalori
+FP029,"Ayam Goreng  Pasundan, Dada","Daging, Unggas",246,37.9,9.0,0.7,0.0,90.0,260.0,7.5,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP030,"Ayam Goreng  Pasundan, Paha","Daging, Unggas",245,33.1,11.4,0.3,0.0,90.0,283.0,7.3,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP031,"Ayam Goreng Pioneer,  Dada","Daging, Unggas",295,37.4,14.7,0.6,0.0,108.0,236.0,6.8,0.0,0.0,3,Rendah_Kalori
+FP032,"Ayam Goreng  Sukabumi, Dada","Daging, Unggas",244,36.7,9.2,1.0,0.0,81.0,154.0,6.1,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP033,"Ayam Goreng  Sukabumi, Paha","Daging, Unggas",283,35.7,14.3,0.5,0.0,68.0,106.0,5.4,0.0,0.0,3,Rendah_Kalori
+FP034,"Ayam Taliwang,  Masakan","Daging, Unggas",264,18.2,20.1,2.7,0.0,94.0,164.0,2.0,507.0,0.0,2,Lemak_Tinggi
+FP035,"Babi Hutan Masak Rica,  Masakan","Daging, Unggas",491,24.6,16.3,0.2,0.0,18.0,144.0,1.2,1415.0,0.0,3,Rendah_Kalori
+FP036,Beef Burger,"Daging, Unggas",258,10.6,9.5,32.5,0.4,210.0,157.0,2.6,572.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP037,"Beef Teriyaki, Masakan","Daging, Unggas",151,8.6,3.1,22.3,0.3,142.0,62.0,2.3,377.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP038,"Beef Yakiniku,  Masakan","Daging, Unggas",132,9.8,1.1,20.7,0.3,302.0,67.0,2.0,409.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP039,Brongkos,"Daging, Unggas",141,15.3,3.3,12.6,1.0,87.0,97.0,5.1,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP040,"Bulgogi, Masakan","Daging, Unggas",72,11.4,4.9,1.4,1.7,214.0,86.0,2.5,509.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP041,"Chicken Teriyaki,  Masakan","Daging, Unggas",168,13.0,9.6,7.5,0.8,137.0,106.0,3.1,959.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP042,"Chikiniku, Masakan","Daging, Unggas",143,9.8,1.4,22.8,0.4,301.0,63.0,2.0,531.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP043,"Coto Mangkasara,  Kuda, Masakan","Daging, Unggas",96,6.8,5.9,3.8,0.0,11.0,106.0,2.3,96.0,0.0,3,Rendah_Kalori
+FP044,"Coto Mangkasara,  Sapi, Masakan","Daging, Unggas",84,6.0,6.0,1.4,0.0,8.0,104.0,4.0,90.0,0.0,3,Rendah_Kalori
+FP045,"Djibokum, Masakan","Daging, Unggas",248,10.0,2.3,40.9,0.1,116.0,110.0,2.8,401.0,0.0,1,Karbo_Kompleks
+FP046,"Empal (Daging)  Goreng, Masakan","Daging, Unggas",248,36.2,6.9,10.1,0.0,131.0,235.0,6.4,848.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP047,Gulai Kambing,"Daging, Unggas",126,4.2,9.4,6.2,0.0,45.0,73.0,1.3,302.0,0.0,3,Rendah_Kalori
+FP048,"Jangang Bintatoeng,  Masakan","Daging, Unggas",107,5.3,2.2,16.5,0.0,64.0,61.0,2.5,482.0,0.0,3,Rendah_Kalori
+FP049,"Kalio Ayam, Masakan","Daging, Unggas",203,16.0,13.5,4.4,0.0,278.0,177.0,4.2,534.0,0.0,3,Rendah_Kalori
+FP050,"Kalio Jeroan, Masakan","Daging, Unggas",163,16.5,9.0,4.1,0.0,102.0,268.0,7.1,570.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP051,"Kalio Kikil (Tunjang),  Masakan","Daging, Unggas",122,13.8,5.7,3.9,0.0,154.0,59.0,3.4,519.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP052,"Kalio Otak, Masakan","Daging, Unggas",157,8.1,8.8,11.4,0.0,212.0,69.0,3.3,604.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP053,"Lawar Babi, Masakan","Daging, Unggas",174,17.0,10.0,3.0,0.0,61.0,141.0,3.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP054,"Lawar Penyu, Masakan","Daging, Unggas",141,23.0,1.5,7.6,0.0,69.0,141.0,6.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP055,"Lawara Jangang,  Masakan","Daging, Unggas",159,5.0,10.9,10.1,0.0,57.0,107.0,1.5,400.0,0.0,3,Rendah_Kalori
+FP056,"Naan Maran Sapi,  Masakan","Daging, Unggas",478,38.3,33.9,5.1,0.0,30.0,390.0,11.8,220.0,0.0,2,Lemak_Tinggi
+FP057,"Nasu Likku, Masakan","Daging, Unggas",196,14.5,8.3,15.9,0.0,69.0,157.0,1.0,386.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP058,"Oramu Ninahu Ndawa  Olaho, Masakan","Daging, Unggas",117,13.7,5.0,4.3,0.0,964.0,804.0,2.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP059,"Paniki Masak Santan,  Masakan","Daging, Unggas",460,28.5,35.2,7.2,0.0,188.0,357.0,5.5,2002.0,0.0,2,Lemak_Tinggi
+FP060,"Pelolah Manuk,  Masakan","Daging, Unggas",219,19.7,13.6,4.4,0.0,33.0,160.0,1.6,577.0,0.0,3,Rendah_Kalori
+FP061,"Rawon, Masakan","Daging, Unggas",60,5.4,2.5,4.0,0.0,272.0,153.0,3.3,0.0,0.0,3,Rendah_Kalori
+FP062,"Rendang Sapi,  Masakan","Daging, Unggas",193,22.6,7.9,7.8,0.0,474.0,211.0,14.9,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP063,"Rw, Anjing, Masakan","Daging, Unggas",198,24.6,10.7,0.9,0.0,1071.0,876.0,4.0,1604.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP064,"Sate, Penyu, Masakan","Daging, Unggas",179,22.5,3.5,13.3,0.0,187.0,238.0,14.4,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP065,"Sate Pusut, Masakan","Daging, Unggas",274,12.9,18.6,13.6,0.0,63.0,190.0,2.7,609.0,0.0,3,Rendah_Kalori
+FP066,"Penyu, Serapah,  Masakan","Daging, Unggas",174,13.1,12.2,2.2,0.0,72.0,186.0,9.5,0.0,0.0,3,Rendah_Kalori
+FP067,"Sie Reuboh, Masakan","Daging, Unggas",474,11.2,42.5,11.7,0.0,26.0,62.0,1.3,677.0,0.0,2,Lemak_Tinggi
+FP068,"Sop Buntut, Masakan","Daging, Unggas",71,7.5,3.6,2.2,0.0,286.0,38.0,3.2,490.0,0.0,3,Rendah_Kalori
+FP069,"Sop Daging Sapi,  Masakan","Daging, Unggas",49,5.8,0.5,5.3,0.0,158.0,48.0,2.2,391.0,0.0,3,Rendah_Kalori
+FP070,"Sop Kaki Sapi,  Masakan","Daging, Unggas",68,9.0,1.9,3.7,0.0,302.0,15.0,2.2,435.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP071,"Sop Kambing,  Masakan","Daging, Unggas",34,5.5,0.8,1.1,0.0,145.0,37.0,1.6,348.0,0.0,3,Rendah_Kalori
+FP072,"Sop Konro, Masakan","Daging, Unggas",71,7.4,2.6,4.5,0.0,17.0,60.0,4.6,184.0,0.0,3,Rendah_Kalori
+FP073,"Sop Saudara, Masakan","Daging, Unggas",89,7.2,5.0,3.9,0.0,10.0,174.0,9.0,274.0,0.0,3,Rendah_Kalori
+FP074,"Soto Bandung,  Masakan","Daging, Unggas",42,3.9,1.7,2.8,0.4,74.0,75.0,1.8,0.0,0.0,3,Rendah_Kalori
+FP075,"Soto Banjar, Masakan","Daging, Unggas",110,2.9,9.5,3.2,0.0,28.0,28.0,0.3,36.0,0.0,3,Rendah_Kalori
+FP076,"Soto Betawi, Masakan","Daging, Unggas",135,2.5,8.8,11.5,0.5,222.0,72.0,1.9,0.0,0.0,3,Rendah_Kalori
+FP077,"Soto Jeroan, Masakan","Daging, Unggas",92,11.8,4.3,1.4,0.0,218.0,48.0,1.9,363.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP078,"Soto Kudus, Masakan","Daging, Unggas",38,2.6,2.3,1.8,0.2,237.0,67.0,1.7,0.0,0.0,3,Rendah_Kalori
+FP079,"Soto Madura,  Masakan","Daging, Unggas",60,3.5,4.5,1.3,0.0,361.0,126.0,3.8,0.0,0.0,3,Rendah_Kalori
+FP080,"Soto Padang, Masakan","Daging, Unggas",127,5.9,6.6,11.0,0.7,298.0,94.0,1.5,0.0,0.0,3,Rendah_Kalori
+FP081,"Soto Pekalongan,  Masakan","Daging, Unggas",94,3.0,6.8,5.1,0.3,322.0,79.0,2.0,0.0,0.0,3,Rendah_Kalori
+FP082,"Soto Pemalang,  Masakan","Daging, Unggas",75,3.6,5.2,3.5,0.0,170.0,80.0,2.1,0.0,0.0,3,Rendah_Kalori
+FP083,"Soto Sukaraja,  Masakan","Daging, Unggas",80,3.2,3.5,9.0,0.3,347.0,77.0,2.3,0.0,0.0,3,Rendah_Kalori
+FP084,"Soto Sulung, Masakan","Daging, Unggas",86,2.3,8.5,0.0,0.0,200.0,120.0,2.9,0.0,0.0,3,Rendah_Kalori
+FP085,"Sukiyaki, Masakan","Daging, Unggas",75,5.6,0.4,12.2,0.2,109.0,59.0,0.5,426.0,0.0,3,Rendah_Kalori
+FP086,"Tedong Pallu Basa,  Masakan","Daging, Unggas",83,10.4,3.4,2.8,0.0,10.0,139.0,2.6,397.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+FP087,"Tikus Rica, Masakan","Daging, Unggas",257,18.8,18.5,3.8,0.0,232.0,293.0,6.5,1724.0,0.0,3,Rendah_Kalori
+FP088,"Tinoransa, Masakan","Daging, Unggas",516,17.7,49.5,0.0,0.0,698.0,648.0,3.5,1307.0,0.0,2,Lemak_Tinggi
+GR001,"Belut, Segar","Ikan, Kerang, Udang",70,14.6,0.8,1.0,0.0,49.0,155.0,1.5,55.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR002,"Belut,Laut, Segar","Ikan, Kerang, Udang",93,12.8,1.5,6.1,0.0,60.0,199.0,3.0,33.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR003,"Cumi-Cumi, Segar","Ikan, Kerang, Udang",75,16.1,0.7,0.1,0.0,32.0,200.0,1.8,37.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR004,"Ikan Bader, Segar","Ikan, Kerang, Udang",193,19.0,13.0,0.0,0.0,48.0,150.0,0.4,118.0,0.0,3,Rendah_Kalori
+GR005,"Ikan Balong, Segar","Ikan, Kerang, Udang",107,16.5,3.9,1.5,0.0,54.0,202.0,2.0,86.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR006,"Ikan Bambangan,  Segar","Ikan, Kerang, Udang",112,20.0,1.3,3.7,0.0,98.0,120.0,3.0,148.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR007,"Ikan Bandeng, Segar","Ikan, Kerang, Udang",123,20.0,4.8,0.0,0.0,20.0,150.0,2.0,67.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR008,"Ikan Banjar, Segar","Ikan, Kerang, Udang",111,19.4,0.9,4.8,0.0,68.0,278.0,7.3,99.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR009,"Ikan Baronang, Segar","Ikan, Kerang, Udang",78,14.5,0.6,3.7,0.0,26.0,521.0,3.8,26.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR010,"Ikan Batung, Segar","Ikan, Kerang, Udang",115,14.5,4.6,4.2,0.0,0.0,207.0,0.0,42.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR011,"Ikan Baung, Segar","Ikan, Kerang, Udang",123,15.1,5.5,3.3,0.0,5.0,146.0,1.3,32.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR012,"Ikan Bawal, Segar","Ikan, Kerang, Udang",91,19.0,1.7,0.0,0.0,20.0,150.0,2.0,129.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR013,"Ikan Belida, Segar","Ikan, Kerang, Udang",80,14.7,1.4,2.2,0.0,303.0,315.0,1.3,41.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR014,"Ikan Beunteur, Segar","Ikan, Kerang, Udang",109,17.0,4.0,0.0,0.0,500.0,500.0,1.0,109.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR015,"Ikan Biawan, Segar","Ikan, Kerang, Udang",90,14.9,2.5,2.1,0.0,125.0,265.0,1.0,35.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR016,"Ikan Bili, Segar","Ikan, Kerang, Udang",88,14.2,0.7,6.2,0.0,27.0,1760.0,1.5,217.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR017,"Ikan Bubara, Segar","Ikan, Kerang, Udang",100,14.7,2.4,4.9,0.0,90.0,90.0,0.4,390.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR018,"Ikan Bulan-Bulan,  Segar","Ikan, Kerang, Udang",134,25.5,1.3,5.0,0.0,29.0,29.0,0.5,197.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR019,"Ikan Cakalang, Segar","Ikan, Kerang, Udang",107,19.6,0.7,5.5,0.0,23.0,242.0,2.9,66.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR020,"Ikan Cakalang, Hati,  Segar","Ikan, Kerang, Udang",120,11.3,3.9,10.0,0.0,30.0,30.0,0.9,420.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR021,"Ikan Cakalang,  Jantung, Segar","Ikan, Kerang, Udang",116,11.2,1.2,10.2,0.0,10.0,40.0,3.4,360.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR022,"Ikan Cakalang, Perut,  Segar","Ikan, Kerang, Udang",86,10.2,1.1,8.7,0.0,20.0,110.0,2.1,230.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR023,"Ikan Daun, Segar","Ikan, Kerang, Udang",101,11.5,4.1,4.6,0.0,80.0,210.0,0.8,120.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR024,"Ikan Ekor Kuning,  Segar","Ikan, Kerang, Udang",108,22.3,1.2,2.1,0.0,30.0,220.0,0.5,50.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR025,"Ikan Gabus, Segar","Ikan, Kerang, Udang",80,16.2,0.5,2.6,0.0,170.0,139.0,0.1,65.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR026,"Ikan Heu, Segar","Ikan, Kerang, Udang",81,10.0,1.6,6.6,0.0,1910.0,990.0,2.1,240.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR027,"Ikan Hitam, Segar","Ikan, Kerang, Udang",101,10.3,3.7,6.7,0.0,50.0,140.0,0.4,70.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR028,"Ikan Hiu, Segar","Ikan, Kerang, Udang",57,10.7,0.3,2.2,0.0,75.0,206.0,2.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR029,"Ikan Kacangan, Segar","Ikan, Kerang, Udang",77,15.6,0.9,1.6,0.0,94.0,170.0,1.7,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR030,"Ikan Kakap, Segar","Ikan, Kerang, Udang",92,20.0,0.7,0.0,0.0,20.0,200.0,1.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR031,"Ikan Kakatua, Segar","Ikan, Kerang, Udang",82,11.4,1.2,6.4,0.0,20.0,160.0,0.4,90.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR032,"Ikan Kalaban, Segar","Ikan, Kerang, Udang",77,16.4,0.7,1.3,0.0,182.0,248.0,0.9,40.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR033,"Ikan Kamera (Kakap  Merah), Segar","Ikan, Kerang, Udang",86,19.7,0.8,0.0,0.0,50.0,170.0,0.3,90.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR034,"Ikan Kapar, Segar","Ikan, Kerang, Udang",132,17.0,6.7,0.8,0.0,151.0,272.0,1.2,78.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR035,"Ikan Kawalinya, Segar","Ikan, Kerang, Udang",110,12.6,4.2,5.4,0.0,80.0,300.0,1.5,340.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR036,"Ikan Keru-Keru, Segar","Ikan, Kerang, Udang",93,16.5,2.1,0.8,0.0,65.0,217.0,2.4,137.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR037,"Ikan Kima, Segar","Ikan, Kerang, Udang",70,10.8,0.7,5.2,0.0,53.0,72.0,2.0,342.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR038,"Ikan Lais, Segar","Ikan, Kerang, Udang",161,11.9,11.5,2.4,0.0,70.0,237.0,0.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR039,"Ikan Layang, Segar","Ikan, Kerang, Udang",109,22.0,1.7,0.0,0.0,50.0,150.0,2.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR040,"Ikan Layur, Segar","Ikan, Kerang, Udang",82,18.0,1.0,0.4,0.0,48.0,229.0,2.2,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR041,"Ikan Lehoma, Segar","Ikan, Kerang, Udang",90,20.4,0.9,0.0,0.0,88.0,270.0,0.7,56.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR042,"Ikan Lemuru, Segar","Ikan, Kerang, Udang",112,20.0,3.0,0.0,0.0,20.0,100.0,1.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR043,"Ikan Lidah, Segar","Ikan, Kerang, Udang",104,15.6,3.2,2.0,0.0,30.0,143.0,2.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR044,"Ikan Malalugis, Segar","Ikan, Kerang, Udang",99,20.6,1.4,0.9,0.0,164.0,330.0,0.5,76.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR045,"Ikan Mamar Merah,  Segar","Ikan, Kerang, Udang",115,15.3,4.0,4.4,0.0,60.0,190.0,1.6,120.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR046,"Ikan Mas, Segar","Ikan, Kerang, Udang",86,16.0,2.0,0.0,0.0,20.0,150.0,2.0,65.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR047,"Ikan Mayong, Segar","Ikan, Kerang, Udang",97,17.9,2.0,0.4,0.0,40.0,100.0,2.5,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR048,"Ikan Mujahir, Segar","Ikan, Kerang, Udang",89,18.7,1.0,0.0,0.0,96.0,209.0,1.5,51.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR049,"Ikan Nasu Metti, Segar","Ikan, Kerang, Udang",154,16.8,5.0,10.5,0.0,80.0,244.0,1.6,421.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR050,"Ikan Oci, Kembung,  Segar","Ikan, Kerang, Udang",125,21.3,3.4,2.2,0.0,136.0,69.0,0.8,214.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR051,"Ikan Paling, Segar","Ikan, Kerang, Udang",303,14.0,27.0,0.0,0.0,20.0,200.0,1.0,43.0,2.0,2,Lemak_Tinggi
+GR052,"Ikan Papuyu/ Betok,  Segar","Ikan, Kerang, Udang",120,14.3,4.9,4.6,0.0,329.0,436.0,1.5,240.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR053,"Ikan Patin, Segar","Ikan, Kerang, Udang",132,17.0,6.6,1.1,0.0,31.0,173.0,1.6,77.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR054,"Ikan Pomo, Segar","Ikan, Kerang, Udang",147,22.5,5.2,2.6,0.0,80.0,230.0,1.3,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR055,"Ikan Puntin, Segar","Ikan, Kerang, Udang",76,14.4,1.1,2.2,0.0,28.0,166.0,0.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR056,"Ikan Saluang, Segar","Ikan, Kerang, Udang",113,13.9,4.9,3.4,0.0,642.0,646.0,1.9,51.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR057,"Ikan Sarden, Segar","Ikan, Kerang, Udang",109,19.9,1.8,3.4,0.0,95.0,597.0,1.3,266.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR058,"Ikan Selar, Segar","Ikan, Kerang, Udang",100,18.8,2.2,0.0,0.0,40.0,179.0,0.5,43.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR059,"Ikan Sepat, Segar","Ikan, Kerang, Udang",84,15.2,0.6,4.7,0.0,68.0,171.0,2.1,211.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR060,"Ikan Sidat, Segar","Ikan, Kerang, Udang",81,11.4,1.9,3.8,0.0,118.0,174.0,3.0,46.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR061,"Ikan Sunu, Segar","Ikan, Kerang, Udang",111,13.3,3.4,6.7,0.0,86.0,174.0,1.2,91.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR062,"Ikan Tahuman, Segar","Ikan, Kerang, Udang",88,15.9,0.9,4.1,0.0,221.0,223.0,0.0,24.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR063,"Ikan Tarmon, Segar","Ikan, Kerang, Udang",96,19.5,1.1,2.0,0.0,9.0,129.0,0.3,43.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR064,"Ikan Telan, Segar","Ikan, Kerang, Udang",95,15.8,0.7,6.5,0.0,503.0,354.0,0.2,58.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR065,"Ikan Tembang, Segar","Ikan, Kerang, Udang",204,16.0,15.0,0.0,0.0,20.0,200.0,2.0,341.0,0.0,3,Rendah_Kalori
+GR066,"Ikan Tempahas, Segar","Ikan, Kerang, Udang",101,15.1,4.1,1.0,0.0,32.0,163.0,0.0,50.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR067,"Ikan Terbang, Segar","Ikan, Kerang, Udang",98,19.6,1.7,1.0,0.0,90.0,190.0,0.6,90.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR068,"Ikan Teri, Segar","Ikan, Kerang, Udang",74,10.3,1.4,4.1,0.0,972.0,253.0,3.9,554.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR069,"Ikan Titang, Segar","Ikan, Kerang, Udang",82,17.4,0.4,2.3,0.0,145.0,130.0,1.8,110.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR070,"Ikan Tongkol, Segar","Ikan, Kerang, Udang",100,13.7,1.5,8.0,0.0,92.0,606.0,1.7,202.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR071,"Ikan Turi, Segar","Ikan, Kerang, Udang",96,19.2,2.0,0.2,0.0,340.0,340.0,0.8,370.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR072,"Keong, Segar","Ikan, Kerang, Udang",64,12.0,1.0,2.0,0.0,217.0,78.0,1.7,231.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR073,"Kepiting, Segar","Ikan, Kerang, Udang",151,13.8,3.8,14.1,0.0,210.0,250.0,1.1,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR074,"Kerang, Segar","Ikan, Kerang, Udang",101,14.4,2.6,3.9,0.0,321.0,270.0,15.6,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR075,"Kodok, Segar","Ikan, Kerang, Udang",73,16.4,0.3,0.0,0.0,18.0,147.0,1.1,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR076,"Kura-Kura, Segar","Ikan, Kerang, Udang",83,19.1,0.2,0.0,0.0,27.0,87.0,0.7,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR077,"Kuro, Segar","Ikan, Kerang, Udang",87,16.0,2.2,1.0,0.0,75.0,136.0,1.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR078,"Lokan, Segar","Ikan, Kerang, Udang",217,11.0,1.7,5.1,0.0,20.0,390.0,10.9,3.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR079,"Rajungan, Segar","Ikan, Kerang, Udang",76,12.1,2.0,2.4,0.0,721.0,214.0,2.2,69.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR080,"Rebon, Udang Kecil,  Segar","Ikan, Kerang, Udang",81,16.2,1.2,0.7,0.0,757.0,292.0,2.2,169.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR081,Rusip,"Ikan, Kerang, Udang",110,11.5,2.0,11.7,0.0,479.0,348.0,7.1,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR082,"Udang Galah, Segar","Ikan, Kerang, Udang",81,16.5,0.3,3.0,0.0,87.0,167.0,0.7,95.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR083,"Udang, Besar, Segar","Ikan, Kerang, Udang",56,11.4,0.6,1.2,0.0,30.0,20.0,0.3,190.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GR084,"Udang, Segar","Ikan, Kerang, Udang",91,21.0,0.2,0.1,0.0,136.0,170.0,8.0,178.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP001,"Bekicot, Dendeng,  Mentah","Ikan, Kerang, Udang",441,48.7,20.3,15.8,0.0,692.0,523.0,16.6,0.0,69.0,2,Lemak_Tinggi
+GP002,"Belut, Goreng","Ikan, Kerang, Udang",417,25.9,19.4,32.0,0.0,840.0,872.0,4.9,71.0,0.0,1,Karbo_Kompleks
+GP003,"Cumi-Cumi, Goreng","Ikan, Kerang, Udang",265,40.6,10.1,0.0,0.0,62.0,270.0,2.7,86.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP004,"Ikan Asin, Kering","Ikan, Kerang, Udang",193,42.0,1.5,0.0,0.0,200.0,300.0,0.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP005,"Ikan Bandeng Presto,  Masakan","Ikan, Kerang, Udang",296,17.1,20.3,11.3,0.0,1422.0,659.0,1.9,0.0,69.0,2,Lemak_Tinggi
+GP006,Ikan Baung Bakar,"Ikan, Kerang, Udang",144,17.8,5.8,5.2,0.0,18.0,169.0,0.0,168.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP007,Ikan Belida Bakar,"Ikan, Kerang, Udang",128,18.0,3.0,7.2,0.0,58.0,134.0,0.0,293.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP008,"Ikan Cakalang Asap,  Mentah","Ikan, Kerang, Udang",204,34.2,5.6,1.9,0.0,14.0,399.0,1.3,176.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP009,"Ikan Cakalang Asin,  Mentah","Ikan, Kerang, Udang",198,36.5,2.2,5.5,0.0,236.0,346.0,3.7,4304.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP010,"Ikan Calo/ Peda,  Mentah","Ikan, Kerang, Udang",81,11.4,1.9,3.8,0.0,743.0,174.0,22.6,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP011,"Ikan Gabus Asap,  Mentah","Ikan, Kerang, Udang",261,38.1,2.3,21.9,0.0,2510.0,1840.0,2.9,320.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP012,"Ikan Gabus, Kering","Ikan, Kerang, Udang",268,58.0,4.0,0.0,0.0,15.0,100.0,0.1,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP013,"Ikan Gete, Goreng","Ikan, Kerang, Udang",267,23.1,19.4,0.2,0.0,2340.0,1240.0,0.8,590.0,0.0,3,Rendah_Kalori
+GP014,"Ikan Hiu, Kering","Ikan, Kerang, Udang",298,46.3,3.6,20.2,0.0,335.0,846.0,2.5,957.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP015,"Ikan Katombo, Asin","Ikan, Kerang, Udang",162,31.7,2.8,0.3,0.0,279.0,609.0,4.6,4393.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP016,"Ikan Kayu, Kering","Ikan, Kerang, Udang",302,70.7,1.9,0.4,0.0,313.0,22.0,4.1,345.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP017,Ikan Lais Bakar,"Ikan, Kerang, Udang",147,17.5,6.5,5.4,0.0,54.0,194.0,0.1,142.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP018,"Ikan Lomak Asin,  Mentah","Ikan, Kerang, Udang",258,40.3,2.3,18.9,0.0,140.0,279.0,2.3,6227.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP019,Ikan Mas Pepes,"Ikan, Kerang, Udang",209,15.2,11.3,11.8,0.5,686.0,530.0,6.1,74.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP020,Ikan Mujahir Goreng,"Ikan, Kerang, Udang",416,46.9,23.9,0.0,0.0,346.0,654.0,0.9,54.0,0.0,2,Lemak_Tinggi
+GP021,Ikan Mujahir Pepes,"Ikan, Kerang, Udang",121,21.7,2.8,0.8,0.0,83.0,248.0,1.6,58.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP022,"Ikan Mujahir,  Dendeng, Mentah","Ikan, Kerang, Udang",582,68.3,15.2,37.2,0.0,3258.0,1699.0,4.3,0.0,0.0,1,Karbo_Kompleks
+GP023,"Ikan Papuyu, Bakar","Ikan, Kerang, Udang",152,17.6,6.1,6.7,0.0,244.0,227.0,3.4,320.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP024,"Ikan Patin, Bakar","Ikan, Kerang, Udang",144,17.5,6.3,4.3,0.0,191.0,232.0,1.4,379.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP025,"Ikan Peda Banjar,  Mentah","Ikan, Kerang, Udang",156,28.0,4.0,2.0,0.0,174.0,316.0,3.1,59.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP026,"Ikan Pepetek, Mentah","Ikan, Kerang, Udang",176,32.0,4.4,2.0,0.0,120.0,200.0,1.0,79.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP027,"Ikan Pindang Banjar,  Mentah","Ikan, Kerang, Udang",157,28.0,4.2,1.8,0.0,50.0,100.0,1.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP028,"Ikan Pindang Benggol,  Mentah","Ikan, Kerang, Udang",170,31.0,4.2,0.0,0.0,50.0,100.0,1.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP029,"Ikan Pindang Layang,  Mentah","Ikan, Kerang, Udang",153,30.0,2.8,0.0,0.0,60.0,200.0,3.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP030,"Ikan Pindang Selar,  Mentah","Ikan, Kerang, Udang",142,27.0,3.0,0.0,0.0,60.0,200.0,3.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP031,"Ikan Sale, Mentah","Ikan, Kerang, Udang",534,40.2,39.3,4.9,2.0,199.0,1244.0,2.7,673.0,0.0,2,Lemak_Tinggi
+GP032,"Ikan Sale Lais, Mentah","Ikan, Kerang, Udang",415,61.3,17.6,2.9,0.0,258.0,919.0,7.0,381.0,0.0,3,Rendah_Kalori
+GP033,"Ikan Saluang, Kering,  Mentah","Ikan, Kerang, Udang",284,34.1,9.9,14.6,0.0,1426.0,1103.0,9.5,1767.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP034,"Ikan Sanggang,  Masakan","Ikan, Kerang, Udang",240,21.7,7.7,20.7,0.0,159.0,362.0,9.8,2041.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP035,"Ikan Selar Kuning, Cue,  Mentah","Ikan, Kerang, Udang",138,27.0,3.3,0.0,0.0,50.0,100.0,2.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP036,"Ikan Selar, Kering,  Mentah","Ikan, Kerang, Udang",194,38.0,3.5,0.0,0.0,20.0,200.0,1.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP037,"Ikan Sepat, Kering,  Mentah","Ikan, Kerang, Udang",289,38.0,14.0,0.0,0.0,40.0,100.0,0.7,0.0,0.0,3,Rendah_Kalori
+GP038,"Ikan Sunu, Asin,  Mentah","Ikan, Kerang, Udang",199,34.1,3.8,7.1,0.0,94.0,92.0,2.2,377.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP039,"Ikan, Tepung, Mentah","Ikan, Kerang, Udang",316,60.1,6.5,22.4,0.0,3196.0,1976.0,16.6,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP040,"Ikan Teri Nasi, Kering,  Mentah","Ikan, Kerang, Udang",144,32.5,0.6,0.0,0.0,1000.0,1000.0,3.0,312.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP041,"Ikan Teri, Bubuk,  Mentah","Ikan, Kerang, Udang",277,60.0,2.3,1.8,0.0,1209.0,1225.0,3.0,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP042,"Ikan Teri, Kering,  Mentah","Ikan, Kerang, Udang",170,33.4,3.0,0.0,0.0,1200.0,1500.0,3.6,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP043,"Ikan Teri, Kering,  Tawar, Mentah","Ikan, Kerang, Udang",331,68.7,4.2,0.0,0.0,2381.0,1500.0,23.4,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP044,"Ikan Teri, Tepung,  Mentah","Ikan, Kerang, Udang",347,48.8,6.4,19.6,0.0,4608.0,1200.0,18.6,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP045,"Kerang, Asap, Mentah","Ikan, Kerang, Udang",393,38.9,13.3,29.4,0.0,420.0,410.0,8.5,160.0,0.0,1,Karbo_Kompleks
+GP046,"Kerang, Dendeng,  Mentah","Ikan, Kerang, Udang",357,41.1,10.0,25.6,0.0,217.0,904.0,5.2,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP047,"Rebon, Kering, Mentah","Ikan, Kerang, Udang",299,59.4,3.6,3.2,0.0,2306.0,625.0,21.4,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP048,"Rebung Laut, Mentah","Ikan, Kerang, Udang",320,7.2,4.2,63.3,0.0,240.0,570.0,6.6,20.0,0.0,1,Karbo_Kompleks
+GP049,Sardines Dalam Kaleng,"Ikan, Kerang, Udang",338,21.1,27.0,1.0,0.0,354.0,434.0,3.5,0.0,0.0,2,Lemak_Tinggi
+GP050,"Teripang, Dendeng,  Mentah","Ikan, Kerang, Udang",462,39.1,32.4,3.5,0.0,499.0,616.0,96.4,315.0,0.0,2,Lemak_Tinggi
+GP051,"Udang Kering, Mentah","Ikan, Kerang, Udang",278,62.6,4.1,2.2,0.0,760.0,510.0,5.2,540.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP052,"Udang Papay, Mentah","Ikan, Kerang, Udang",273,47.8,3.8,12.5,0.0,1109.0,789.0,2.4,651.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP053,Abon Haruwan,"Ikan, Kerang, Udang",513,23.7,37.0,21.3,0.0,25.0,25.0,0.5,61.0,0.0,2,Lemak_Tinggi
+GP054,Abon Ikan,"Ikan, Kerang, Udang",435,27.2,20.2,36.1,0.0,0.0,0.0,0.0,0.0,0.0,2,Lemak_Tinggi
+GP055,"Betok Wadi, Masakan","Ikan, Kerang, Udang",145,16.3,7.0,4.1,0.0,405.0,523.0,1.8,69.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP056,"Bou Ninahu Ndamate,  Masakan","Ikan, Kerang, Udang",79,6.3,1.0,1.1,0.0,0.0,0.0,0.0,67.0,0.0,3,Rendah_Kalori
+GP057,"Bouiki Ninahu  Nggaluku, Masakan","Ikan, Kerang, Udang",94,7.8,2.2,10.8,0.0,0.0,0.0,0.0,58.0,0.0,3,Rendah_Kalori
+GP058,Cakalang Asar (Asap),"Ikan, Kerang, Udang",155,20.1,3.8,10.2,0.0,20.0,240.0,2.1,90.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP059,"Dendeng Belut,  Goreng, Masakan","Ikan, Kerang, Udang",382,55.7,14.1,8.0,0.0,1069.0,654.0,15.4,0.0,0.0,3,Rendah_Kalori
+GP060,"Dendeng Mujahir,  Goreng, Masakan","Ikan, Kerang, Udang",598,74.3,26.9,9.2,0.0,1957.0,1447.0,7.4,0.0,0.0,2,Lemak_Tinggi
+GP061,Fillet O-Fish,"Ikan, Kerang, Udang",270,12.3,15.9,19.3,0.2,239.0,272.0,1.8,439.0,0.0,3,Rendah_Kalori
+GP062,"Gete Kuah Asam,  Masakan","Ikan, Kerang, Udang",75,8.2,2.0,6.0,0.0,1620.0,880.0,0.8,260.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP063,"Gulai Asam Keueung,  Masakan","Ikan, Kerang, Udang",52,10.0,0.5,1.8,0.0,62.0,102.0,0.3,332.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP065,"Gulai Ikan, Masakan","Ikan, Kerang, Udang",106,16.5,3.3,2.5,0.0,306.0,196.0,4.8,743.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP064,"Gulai Ikan Paya,  Masakan","Ikan, Kerang, Udang",148,10.0,9.8,5.0,0.0,103.0,82.0,0.7,525.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP066,"Gulai Keumamah,  Masakan","Ikan, Kerang, Udang",110,5.9,8.2,3.2,0.0,32.0,96.0,1.0,335.0,0.0,3,Rendah_Kalori
+GP067,"Gulai Tiram, Masakan","Ikan, Kerang, Udang",132,9.0,7.2,7.8,0.0,53.0,134.0,3.7,285.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP068,"Gurame Asem Manis,  Masakan","Ikan, Kerang, Udang",192,12.7,10.1,12.7,0.0,283.0,169.0,1.1,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP069,"Ikan Asar Merah,  Masakan","Ikan, Kerang, Udang",146,17.7,5.9,5.6,0.0,100.0,240.0,4.0,170.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP070,"Jambal Goreng,  Masakan","Ikan, Kerang, Udang",286,48.5,9.2,2.3,0.0,207.0,457.0,3.3,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP071,"Jukku Pallu Kaloa,  Masakan","Ikan, Kerang, Udang",15,15.2,4.3,8.8,0.0,40.0,170.0,1.1,605.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP072,"Kaholeo, Masakan","Ikan, Kerang, Udang",413,28.7,19.8,29.8,0.0,909.0,1291.0,0.0,0.0,0.0,1,Karbo_Kompleks
+GP073,Lawara Penjah,"Ikan, Kerang, Udang",207,7.4,15.4,9.6,0.0,114.0,219.0,5.9,683.0,14.0,3,Rendah_Kalori
+GP074,"Model, Masakan","Ikan, Kerang, Udang",79,2.2,4.0,8.6,0.0,8.0,33.0,0.8,147.0,0.0,3,Rendah_Kalori
+GP075,"Mujahir Acar Kuning,  Masakan","Ikan, Kerang, Udang",330,17.8,23.4,12.1,1.1,154.0,357.0,5.3,0.0,0.0,2,Lemak_Tinggi
+GP076,"Parede Baleh,  Masakan","Ikan, Kerang, Udang",87,10.5,2.5,5.5,0.0,35.0,215.0,0.9,416.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP077,"Pempek Adaan,  Masakan","Ikan, Kerang, Udang",162,4.9,3.0,27.8,0.0,26.0,116.0,1.0,488.0,0.0,1,Karbo_Kompleks
+GP078,"Pempek Belida,  Masakan","Ikan, Kerang, Udang",156,4.2,1.4,31.6,0.2,100.0,55.0,3.3,0.0,0.0,1,Karbo_Kompleks
+GP079,"Pempek Kapal Selam,  Masakan","Ikan, Kerang, Udang",152,4.5,2.3,28.2,0.0,19.0,115.0,1.6,628.0,0.0,1,Karbo_Kompleks
+GP080,"Pempek Kelesan,  Masakan","Ikan, Kerang, Udang",211,12.3,6.1,26.6,0.4,840.0,176.0,1.8,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP081,"Pempek Kulit,  Masakan","Ikan, Kerang, Udang",243,5.2,7.3,39.1,0.0,16.0,96.0,2.0,555.0,0.0,1,Karbo_Kompleks
+GP082,"Pempek Telur,  Masakan","Ikan, Kerang, Udang",156,4.7,2.7,28.3,0.0,13.0,83.0,1.3,448.0,0.0,1,Karbo_Kompleks
+GP083,"Pempek Tenggiri,  Masakan","Ikan, Kerang, Udang",173,7.2,1.2,33.4,0.2,164.0,80.0,3.1,0.0,0.0,1,Karbo_Kompleks
+GP084,"Pencok Lele, Masakan","Ikan, Kerang, Udang",372,7.8,36.3,3.5,0.0,289.0,295.0,5.3,0.0,0.0,2,Lemak_Tinggi
+GP085,Pinda,"Ikan, Kerang, Udang",107,15.9,0.6,0.4,0.0,375.0,336.0,1.9,526.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP086,"Pindang Kenari,  Masakan","Ikan, Kerang, Udang",124,9.5,9.6,0.0,0.0,120.0,220.0,1.3,370.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP087,"Saboko Gurita,  Masakan","Ikan, Kerang, Udang",87,15.7,1.5,2.6,0.0,60.0,14.0,2.1,200.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP088,"Saboko Saltan,  Masakan","Ikan, Kerang, Udang",113,17.1,3.6,3.0,0.0,240.0,60.0,0.5,40.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP089,"Saboko Sardin,  Masakan","Ikan, Kerang, Udang",110,12.9,4.3,4.9,0.0,220.0,520.0,6.0,200.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+GP090,Sate Bandeng,"Ikan, Kerang, Udang",283,12.1,16.8,20.9,2.0,118.0,186.0,1.2,543.0,0.0,3,Rendah_Kalori
+GP091,"Sepi, Masakan","Ikan, Kerang, Udang",88,7.9,1.6,10.6,0.0,924.0,350.0,2.3,873.0,0.0,3,Rendah_Kalori
+GP092,"Tekwan, Masakan","Ikan, Kerang, Udang",53,1.9,0.9,9.4,0.0,9.0,41.0,1.0,174.0,0.0,3,Rendah_Kalori
+GP093,"Teri Belado, Masakan","Ikan, Kerang, Udang",365,23.7,22.3,17.5,0.0,869.0,348.0,4.0,0.0,0.0,2,Lemak_Tinggi
+GP094,"Tumis Bandeng,  Masakan","Ikan, Kerang, Udang",189,11.3,15.7,0.6,0.0,56.0,129.0,0.4,314.0,0.0,3,Rendah_Kalori
+GP095,Tumis Keumamah,"Ikan, Kerang, Udang",300,14.5,20.0,15.5,4.5,0.0,0.0,0.0,0.0,7.0,2,Lemak_Tinggi
+HR001,"Telur Ayam Kampung,  Segar",Telur,174,10.8,14.0,1.2,0.0,68.0,268.0,4.9,190.0,0.0,3,Rendah_Kalori
+HR002,"Telur Ayam Ras, Segar",Telur,154,12.4,10.8,0.7,0.0,86.0,258.0,3.0,142.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+HR003,"Telur Ayam Ras, Bagian  Kuning, Segar",Telur,355,16.3,31.9,0.7,0.0,147.0,586.0,7.2,111.0,0.0,2,Lemak_Tinggi
+HR004,"Telur Aayam Ras,  Bagian Putih, Segar",Telur,50,10.8,0.0,0.8,0.0,6.0,17.0,0.2,164.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+HR005,"Telur Bebek Alabio,  Segar",Telur,187,11.8,14.2,3.0,0.0,60.0,268.0,6.0,115.0,0.0,3,Rendah_Kalori
+HR006,"Telur Bebek, Bagian  Kuning, Segar",Telur,386,17.0,35.0,0.8,0.0,150.0,400.0,7.0,106.0,0.0,2,Lemak_Tinggi
+HR007,"Telur Bebek, Bagian  Putih, Segar",Telur,54,11.0,0.0,0.8,0.0,21.0,20.0,0.1,184.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+HR008,"Telur Bebek Tambak,  Segar",Telur,187,10.9,12.4,7.9,0.0,64.0,295.0,5.4,209.0,0.0,3,Rendah_Kalori
+HR009,"Telur Burung Maleo,  Segar",Telur,436,26.5,36.3,0.4,0.0,154.0,120.0,4.3,77.0,0.0,2,Lemak_Tinggi
+HR010,"Telur Penyu, Segar",Telur,136,8.6,10.1,2.7,0.0,66.0,282.0,3.4,478.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+HR011,"Telur Burung Puyuh,  Segar",Telur,116,10.7,7.0,1.6,0.0,65.0,191.0,3.5,111.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+HP001,"Telur Ayam, Dadar,  Masakan",Telur,251,16.3,19.4,1.4,0.0,62.0,250.0,2.5,0.0,0.0,3,Rendah_Kalori
+HP002,"Telur Bebek, Asin,  Mentah",Telur,179,13.6,13.3,4.4,0.0,120.0,157.0,1.8,483.0,0.0,3,Rendah_Kalori
+HP003,"Telur Bebek, Dadar,  Masakan",Telur,301,20.0,23.7,0.0,0.0,71.0,600.0,9.2,0.0,0.0,2,Lemak_Tinggi
+HP004,"Ikan, Telur, Asin,  Mentah",Telur,358,20.7,26.4,9.4,0.0,48.0,311.0,15.1,2684.0,0.0,2,Lemak_Tinggi
+HP005,"Bayau Mi Balu,  Masakan",Telur,313,6.0,12.2,44.8,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+HP006,"Cucuru Bayau,  Masakan",Telur,349,6.8,18.7,38.3,0.0,0.0,0.0,0.0,0.0,0.0,1,Karbo_Kompleks
+HP007,"Kalio Telur, Masakan",Telur,193,10.6,12.4,9.7,0.0,148.0,246.0,3.8,540.0,0.0,3,Rendah_Kalori
+JR001,"Kepala Susu - Krim,  Segar",Susu,204,2.6,20.0,4.0,0.0,97.0,77.0,0.1,0.0,1.0,2,Lemak_Tinggi
+JR002,Susu Ibu - Asi,Susu,62,1.5,3.2,7.0,0.0,34.0,20.0,0.2,15.0,0.0,3,Rendah_Kalori
+JR003,"Susu Kambing, Segar",Susu,64,4.3,2.3,6.6,0.0,98.0,78.0,2.7,35.0,1.0,3,Rendah_Kalori
+JR004,"Susu Kerbau, Segar",Susu,160,6.3,12.0,7.1,0.0,216.0,101.0,0.2,82.0,1.0,3,Rendah_Kalori
+JR005,"Susu Kuda, Segar",Susu,40,2.0,1.1,5.4,0.0,0.0,0.0,0.0,0.0,0.0,3,Rendah_Kalori
+JR006,"Susu Sapi, Segar",Susu,61,3.2,3.5,4.3,0.0,143.0,60.0,1.7,36.0,1.0,3,Rendah_Kalori
+JP001,Es Krim,Susu,210,4.0,12.5,20.6,0.0,123.0,99.0,0.1,78.0,1.0,3,Rendah_Kalori
+JP002,Hangop,Susu,65,10.0,1.0,3.5,0.0,180.0,190.0,0.2,126.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+JP003,Keju,Susu,326,22.8,20.3,13.1,0.0,777.0,338.0,1.5,1410.0,1.0,2,Lemak_Tinggi
+JP004,Kwark (Quark),Susu,242,19.0,17.0,3.0,0.0,300.0,350.0,0.5,37.0,0.0,3,Rendah_Kalori
+JP005,"Susu Asam Untuk Bayi,  Bubuk",Susu,418,19.0,9.0,65.5,0.0,800.0,600.0,7.0,188.0,30.0,0,Tinggi_Protein_Rendah_Lemak
+JP006,Susu Bubuk,Susu,513,24.6,30.0,36.2,0.0,904.0,694.0,0.6,380.0,6.0,2,Lemak_Tinggi
+JP007,Susu Kental Manis,Susu,343,8.2,10.0,55.0,0.0,275.0,209.0,0.2,150.0,1.0,1,Karbo_Kompleks
+JP008,Susu Kental Tak Manis,Susu,138,7.0,7.9,9.9,0.0,243.0,195.0,0.2,140.0,1.0,3,Rendah_Kalori
+JP009,"Susu Skim, Bubuk",Susu,359,35.6,1.0,52.0,0.0,1300.0,1030.0,0.6,470.0,7.0,0,Tinggi_Protein_Rendah_Lemak
+JP010,"Susu Skim, Segar",Susu,36,3.5,0.1,5.1,0.0,123.0,97.0,0.1,38.0,1.0,3,Rendah_Kalori
+JP011,"Yoghurt, Segar",Susu,52,3.3,2.5,4.0,0.0,120.0,90.0,0.1,40.0,0.0,3,Rendah_Kalori
+KR001,"Kelapa Setengah Tua,  Daging, Segar",Lemak,180,4.0,15.0,10.0,2.4,8.0,55.0,1.3,4.0,4.0,2,Lemak_Tinggi
+KR002,"Kelapa Tua, Daging,  Segar",Lemak,359,3.4,34.7,14.0,4.7,21.0,98.0,2.0,3.0,2.0,2,Lemak_Tinggi
+KR003,Lemak Babi (Lard),Lemak,902,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,Lemak_Tinggi
+KR004,Lemak Babi (Bacon),Lemak,626,9.1,65.0,1.1,0.0,13.0,108.0,0.8,0.0,0.0,2,Lemak_Tinggi
+KR005,Lemak Ikan,Lemak,372,12.0,29.4,14.4,0.0,20.0,230.0,32.7,60.0,0.0,2,Lemak_Tinggi
+KR006,Lemak Kerbau (Lemak  Sapi),Lemak,818,1.5,90.0,0.0,0.0,0.0,0.0,0.0,29.0,0.0,2,Lemak_Tinggi
+KR007,"Minyak Hiu, Hati",Lemak,902,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,Lemak_Tinggi
+KR008,Minyak Ikan,Lemak,902,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,Lemak_Tinggi
+KR009,Minyak Kacang Tanah,Lemak,902,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,Lemak_Tinggi
+KR010,Minyak Kedelai,Lemak,883,0.0,99.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,Lemak_Tinggi
+KR011,Minyak Kelapa,Lemak,870,1.0,98.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,Lemak_Tinggi
+KR012,Minyak Kelapa Sawit,Lemak,884,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,Lemak_Tinggi
+KR013,Minyak Wijen,Lemak,881,0.2,99.7,0.0,0.0,10.0,5.0,0.1,2.0,0.0,2,Lemak_Tinggi
+KR014,Minyak Zaitun,Lemak,884,0.0,100.0,0.0,0.0,14.0,0.0,1.2,7.0,0.0,2,Lemak_Tinggi
+KP001,Margarin,Lemak,720,0.6,81.0,0.4,0.0,20.0,16.0,0.0,760.0,0.0,2,Lemak_Tinggi
+KP002,Mentega,Lemak,742,0.5,81.6,1.4,0.0,15.0,16.0,1.1,653.0,0.0,2,Lemak_Tinggi
+KP003,Santan (Dengan Air),Lemak,122,2.0,10.0,7.6,1.4,25.0,30.0,0.1,9.0,2.0,2,Lemak_Tinggi
+KP004,Santan Murni,Lemak,324,4.2,34.3,5.6,0.0,14.0,45.0,1.9,18.0,2.0,2,Lemak_Tinggi
+MP001,"Coklat Manis, Batang","Gula, Sirup",527,2.0,29.8,62.7,6.5,63.0,287.0,2.8,6.0,0.0,2,Lemak_Tinggi
+MP002,"Coklat Pahit,Batang","Gula, Sirup",615,5.5,42.6,29.2,10.8,98.0,446.0,4.4,20.0,0.0,2,Lemak_Tinggi
+MP003,"Coklat Susu, Batang","Gula, Sirup",565,9.0,35.0,53.6,3.4,200.0,200.0,2.0,100.0,0.0,2,Lemak_Tinggi
+MP004,Coklat Bubuk,"Gula, Sirup",311,8.0,4.0,48.9,32.6,125.0,715.0,11.6,0.0,0.0,1,Karbo_Kompleks
+MP005,Gula Aren,"Gula, Sirup",368,0.0,0.0,92.0,0.0,75.0,35.0,3.0,15.0,0.0,1,Karbo_Kompleks
+MP006,Gula Kelapa,"Gula, Sirup",386,3.0,10.0,76.0,0.0,76.0,37.0,2.6,2.0,0.0,1,Karbo_Kompleks
+MP007,Gula Putih,"Gula, Sirup",394,0.0,0.0,94.0,0.0,5.0,1.0,0.1,1.0,0.0,1,Karbo_Kompleks
+MP008,"Jam, Selai","Gula, Sirup",239,0.5,0.6,64.5,1.0,20.0,20.0,1.0,30.0,0.0,1,Karbo_Kompleks
+MP009,Kopi Bubuk Instant,"Gula, Sirup",129,12.3,0.5,35.0,0.0,179.0,383.0,5.6,72.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+MP010,Madu,"Gula, Sirup",294,0.3,0.0,79.5,0.2,5.0,16.0,0.9,6.0,4.0,1,Karbo_Kompleks
+MP011,Markisa Squash,"Gula, Sirup",217,2.5,1.0,49.6,0.0,6.0,83.0,0.6,14.0,14.0,1,Karbo_Kompleks
+MP012,"Markisa Squash, Bd","Gula, Sirup",104,1.2,0.5,23.7,0.0,1.0,88.0,0.5,40.0,12.0,3,Rendah_Kalori
+MP013,Melase,"Gula, Sirup",276,0.0,0.1,71.0,0.0,6.0,83.0,0.6,14.0,0.0,1,Karbo_Kompleks
+MP014,Sirup,"Gula, Sirup",213,0.0,0.0,55.0,0.0,0.0,0.0,0.0,3.0,0.0,1,Karbo_Kompleks
+MP015,Sirup Pirous,"Gula, Sirup",228,0.2,0.4,55.9,0.0,470.0,93.0,29.5,3.0,8.0,1,Karbo_Kompleks
+MP016,Teh Hijau Daun Kering,"Gula, Sirup",300,28.3,4.8,53.6,9.6,245.0,415.0,18.9,60.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+MP017,Teh Hitam Daun Kering,"Gula, Sirup",293,24.5,2.8,58.8,8.7,327.0,313.0,24.3,50.0,9.0,0,Tinggi_Protein_Rendah_Lemak
+MP018,Teh Melati Daun  Kering,"Gula, Sirup",299,24.1,3.5,59.0,9.7,320.0,185.0,31.6,70.0,85.0,0,Tinggi_Protein_Rendah_Lemak
+NR001,"Asam Arang Coklat,  Segar",Bumbu,130,0.5,1.1,30.9,1.5,79.0,113.0,4.3,13.0,0.0,1,Karbo_Kompleks
+NR002,"Asam Arang Merah,  Segar",Bumbu,99,0.8,1.6,20.3,2.8,69.0,300.0,4.6,2.0,0.0,3,Rendah_Kalori
+NR003,"Asan Kandis, Kering",Bumbu,261,0.9,1.6,63.3,5.0,192.0,657.0,4.4,26.0,0.0,1,Karbo_Kompleks
+NR004,"Asam Kandis, Segar",Bumbu,75,0.2,1.1,16.1,3.4,63.0,139.0,2.5,93.0,0.0,3,Rendah_Kalori
+NR005,"Asam Masak Pohon,  Segar",Bumbu,267,2.8,0.6,62.5,1.2,74.0,113.0,0.6,9.0,2.0,1,Karbo_Kompleks
+NR006,"Asam Payak, Segar",Bumbu,135,0.8,0.4,32.1,10.0,60.0,39.0,5.7,0.0,0.0,1,Karbo_Kompleks
+NR007,"Bawang Merah, Segar",Bumbu,46,1.5,0.3,9.2,1.7,36.0,40.0,0.8,7.0,2.0,3,Rendah_Kalori
+NR008,"Bawang Putih, Segar",Bumbu,112,4.5,0.2,23.1,0.6,42.0,134.0,1.0,46.0,15.0,3,Rendah_Kalori
+NR009,"Boros Kunci, Segar",Bumbu,40,1.0,0.8,7.2,1.0,50.0,50.0,2.0,33.0,50.0,3,Rendah_Kalori
+NR010,"Boros Laja (Lengkuas),  Segar",Bumbu,26,1.0,0.3,4.7,1.1,50.0,50.0,2.0,24.0,50.0,3,Rendah_Kalori
+NR011,"Cabai Gembor Merah,  Segar",Bumbu,38,1.6,0.8,6.3,1.6,49.0,41.0,1.1,7.0,16.0,3,Rendah_Kalori
+NR012,"Cabai Hijau, Segar",Bumbu,26,0.7,0.3,5.2,2.6,14.0,23.0,0.4,7.0,84.0,3,Rendah_Kalori
+NR013,"Cabai Merah, Kering",Bumbu,367,15.9,6.2,61.8,26.9,160.0,370.0,2.3,25.0,50.0,1,Karbo_Kompleks
+NR014,"Cabai Merah, Segar",Bumbu,36,1.0,0.3,7.3,1.4,29.0,24.0,0.5,23.0,18.0,3,Rendah_Kalori
+NR015,"Cabai Rawit, Segar",Bumbu,120,4.7,2.4,19.9,15.2,45.0,85.0,2.5,34.0,70.0,3,Rendah_Kalori
+NR016,"Cengkeh, Kering",Bumbu,330,5.2,8.9,57.4,10.0,740.0,100.0,4.9,282.0,0.0,1,Karbo_Kompleks
+NR017,"Daun Salam, Bubuk",Bumbu,301,14.2,10.9,49.0,9.4,86.0,250.0,44.1,180.0,0.0,1,Karbo_Kompleks
+NR018,"Jahe, Segar",Bumbu,51,1.5,1.0,10.1,12.0,21.0,39.0,1.6,12.0,4.0,3,Rendah_Kalori
+NR019,Kemiri,Bumbu,675,19.0,63.0,8.0,3.0,80.0,200.0,2.0,25.0,0.0,2,Lemak_Tinggi
+NR020,"Ketumbar, Kering",Bumbu,418,14.1,16.1,54.2,12.3,630.0,370.0,17.9,91.0,0.0,1,Karbo_Kompleks
+NR021,Kluwek,Bumbu,310,10.0,24.0,13.5,0.0,40.0,100.0,2.0,0.0,30.0,2,Lemak_Tinggi
+NR022,"Kunyit, Segar",Bumbu,69,2.0,2.7,9.1,0.6,24.0,78.0,3.3,6.0,1.0,3,Rendah_Kalori
+NR023,"Merica, Kering",Bumbu,365,11.5,6.8,64.4,1.0,460.0,200.0,16.4,4.0,0.0,1,Karbo_Kompleks
+NR024,"Pala, Biji, Kering",Bumbu,518,7.5,36.4,40.1,3.5,120.0,240.0,4.6,2.0,0.0,2,Lemak_Tinggi
+NP001,Balichong,Bumbu,152,13.2,0.8,22.9,1.5,380.0,210.0,2.9,120.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+NP002,Bekasam,Bumbu,116,11.9,4.9,6.1,3.5,704.0,757.0,7.5,711.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+NP003,Bekasang,Bumbu,78,11.4,2.0,3.6,0.4,54.0,97.0,2.6,4016.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+NP004,Cuka,Bumbu,21,0.1,0.1,5.0,0.0,7.0,10.0,0.5,21.0,0.0,3,Rendah_Kalori
+NP005,Kecap,Bumbu,71,5.7,1.3,9.0,0.0,123.0,96.0,5.7,1114.0,0.0,3,Rendah_Kalori
+NP006,Petis Ikan,Bumbu,165,20.0,0.2,20.8,0.0,37.0,36.0,2.8,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+NP007,Petis Udang Kering,Bumbu,345,23.8,1.4,59.3,0.0,221.0,397.0,3.8,0.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+NP008,Petis Udang Pasta,Bumbu,220,15.0,0.9,38.0,2.3,37.0,36.0,2.8,7981.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+NP009,Saos Tomat,Bumbu,110,2.0,0.4,24.5,0.9,12.0,18.0,0.8,890.0,11.0,3,Rendah_Kalori
+NP010,Tempoya,Bumbu,110,1.7,1.3,21.9,2.6,190.0,45.0,2.9,597.0,0.0,3,Rendah_Kalori
+NP011,Terasi,Bumbu,155,22.3,2.9,9.9,2.7,3812.0,726.0,78.5,1664.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+NP012,Terasi Dobo,Bumbu,191,33.1,3.6,6.6,1.6,2250.0,1130.0,22.9,650.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+NP013,Terasi Merah,Bumbu,174,30.0,3.5,5.6,2.2,100.0,150.0,3.1,7850.0,0.0,0,Tinggi_Protein_Rendah_Lemak
+QR001,"Kelapa Muda, Air,  Segar",Minuman,17,0.2,0.1,3.8,0.0,15.0,8.0,0.2,1.0,1.0,3,Rendah_Kalori
