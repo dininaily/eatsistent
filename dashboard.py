@@ -80,6 +80,28 @@ with st.sidebar:
     )
 
     st.markdown("---")
+    st.markdown("### Filter Profil Fisik")
+    
+    usia_range = st.slider(
+        "Rentang Usia (tahun)",
+        min_value=int(df_user["usia"].min()),
+        max_value=int(df_user["usia"].max()),
+        value=(int(df_user["usia"].min()), int(df_user["usia"].max()))
+    )
+    tinggi_range = st.slider(
+        "Tinggi Badan (cm)",
+        min_value=int(df_user["tinggi_cm"].min()),
+        max_value=int(df_user["tinggi_cm"].max()),
+        value=(int(df_user["tinggi_cm"].min()), int(df_user["tinggi_cm"].max()))
+    )
+    berat_range = st.slider(
+        "Berat Badan (kg)",
+        min_value=int(df_user["berat_kg"].min()),
+        max_value=int(df_user["berat_kg"].max()),
+        value=(int(df_user["berat_kg"].min()), int(df_user["berat_kg"].max()))
+    )
+    
+    st.markdown("---")
     st.markdown("### Filter Makanan")
     kat_selected = st.multiselect(
         "Kategori TKPI",
@@ -96,22 +118,27 @@ df_u = df_user[
     df_user["jenis_kelamin"].isin(gender) &
     df_user["target_user"].isin(target) &
     df_user["level_aktivitas"].isin(aktivitas)
+    df_user["usia"].between(*usia_range) &
+    df_user["tinggi_cm"].between(*tinggi_range) &
+    df_user["berat_kg"].between(*berat_range)
 ].copy()
 
 df_t = df_tkpi[df_tkpi["kategori"].isin(kat_selected)].copy()
 
 
 # ── Header ────────────────────────────────────────────────────────────────────
-col_logo, col_title = st.columns([1, 6])
-with col_logo:
-    st.image("Logo.png", width=100)
-with col_title:
-    st.title("Dashboard Analisis Nutrisi — EatSistent")
-    st.markdown(
-        "Eksplorasi hasil analisis data proyek **EatSistent**, aplikasi AI untuk "
-        "rekomendasi nutrisi yang dipersonalisasi berdasarkan profil fisik dan tujuan kesehatan."
-    )
-    st.caption("Capstone Project CC26-PSU274 · Dataset: UCI Obesity × AKG Kemenkes 2019 × TKPI 2017")
+# SESUDAH
+_, col_center, _ = st.columns([1, 2, 1])
+with col_center:
+    st.image("Logo.png", use_container_width=True)
+
+st.markdown("<h1 style='text-align:center'>Dashboard Analisis Nutrisi — EatSistent</h1>", unsafe_allow_html=True)
+st.markdown(
+    "<p style='text-align:center'>Eksplorasi hasil analisis data proyek <b>EatSistent</b>, "
+    "aplikasi AI untuk rekomendasi nutrisi yang dipersonalisasi berdasarkan profil fisik dan tujuan kesehatan.</p>",
+    unsafe_allow_html=True
+)
+st.caption("<div style='text-align:center'>Capstone Project CC26-PSU274 · Dataset: UCI Obesity × AKG Kemenkes 2019 × TKPI 2017</div>", unsafe_allow_html=True)
 
 st.divider()
 
@@ -298,7 +325,7 @@ else:
     st.plotly_chart(fig6, use_container_width=True)
 
     st.info(
-        "💡 **Insight** — "
+        "💡 **Insight** : "
         "Laki-laki membutuhkan energi **300–550 kkal/hari lebih tinggi** dari perempuan di semua kelompok usia, "
         "dengan puncak pada usia **19–29 tahun**. "
         "**73,7% pengguna** bertujuan *Turun_BB*, konsisten dengan dominasi BMI ≥ 25. "
@@ -389,40 +416,36 @@ else:
     st.plotly_chart(fig9, use_container_width=True)
 
     # Radar chart profil nutrisi per kelas
-    st.subheader("Radar Profil Nutrisi per Kelas Rekomendasi")
-    st.caption("Perbandingan komposisi makronutrien secara visual — normalisasi min-max per kolom")
-
+    st.subheader("Profil Nutrisi per Kelas Rekomendasi")
+    st.caption("Rata-rata makronutrien per 100g — perbandingan antar kelas")
+    
     radar_cols = ["energi_kkal", "protein_g", "lemak_g", "karbohidrat_g", "serat_g"]
-    radar_label = ["Kalori", "Protein", "Lemak", "Karbohidrat", "Serat"]
-
+    label_map_radar = {
+        "energi_kkal":    "Kalori (kkal)",
+        "protein_g":      "Protein (g)",
+        "lemak_g":        "Lemak (g)",
+        "karbohidrat_g":  "Karbohidrat (g)",
+        "serat_g":        "Serat (g)",
+    }
+    
     df_radar = df_t.groupby("label_kelas")[radar_cols].mean().reset_index()
-    for c in radar_cols:
-        mn, mx = df_radar[c].min(), df_radar[c].max()
-        df_radar[c] = (df_radar[c] - mn) / (mx - mn + 1e-9)
-
-    import plotly.graph_objects as go
-
-    fig_radar = go.Figure()
-    for _, row in df_radar.iterrows():
-        vals = [row[c] for c in radar_cols] + [row[radar_cols[0]]]
-        labs = radar_label + [radar_label[0]]
-        fig_radar.add_trace(go.Scatterpolar(
-            r=vals, theta=labs,
-            fill="toself",
-            name=row["label_kelas"],
-            line_color=COLOR_KELAS.get(row["label_kelas"], "#999"),
-            opacity=0.6,
-        ))
-
-    fig_radar.update_layout(
-        polar=dict(radialaxis=dict(visible=True, range=[0, 1])),
-        legend=dict(orientation="h", y=-0.15),
-        height=420,
+    df_radar_melt = df_radar.melt(id_vars="label_kelas", var_name="nutrisi", value_name="rata_rata")
+    df_radar_melt["nutrisi"] = df_radar_melt["nutrisi"].map(label_map_radar)
+    
+    fig_profil = px.bar(
+        df_radar_melt, x="nutrisi", y="rata_rata",
+        color="label_kelas",
+        barmode="group",
+        color_discrete_map=COLOR_KELAS,
+        text_auto=".1f",
+        labels={"nutrisi": "", "rata_rata": "Rata-rata per 100g", "label_kelas": "Kelas"},
     )
-    st.plotly_chart(fig_radar, use_container_width=True)
+    fig_profil.update_traces(textposition="outside")
+    fig_profil.update_layout(legend=dict(orientation="h", y=1.08))
+    st.plotly_chart(fig_profil, use_container_width=True)
 
     st.info(
-        "💡 **Insight** — "
+        "💡 **Insight** : "
         "*Rendah_Kalori* mendominasi dengan **455 item (39,7%)**, didominasi sayuran dan buah. "
         "*Tinggi_Protein_Rendah_Lemak* — **268 item** — berpusat di kategori Ikan dan Daging. "
         "*Lemak_Tinggi* hanya **127 item** namun memiliki rata-rata kalori tertinggi. "
