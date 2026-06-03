@@ -330,9 +330,8 @@ else:
     fig6.update_yaxes(matches=None)
     fig6.for_each_annotation(lambda a: a.update(text=a.text.split("=")[-1]))
     fig6.update_layout(
-        height=420,
-        margin=dict(t=40, b=20),  
-        legend=dict(orientation="h", y=1.05),
+        margin=dict(t=60, b=20),
+        legend=dict(orientation="h", y=1.08),
     )
     st.plotly_chart(fig6, use_container_width=True)
 
