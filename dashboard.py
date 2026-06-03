@@ -320,20 +320,19 @@ else:
     fig6 = px.bar(
         df_nut_melt, x="target_user", y="rata_rata",
         color="target_user",
-        facet_col="nutrisi",          # ganti x jadi facet
+        facet_col="nutrisi",
         facet_col_wrap=4,
         color_discrete_map=COLOR_TARGET,
         text_auto=".0f",
         labels={"target_user": "", "rata_rata": "", "nutrisi": ""},
     )
     fig6.update_traces(textposition="auto")
-    fig6.update_yaxes(matches=None)   # tiap facet skala independen
+    fig6.update_yaxes(matches=None)
     fig6.for_each_annotation(lambda a: a.update(text=a.text.split("=")[-1]))
     fig6.update_layout(
-        showlegend=True,
-        legend=dict(orientation="h", y=1.12),
-        height=450,
-        margin=dict(t=100),
+        height=420,
+        margin=dict(t=40, b=20),  
+        legend=dict(orientation="h", y=1.05),
     )
     st.plotly_chart(fig6, use_container_width=True)
 
@@ -386,43 +385,44 @@ else:
         st.plotly_chart(fig7, use_container_width=True)
 
     with col6:
-        st.subheader("Rata-rata Makronutrien per Kelas (per 100g)")
-        st.caption("Validasi labeling — setiap kelas seharusnya memiliki profil nutrisi yang berbeda")
+    st.subheader("Rata-rata Makronutrien per Kelas (per 100g)")
+    st.caption("Validasi labeling — setiap kelas seharusnya memiliki profil nutrisi yang berbeda")
 
-    # Pisah jadi 2 bagian dalam col6
-    col5a, col5b = col6.columns([1, 2])  # ← bikin sub-columns di dalam col6
+    # Kalori dulu, full width dalam col6
+    st.markdown("**Kalori (kkal/100g)**")
+    df_kal = df_t.groupby("label_kelas")["energi_kkal"].mean().reset_index()
+    fig_kal = px.bar(df_kal, x="label_kelas", y="energi_kkal",
+                     color="label_kelas", color_discrete_map=COLOR_KELAS,
+                     text_auto=".0f")
+    fig_kal.update_traces(textposition="outside")
+    fig_kal.update_layout(
+        showlegend=False,
+        xaxis_tickangle=-10,
+        height=250,
+        margin=dict(t=30, b=10),
+        yaxis=dict(range=[0, df_kal["energi_kkal"].max() * 1.2])
+    )
+    st.plotly_chart(fig_kal, use_container_width=True)
 
-    with col5a:
-        st.markdown("**Kalori (kkal/100g)**")
-        df_kal = df_t.groupby("label_kelas")["energi_kkal"].mean().reset_index()
-        fig_kal = px.bar(df_kal, x="label_kelas", y="energi_kkal",
-                         color="label_kelas", color_discrete_map=COLOR_KELAS,
-                         text_auto=".0f")
-        fig_kal.update_traces(textposition="outside")
-        fig_kal.update_layout(
-            showlegend=False, xaxis_tickangle=-10,
-            yaxis=dict(range=[0, df_kal["energi_kkal"].max() * 1.2])
-        )
-        st.plotly_chart(fig_kal, use_container_width=True)
-
-    with col5b:
-        st.markdown("**Makronutrien (g/100g)**")
-        df_mk = df_t.groupby("label_kelas")[["protein_g","lemak_g","karbohidrat_g","serat_g"]].mean().reset_index()
-        df_mk_melt = df_mk.melt(id_vars="label_kelas", var_name="nutrisi", value_name="rata_rata")
-        df_mk_melt["nutrisi"] = df_mk_melt["nutrisi"].map({
-            "protein_g": "Protein (g)", "lemak_g": "Lemak (g)",
-            "karbohidrat_g": "Karbohidrat (g)", "serat_g": "Serat (g)"
-        })
-        fig_mk = px.bar(df_mk_melt, x="nutrisi", y="rata_rata",
-                        color="label_kelas", color_discrete_map=COLOR_KELAS,
-                        barmode="group", text_auto=".1f")
-        fig_mk.update_traces(textposition="outside")
-        fig_mk.update_layout(
-            legend=dict(orientation="h", y=1.12),
-            yaxis=dict(range=[0, df_mk_melt["rata_rata"].max() * 1.2]),
-            margin=dict(t=80),
-        )
-        st.plotly_chart(fig_mk, use_container_width=True)
+    # Makronutrien di bawahnya
+    st.markdown("**Makronutrien (g/100g)**")
+    df_mk = df_t.groupby("label_kelas")[["protein_g","lemak_g","karbohidrat_g","serat_g"]].mean().reset_index()
+    df_mk_melt = df_mk.melt(id_vars="label_kelas", var_name="nutrisi", value_name="rata_rata")
+    df_mk_melt["nutrisi"] = df_mk_melt["nutrisi"].map({
+        "protein_g": "Protein (g)", "lemak_g": "Lemak (g)",
+        "karbohidrat_g": "Karbohidrat (g)", "serat_g": "Serat (g)"
+    })
+    fig_mk = px.bar(df_mk_melt, x="nutrisi", y="rata_rata",
+                    color="label_kelas", color_discrete_map=COLOR_KELAS,
+                    barmode="group", text_auto=".1f")
+    fig_mk.update_traces(textposition="outside")
+    fig_mk.update_layout(
+        legend=dict(orientation="h", y=1.08),
+        height=280,
+        margin=dict(t=50, b=10),
+        yaxis=dict(range=[0, df_mk_melt["rata_rata"].max() * 1.2])
+    )
+    st.plotly_chart(fig_mk, use_container_width=True)
 
     # Distribusi kelas per kategori makanan
     st.subheader("Komposisi Kelas Rekomendasi per Kategori Makanan")
@@ -468,7 +468,11 @@ else:
         labels={"nutrisi": "", "rata_rata": "Rata-rata per 100g", "label_kelas": "Kelas"},
     )
     fig_profil.update_traces(textposition="outside")
-    fig_profil.update_layout(legend=dict(orientation="h", y=1.08))
+    fig_profil.update_layout(
+        legend=dict(orientation="h", y=1.15),  # naikkan
+        margin=dict(t=100, b=20),              # beri ruang atas
+        yaxis=dict(range=[0, df_radar_melt["rata_rata"].max() * 1.2]),
+    )
     st.plotly_chart(fig_profil, use_container_width=True)
 
     st.info(
