@@ -545,7 +545,14 @@ else:
     fig10.update_layout(
         yaxis={"categoryorder": "total ascending"},
         height=500,
-        legend=dict(orientation="h", y=1.05),
+        legend=dict(
+            orientation="h",
+            y=1.05,        # ← turunkan dari 1.05, atau naikkan margin top
+            x=0,
+            xanchor="left",
+            title_text="",  # ← hapus judul "Kategori" dari legend agar lebih rapi
+        ),
+        margin=dict(t=60),  # ← beri ruang atas agar legend tidak tumpang tindih
     )
     st.plotly_chart(fig10, use_container_width=True)
 
