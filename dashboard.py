@@ -327,11 +327,16 @@ else:
         labels={"target_user": "", "rata_rata": "", "nutrisi": ""},
     )
     fig6.update_traces(textposition="auto")
-    fig6.update_yaxes(matches=None)
     fig6.for_each_annotation(lambda a: a.update(text=a.text.split("=")[-1]))
     fig6.update_layout(
-        margin=dict(t=60, b=20),
-        legend=dict(orientation="h", y=1.08),
+        height=500,
+        margin=dict(t=30, b=80),          
+        legend=dict(
+            orientation="h",
+            y=-0.2,                        
+            x=0.5,
+            xanchor="center",
+        ),
     )
     st.plotly_chart(fig6, use_container_width=True)
 
@@ -580,17 +585,22 @@ st.markdown(
     "model terbaik yang digunakan di aplikasi EatSistent."
 )
 
-# Data hasil hardcode dari notebook ab_testing
 hasil_clf = pd.DataFrame({
     "Metrik":              ["Accuracy", "F1-Score", "ROC-AUC", "CV F1 Mean"],
     "Logistic Regression": [0.8696,     0.8690,     0.9640,    0.8930],
     "Random Forest":       [0.9913,     0.9913,     0.9998,    0.9869],
 })
 
-hasil_reg = pd.DataFrame({
-    "Metrik":            ["R²",    "RMSE",   "MAE",   "CV R² Mean"],
-    "Linear Regression": [0.8082,  26.8116,  12.0012, 0.9454],
-    "Random Forest":     [0.9994,  3.3124,   0.1060,  0.9952],
+hasil_reg_skor = pd.DataFrame({
+    "Metrik":            ["R²",   "CV R² Mean"],
+    "Linear Regression": [0.8082, 0.9454],
+    "Random Forest":     [0.9994, 0.9952],
+})
+
+hasil_reg_error = pd.DataFrame({
+    "Metrik":            ["RMSE",    "MAE"],
+    "Linear Regression": [26.8116,  12.0012],
+    "Random Forest":     [3.3124,    0.1060],
 })
 
 tab1, tab2 = st.tabs(["Eksperimen 1 — Klasifikasi Makanan", "Eksperimen 2 — Prediksi Nutrisi"])
