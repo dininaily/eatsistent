@@ -535,11 +535,12 @@ else:
     fig10 = px.bar(
         df_eks, x=nutrisi_sort, y="nama_bahan",
         orientation="h",
-        color="kategori",
+        color="label_kelas",                          # ← ganti dari "kategori"
+        color_discrete_map=COLOR_KELAS,               # ← tambahkan ini
         labels={
             nutrisi_sort: label_nutrisi[nutrisi_sort],
             "nama_bahan": "",
-            "kategori": "Kategori",
+            "label_kelas": "Kelas Rekomendasi",       # ← ganti label legend
         },
     )
     fig10.update_layout(
