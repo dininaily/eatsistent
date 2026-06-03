@@ -582,14 +582,15 @@ st.markdown(
 
 # Data hasil hardcode dari notebook ab_testing
 hasil_clf = pd.DataFrame({
-    "Metrik":   ["Accuracy", "F1-Score", "ROC-AUC", "CV F1 Mean"],
-    "Logistic Regression": [0.0, 0.0, 0.0, 0.0],  # ← isi dari output notebook
-    "Random Forest":       [0.0, 0.0, 0.0, 0.0],  # ← isi dari output notebook
+    "Metrik":              ["Accuracy", "F1-Score", "ROC-AUC", "CV F1 Mean"],
+    "Logistic Regression": [0.8696,     0.8690,     0.9640,    0.8930],
+    "Random Forest":       [0.9913,     0.9913,     0.9998,    0.9869],
 })
+
 hasil_reg = pd.DataFrame({
-    "Metrik":   ["R²", "RMSE", "MAE", "CV R² Mean"],
-    "Linear Regression":   [0.0, 0.0, 0.0, 0.0],  # ← isi dari output notebook
-    "Random Forest":       [0.0, 0.0, 0.0, 0.0],  # ← isi dari output notebook
+    "Metrik":            ["R²",    "RMSE",   "MAE",   "CV R² Mean"],
+    "Linear Regression": [0.8082,  26.8116,  12.0012, 0.9454],
+    "Random Forest":     [0.9994,  3.3124,   0.1060,  0.9952],
 })
 
 tab1, tab2 = st.tabs(["Eksperimen 1 — Klasifikasi Makanan", "Eksperimen 2 — Prediksi Nutrisi"])
@@ -610,17 +611,42 @@ with tab1:
 
 with tab2:
     col_t3, col_t4 = st.columns(2)
+    
     with col_t3:
-        st.dataframe(hasil_reg, use_container_width=True, hide_index=True)
+        st.markdown("**Metrik Skor (R²)**")
+        st.dataframe(hasil_reg_skor, use_container_width=True, hide_index=True)
+        
+        fig_ab2_skor = px.bar(
+            hasil_reg_skor.melt(id_vars="Metrik", var_name="Model", value_name="Score"),
+            x="Metrik", y="Score", color="Model", barmode="group", text_auto=".4f",
+            color_discrete_map={"Linear Regression": "#2196F3", "Random Forest": "#4CAF50"}
+        )
+        fig_ab2_skor.update_traces(textposition="outside")
+        fig_ab2_skor.update_layout(
+            yaxis=dict(range=[0, 1.15]),
+            legend=dict(orientation="h", y=1.1),
+            margin=dict(t=60),
+        )
+        st.plotly_chart(fig_ab2_skor, use_container_width=True)
+
     with col_t4:
-        df_reg_melt = hasil_reg.melt(id_vars="Metrik", var_name="Model", value_name="Score")
-        fig_ab2 = px.bar(df_reg_melt, x="Metrik", y="Score", color="Model",
-                         barmode="group", text_auto=".3f",
-                         color_discrete_map={"Linear Regression": "#2196F3", "Random Forest": "#4CAF50"})
-        fig_ab2.update_traces(textposition="outside")
-        fig_ab2.update_layout(legend=dict(orientation="h", y=1.1))
-        st.plotly_chart(fig_ab2, use_container_width=True)
-    st.success("🏆 **Pemenang: Random Forest Regressor** — R² lebih tinggi, RMSE lebih rendah, signifikan (p < 0.05)")
+        st.markdown("**Metrik Error (lebih kecil = lebih baik)**")
+        st.dataframe(hasil_reg_error, use_container_width=True, hide_index=True)
+        
+        fig_ab2_error = px.bar(
+            hasil_reg_error.melt(id_vars="Metrik", var_name="Model", value_name="Score"),
+            x="Metrik", y="Score", color="Model", barmode="group", text_auto=".2f",
+            color_discrete_map={"Linear Regression": "#2196F3", "Random Forest": "#4CAF50"}
+        )
+        fig_ab2_error.update_traces(textposition="outside")
+        fig_ab2_error.update_layout(
+            legend=dict(orientation="h", y=1.1),
+            margin=dict(t=60),
+            yaxis=dict(range=[0, hasil_reg_error.melt(id_vars="Metrik")["value"].max() * 1.2]),
+        )
+        st.plotly_chart(fig_ab2_error, use_container_width=True)
+
+    st.success("🏆 **Pemenang: Random Forest Regressor** — R² mendekati sempurna (0.9994), RMSE turun drastis dari 26.8 → 3.3, signifikan (p=0.0000)")
 st.caption(
     "Capstone Project CC26-PSU274 · "
     "Dataset: UCI Obesity (2.087 pengguna) × AKG Kemenkes 2019 × TKPI 2017 (1.146 bahan makanan)"
