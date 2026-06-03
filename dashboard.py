@@ -531,8 +531,8 @@ else:
         "karbohidrat_g": "Karbohidrat (g/100g)",
         "serat_g":       "Serat (g/100g)",
     }
-
-   fig10 = px.bar(
+    
+    fig10 = px.bar(
         df_eks, x=nutrisi_sort, y="nama_bahan",
         orientation="h",
         color="kategori",
