@@ -11,7 +11,7 @@ COLOR_KELAS = {
     "Tinggi_Protein_Rendah_Lemak":"#FB8C00",
     "Lemak_Tinggi":               "#E53935",
 }
-COLOR_GENDER = {"Male": "#1565C0", "Female": "#AD1457"}
+COLOR_GENDER = {"Laki-laki": "#1565C0", "Perempuan": "#AD1457"}
 COLOR_TARGET = {"Turun_BB": "#E53935", "Jaga_BB": "#1E88E5", "Tambah_BB": "#43A047"}
 COLOR_AKTIVITAS = {
     "tidak_aktif":  "#EF9A9A",
@@ -200,7 +200,11 @@ else:
             labels={"kelompok_usia": "Kelompok Usia", "akg_energi_kkal": "Kalori (kkal/hari)", "jenis_kelamin": "Jenis Kelamin"},
         )
         fig1.update_traces(textposition="outside")
-        fig1.update_layout(legend=dict(orientation="h", y=1.05), yaxis_title="kkal/hari")
+        fig1.update_layout(
+            legend=dict(orientation="h", y=1.05),
+            yaxis_title="kkal/hari",
+            yaxis=dict(range=[0, df_akg["akg_energi_kkal"].max() * 1.15])  # tambahkan ini
+        )
         st.plotly_chart(fig1, use_container_width=True)
 
     with col2:
@@ -313,15 +317,22 @@ else:
     df_nut_melt["nutrisi"] = df_nut_melt["nutrisi"].map(label_map_nutrisi)
 
     fig6 = px.bar(
-        df_nut_melt, x="nutrisi", y="rata_rata",
+        df_nut_melt, x="target_user", y="rata_rata",
         color="target_user",
-        barmode="group",
+        facet_col="nutrisi",          # ganti x jadi facet
+        facet_col_wrap=4,
         color_discrete_map=COLOR_TARGET,
         text_auto=".0f",
-        labels={"nutrisi": "", "rata_rata": "Rata-rata", "target_user": "Target Kebugaran"},
+        labels={"target_user": "", "rata_rata": "", "nutrisi": ""},
     )
     fig6.update_traces(textposition="outside")
-    fig6.update_layout(legend=dict(orientation="h", y=1.05))
+    fig6.update_yaxes(matches=None)   # tiap facet skala independen
+    fig6.for_each_annotation(lambda a: a.update(text=a.text.split("=")[-1]))
+    fig6.update_layout(
+        showlegend=True,
+        legend=dict(orientation="h", y=1.12),
+        height=400,
+    )
     st.plotly_chart(fig6, use_container_width=True)
 
     st.info(
