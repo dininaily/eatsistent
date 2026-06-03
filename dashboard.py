@@ -532,15 +532,14 @@ else:
         "serat_g":       "Serat (g/100g)",
     }
 
-    fig10 = px.bar(
+   fig10 = px.bar(
         df_eks, x=nutrisi_sort, y="nama_bahan",
         orientation="h",
-        color="label_kelas",                          # ← GANTI dari "kategori"
-        color_discrete_map=COLOR_KELAS,               # ← TAMBAHKAN ini
+        color="kategori",
         labels={
             nutrisi_sort: label_nutrisi[nutrisi_sort],
             "nama_bahan": "",
-            "label_kelas": "Kelas Rekomendasi",       # ← GANTI dari "kategori": "Kategori"
+            "kategori": "Kategori",
         },
     )
     fig10.update_layout(
