@@ -389,10 +389,6 @@ else:
         st.subheader("Rata-rata Makronutrien per Kelas (per 100g)")
         st.caption("Validasi labeling — setiap kelas seharusnya memiliki profil nutrisi yang berbeda")
 
-        with col6:
-    st.subheader("Rata-rata Makronutrien per Kelas (per 100g)")
-    st.caption("Validasi labeling — setiap kelas seharusnya memiliki profil nutrisi yang berbeda")
-
     # Pisah jadi 2 bagian dalam col6
     col5a, col5b = col6.columns([1, 2])  # ← bikin sub-columns di dalam col6
 
