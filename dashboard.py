@@ -117,10 +117,10 @@ with st.sidebar:
 df_u = df_user[
     df_user["jenis_kelamin"].isin(gender) &
     df_user["target_user"].isin(target) &
-    df_user["level_aktivitas"].isin(aktivitas)
-    df_user["usia"].between(*usia_range) &
-    df_user["tinggi_cm"].between(*tinggi_range) &
-    df_user["berat_kg"].between(*berat_range)
+    df_user["level_aktivitas"].isin(aktivitas) &
+    df_user["usia"].between(*usia_range) &          
+    df_user["tinggi_cm"].between(*tinggi_range) &   
+    df_user["berat_kg"].between(*berat_range)        
 ].copy()
 
 df_t = df_tkpi[df_tkpi["kategori"].isin(kat_selected)].copy()
