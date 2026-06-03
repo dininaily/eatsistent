@@ -385,24 +385,23 @@ else:
         st.plotly_chart(fig7, use_container_width=True)
 
     with col6:
-    st.subheader("Rata-rata Makronutrien per Kelas (per 100g)")
-    st.caption("Validasi labeling — setiap kelas seharusnya memiliki profil nutrisi yang berbeda")
-
-    # Kalori dulu, full width dalam col6
-    st.markdown("**Kalori (kkal/100g)**")
-    df_kal = df_t.groupby("label_kelas")["energi_kkal"].mean().reset_index()
-    fig_kal = px.bar(df_kal, x="label_kelas", y="energi_kkal",
-                     color="label_kelas", color_discrete_map=COLOR_KELAS,
-                     text_auto=".0f")
-    fig_kal.update_traces(textposition="outside")
-    fig_kal.update_layout(
-        showlegend=False,
-        xaxis_tickangle=-10,
-        height=250,
-        margin=dict(t=30, b=10),
-        yaxis=dict(range=[0, df_kal["energi_kkal"].max() * 1.2])
-    )
-    st.plotly_chart(fig_kal, use_container_width=True)
+        st.subheader("Rata-rata Makronutrien per Kelas (per 100g)")
+        st.caption("Validasi labeling — setiap kelas seharusnya memiliki profil nutrisi yang berbeda")
+        
+        st.markdown("**Kalori (kkal/100g)**")
+        df_kal = df_t.groupby("label_kelas")["energi_kkal"].mean().reset_index()
+        fig_kal = px.bar(df_kal, x="label_kelas", y="energi_kkal",
+                         color="label_kelas", color_discrete_map=COLOR_KELAS,
+                         text_auto=".0f")
+        fig_kal.update_traces(textposition="outside")
+        fig_kal.update_layout(
+            showlegend=False,
+            xaxis_tickangle=-10,
+            height=250,
+            margin=dict(t=30, b=10),
+            yaxis=dict(range=[0, df_kal["energi_kkal"].max() * 1.2])
+        )
+        st.plotly_chart(fig_kal, use_container_width=True)
 
     # Makronutrien di bawahnya
     st.markdown("**Makronutrien (g/100g)**")
