@@ -535,25 +535,18 @@ else:
     fig10 = px.bar(
         df_eks, x=nutrisi_sort, y="nama_bahan",
         orientation="h",
-        color="label_kelas",                          # ← ganti dari "kategori"
-        color_discrete_map=COLOR_KELAS,               # ← tambahkan ini
+        color="label_kelas",                          # ← GANTI dari "kategori"
+        color_discrete_map=COLOR_KELAS,               # ← TAMBAHKAN ini
         labels={
             nutrisi_sort: label_nutrisi[nutrisi_sort],
             "nama_bahan": "",
-            "label_kelas": "Kelas Rekomendasi",       # ← ganti label legend
+            "label_kelas": "Kelas Rekomendasi",       # ← GANTI dari "kategori": "Kategori"
         },
     )
     fig10.update_layout(
         yaxis={"categoryorder": "total ascending"},
         height=500,
-        legend=dict(
-            orientation="h",
-            y=1.05,        # ← turunkan dari 1.05, atau naikkan margin top
-            x=0,
-            xanchor="left",
-            title_text="",  # ← hapus judul "Kategori" dari legend agar lebih rapi
-        ),
-        margin=dict(t=60),  # ← beri ruang atas agar legend tidak tumpang tindih
+        legend=dict(orientation="h", y=1.05),
     )
     st.plotly_chart(fig10, use_container_width=True)
 
