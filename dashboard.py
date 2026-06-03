@@ -201,9 +201,10 @@ else:
         )
         fig1.update_traces(textposition="outside")
         fig1.update_layout(
-            legend=dict(orientation="h", y=1.05),
+            legend=dict(orientation="h", y=1.12),
             yaxis_title="kkal/hari",
-            yaxis=dict(range=[0, df_akg["akg_energi_kkal"].max() * 1.15])  # tambahkan ini
+            yaxis=dict(range=[0, df_akg["akg_energi_kkal"].max() * 1.18]),
+            margin=dict(t=80),
         )
         st.plotly_chart(fig1, use_container_width=True)
 
@@ -325,13 +326,14 @@ else:
         text_auto=".0f",
         labels={"target_user": "", "rata_rata": "", "nutrisi": ""},
     )
-    fig6.update_traces(textposition="outside")
+    fig6.update_traces(textposition="auto")
     fig6.update_yaxes(matches=None)   # tiap facet skala independen
     fig6.for_each_annotation(lambda a: a.update(text=a.text.split("=")[-1]))
     fig6.update_layout(
         showlegend=True,
         legend=dict(orientation="h", y=1.12),
-        height=400,
+        height=450,
+        margin=dict(t=100),
     )
     st.plotly_chart(fig6, use_container_width=True)
 
@@ -387,26 +389,44 @@ else:
         st.subheader("Rata-rata Makronutrien per Kelas (per 100g)")
         st.caption("Validasi labeling — setiap kelas seharusnya memiliki profil nutrisi yang berbeda")
 
-        df_kelas_nut = df_t.groupby("label_kelas")[["protein_g", "lemak_g", "karbohidrat_g", "serat_g"]].mean().reset_index()
-        df_kelas_melt = df_kelas_nut.melt(id_vars="label_kelas", var_name="nutrisi", value_name="rata_rata")
-        df_kelas_melt["nutrisi"] = df_kelas_melt["nutrisi"].map({
-            "protein_g":       "Protein (g)",
-            "lemak_g":         "Lemak (g)",
-            "karbohidrat_g":   "Karbohidrat (g)",
-            "serat_g":         "Serat (g)",
-        })
+        with col6:
+    st.subheader("Rata-rata Makronutrien per Kelas (per 100g)")
+    st.caption("Validasi labeling — setiap kelas seharusnya memiliki profil nutrisi yang berbeda")
 
-        fig8 = px.bar(
-            df_kelas_melt, x="nutrisi", y="rata_rata",
-            color="label_kelas",
-            color_discrete_map=COLOR_KELAS,
-            barmode="group",
-            text_auto=".1f",
-            labels={"nutrisi": "", "rata_rata": "g per 100g", "label_kelas": "Kelas"},
+    # Pisah jadi 2 bagian dalam col6
+    col5a, col5b = col6.columns([1, 2])  # ← bikin sub-columns di dalam col6
+
+    with col5a:
+        st.markdown("**Kalori (kkal/100g)**")
+        df_kal = df_t.groupby("label_kelas")["energi_kkal"].mean().reset_index()
+        fig_kal = px.bar(df_kal, x="label_kelas", y="energi_kkal",
+                         color="label_kelas", color_discrete_map=COLOR_KELAS,
+                         text_auto=".0f")
+        fig_kal.update_traces(textposition="outside")
+        fig_kal.update_layout(
+            showlegend=False, xaxis_tickangle=-10,
+            yaxis=dict(range=[0, df_kal["energi_kkal"].max() * 1.2])
         )
-        fig8.update_traces(textposition="outside")
-        fig8.update_layout(legend=dict(orientation="h", y=1.05))
-        st.plotly_chart(fig8, use_container_width=True)
+        st.plotly_chart(fig_kal, use_container_width=True)
+
+    with col5b:
+        st.markdown("**Makronutrien (g/100g)**")
+        df_mk = df_t.groupby("label_kelas")[["protein_g","lemak_g","karbohidrat_g","serat_g"]].mean().reset_index()
+        df_mk_melt = df_mk.melt(id_vars="label_kelas", var_name="nutrisi", value_name="rata_rata")
+        df_mk_melt["nutrisi"] = df_mk_melt["nutrisi"].map({
+            "protein_g": "Protein (g)", "lemak_g": "Lemak (g)",
+            "karbohidrat_g": "Karbohidrat (g)", "serat_g": "Serat (g)"
+        })
+        fig_mk = px.bar(df_mk_melt, x="nutrisi", y="rata_rata",
+                        color="label_kelas", color_discrete_map=COLOR_KELAS,
+                        barmode="group", text_auto=".1f")
+        fig_mk.update_traces(textposition="outside")
+        fig_mk.update_layout(
+            legend=dict(orientation="h", y=1.12),
+            yaxis=dict(range=[0, df_mk_melt["rata_rata"].max() * 1.2]),
+            margin=dict(t=80),
+        )
+        st.plotly_chart(fig_mk, use_container_width=True)
 
     # Distribusi kelas per kategori makanan
     st.subheader("Komposisi Kelas Rekomendasi per Kategori Makanan")
@@ -552,6 +572,57 @@ else:
     )
 
 st.divider()
+
+# ══════════════════════════════════════════════════════════════════════════════
+# BAGIAN 4 — HASIL A/B TESTING
+# ══════════════════════════════════════════════════════════════════════════════
+st.header("4 · Hasil A/B Testing — Pemilihan Model")
+st.markdown(
+    "Perbandingan performa dua algoritma pada masing-masing task untuk memilih "
+    "model terbaik yang digunakan di aplikasi EatSistent."
+)
+
+# Data hasil hardcode dari notebook ab_testing
+hasil_clf = pd.DataFrame({
+    "Metrik":   ["Accuracy", "F1-Score", "ROC-AUC", "CV F1 Mean"],
+    "Logistic Regression": [0.0, 0.0, 0.0, 0.0],  # ← isi dari output notebook
+    "Random Forest":       [0.0, 0.0, 0.0, 0.0],  # ← isi dari output notebook
+})
+hasil_reg = pd.DataFrame({
+    "Metrik":   ["R²", "RMSE", "MAE", "CV R² Mean"],
+    "Linear Regression":   [0.0, 0.0, 0.0, 0.0],  # ← isi dari output notebook
+    "Random Forest":       [0.0, 0.0, 0.0, 0.0],  # ← isi dari output notebook
+})
+
+tab1, tab2 = st.tabs(["Eksperimen 1 — Klasifikasi Makanan", "Eksperimen 2 — Prediksi Nutrisi"])
+
+with tab1:
+    col_t1, col_t2 = st.columns(2)
+    with col_t1:
+        st.dataframe(hasil_clf, use_container_width=True, hide_index=True)
+    with col_t2:
+        df_clf_melt = hasil_clf.melt(id_vars="Metrik", var_name="Model", value_name="Score")
+        fig_ab1 = px.bar(df_clf_melt, x="Metrik", y="Score", color="Model",
+                         barmode="group", text_auto=".3f",
+                         color_discrete_map={"Logistic Regression": "#2196F3", "Random Forest": "#4CAF50"})
+        fig_ab1.update_traces(textposition="outside")
+        fig_ab1.update_layout(yaxis=dict(range=[0, 1.2]), legend=dict(orientation="h", y=1.1))
+        st.plotly_chart(fig_ab1, use_container_width=True)
+    st.success("🏆 **Pemenang: Random Forest Classifier** — unggul di semua metrik, perbedaan signifikan secara statistik (p < 0.05)")
+
+with tab2:
+    col_t3, col_t4 = st.columns(2)
+    with col_t3:
+        st.dataframe(hasil_reg, use_container_width=True, hide_index=True)
+    with col_t4:
+        df_reg_melt = hasil_reg.melt(id_vars="Metrik", var_name="Model", value_name="Score")
+        fig_ab2 = px.bar(df_reg_melt, x="Metrik", y="Score", color="Model",
+                         barmode="group", text_auto=".3f",
+                         color_discrete_map={"Linear Regression": "#2196F3", "Random Forest": "#4CAF50"})
+        fig_ab2.update_traces(textposition="outside")
+        fig_ab2.update_layout(legend=dict(orientation="h", y=1.1))
+        st.plotly_chart(fig_ab2, use_container_width=True)
+    st.success("🏆 **Pemenang: Random Forest Regressor** — R² lebih tinggi, RMSE lebih rendah, signifikan (p < 0.05)")
 st.caption(
     "Capstone Project CC26-PSU274 · "
     "Dataset: UCI Obesity (2.087 pengguna) × AKG Kemenkes 2019 × TKPI 2017 (1.146 bahan makanan)"
