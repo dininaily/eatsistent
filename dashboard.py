@@ -709,11 +709,19 @@ elif section == "🥗 Profil Bahan Makanan":
             barmode="stack", text="jumlah",
             labels={"kategori": "Kategori Makanan", "jumlah": "Jumlah Bahan", "label_kelas": "Kelas"},
         )
-        fig9.update_traces(textposition="inside", textfont_size=11)
+        fig9.update_traces(
+            textposition="inside",
+            textangle=0,           # paksa horizontal semua
+            insidetextanchor="middle",
+            textfont_size=12,
+        )
         fig9.update_layout(
             xaxis_tickangle=-15,
             legend=dict(orientation="h", y=1.05),
             xaxis_title=None,
+            height=480,
+            uniformtext_minsize=9,
+            uniformtext_mode="hide",  # sembunyikan angka jika segmen terlalu kecil, daripada terhimpit
         )
         st.plotly_chart(fig9, use_container_width=True)
 
@@ -773,10 +781,15 @@ elif section == "🔍 Eksplorasi Makanan":
         )
         fig10.update_layout(
             yaxis={"categoryorder": "total ascending"},
-            height=520, legend=dict(orientation="h", y=1.05),
+            height=max(400, len(df_eks) * 38),  # tinggi dinamis sesuai jumlah item
+            legend=dict(orientation="h", y=1.05),
+            margin=dict(r=20),
         )
         st.plotly_chart(fig10, use_container_width=True)
-        st.caption(f"Menampilkan 15 bahan dengan {label_nutrisi[nutrisi_sort]} tertinggi dalam kelas {kelas_pilih}.")
+        st.caption(
+            f"Hover pada bar untuk melihat nilai detail. "
+            f"Menampilkan 15 bahan dengan {label_nutrisi[nutrisi_sort]} tertinggi dalam kelas **{kelas_pilih}**."
+        )
 
         st.subheader("Tabel Detail Bahan Makanan")
         cari = st.text_input("Cari nama bahan makanan...", placeholder="contoh: ayam, tahu, beras")
