@@ -701,17 +701,17 @@ elif section == "🥗 Profil Bahan Makanan":
         st.caption("8 kategori terbanyak — angka di tiap segmen menunjukkan jumlah bahan")
         top8 = df_t["kategori"].value_counts().head(8).index
         df_top8 = df_t[df_t["kategori"].isin(top8)]
-        kelas_kat = df_top8.groupby(["kategori", "label_kelas"]).size().reset_index(name="jumlah")
-
+        kelas_kat["label"] = kelas_kat["jumlah"].apply(lambda x: str(x) if x >= 5 else "")
+        
         fig9 = px.bar(
             kelas_kat, x="kategori", y="jumlah",
             color="label_kelas", color_discrete_map=COLOR_KELAS,
-            barmode="stack", text="jumlah",
+            barmode="stack", text="label",  # pakai kolom label, bukan "jumlah"
             labels={"kategori": "Kategori Makanan", "jumlah": "Jumlah Bahan", "label_kelas": "Kelas"},
         )
         fig9.update_traces(
             textposition="inside",
-            textangle=0,           # paksa horizontal semua
+            textangle=0,
             insidetextanchor="middle",
             textfont_size=12,
         )
@@ -720,8 +720,6 @@ elif section == "🥗 Profil Bahan Makanan":
             legend=dict(orientation="h", y=1.05),
             xaxis_title=None,
             height=480,
-            uniformtext_minsize=9,
-            uniformtext_mode="hide",  # sembunyikan angka jika segmen terlalu kecil, daripada terhimpit
         )
         st.plotly_chart(fig9, use_container_width=True)
 
