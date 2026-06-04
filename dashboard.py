@@ -701,7 +701,7 @@ elif section == "🥗 Profil Bahan Makanan":
         st.caption("8 kategori terbanyak — angka di tiap segmen menunjukkan jumlah bahan")
         top8 = df_t["kategori"].value_counts().head(8).index
         df_top8 = df_t[df_t["kategori"].isin(top8)]
-        
+        kelas_kat = df_top8.groupby(["kategori", "label_kelas"]).size().reset_index(name="jumlah")
         kelas_kat["label"] = kelas_kat["jumlah"].apply(lambda x: str(x) if x >= 5 else "")
         
         fig9 = px.bar(
