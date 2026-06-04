@@ -783,7 +783,7 @@ elif section == "🔍 Eksplorasi Makanan":
             yaxis={"categoryorder": "total ascending"},
             height=max(400, len(df_eks) * 38),
             legend=dict(orientation="h", y=1.08, x=0, xanchor="left"),
-            margin=dict(r=20, t=80),  # t=80 beri ruang untuk legend di atas
+            margin=dict(r=20, t=100),  # t=80 beri ruang untuk legend di atas
         )
         st.plotly_chart(fig10, use_container_width=True)
         st.caption(
