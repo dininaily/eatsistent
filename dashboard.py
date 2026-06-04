@@ -4,7 +4,7 @@ import plotly.express as px
 
 st.set_page_config(page_title="EatSistent Dashboard", layout="wide", page_icon="🥗")
 
-# ── Warna konsisten ──────────────────────────────────────────────────────────
+# ── Warna konsisten 
 COLOR_KELAS = {
     "Rendah_Kalori":               "#43A047",
     "Karbo_Kompleks":              "#1E88E5",
@@ -57,7 +57,7 @@ def load_data():
 df_user, df_tkpi = load_data()
 
 
-# ── Sidebar ──────────────────────────────────────────────────────────────────
+# ── Sidebar 
 with st.sidebar:
     st.image("Logo.png", width=160)
     st.markdown("---")
@@ -118,7 +118,7 @@ with st.sidebar:
     st.caption("Capstone Project CC26-PSU274\nHealthy Lives & Well-being")
 
 
-# ── Filter data ───────────────────────────────────────────────────────────────
+# ── Filter data 
 df_u = df_user[
     df_user["jenis_kelamin"].isin(gender) &
     df_user["target_user"].isin(target) &
@@ -130,9 +130,7 @@ df_u = df_user[
 df_t = df_tkpi[df_tkpi["kategori"].isin(kat_selected)].copy()
 
 
-# ══════════════════════════════════════════════════════════════════════════════
 # HEADER (tampil di semua section)
-# ══════════════════════════════════════════════════════════════════════════════
 _, col_center, _ = st.columns([1, 2, 1])
 with col_center:
     st.image("Logo.png", use_container_width=True)
@@ -147,9 +145,7 @@ st.caption("<div style='text-align:center'>Capstone Project CC26-PSU274 · Datas
 st.divider()
 
 
-# ══════════════════════════════════════════════════════════════════════════════
 # SECTION: OVERVIEW
-# ══════════════════════════════════════════════════════════════════════════════
 if section == "🏠 Overview":
     n = len(df_u)
     m1, m2, m3, m4, m5 = st.columns(5)
@@ -192,9 +188,7 @@ if section == "🏠 Overview":
     col_d3.info("**TKPI 2017**\n\n1.220 bahan makanan → 1.146 setelah cleaning\n\nSumber: Kemenkes RI")
 
 
-# ══════════════════════════════════════════════════════════════════════════════
 # SECTION: DATA WRANGLING
-# ══════════════════════════════════════════════════════════════════════════════
 elif section == "🔧 Data Wrangling":
     st.header("🔧 Data Wrangling")
     st.markdown("Proses pembersihan dua dataset utama sebelum digunakan untuk analisis dan modeling.")
@@ -320,9 +314,7 @@ elif section == "🔧 Data Wrangling":
         )
 
 
-# ══════════════════════════════════════════════════════════════════════════════
 # SECTION: FEATURE ENGINEERING
-# ══════════════════════════════════════════════════════════════════════════════
 elif section == "⚙️ Feature Engineering":
     st.header("⚙️ Feature Engineering")
     st.markdown(
@@ -451,9 +443,7 @@ elif section == "⚙️ Feature Engineering":
         )
 
 
-# ══════════════════════════════════════════════════════════════════════════════
 # SECTION: PROFIL PENGGUNA
-# ══════════════════════════════════════════════════════════════════════════════
 elif section == "👥 Profil Pengguna":
     st.header("👥 Profil Pengguna")
     st.markdown(
@@ -619,9 +609,7 @@ elif section == "👥 Profil Pengguna":
         )
 
 
-# ══════════════════════════════════════════════════════════════════════════════
 # SECTION: PROFIL BAHAN MAKANAN
-# ══════════════════════════════════════════════════════════════════════════════
 elif section == "🥗 Profil Bahan Makanan":
     st.header("🥗 Profil Bahan Makanan TKPI 2017")
     st.markdown(
@@ -733,9 +721,7 @@ elif section == "🥗 Profil Bahan Makanan":
         )
 
 
-# ══════════════════════════════════════════════════════════════════════════════
 # SECTION: EKSPLORASI MAKANAN
-# ══════════════════════════════════════════════════════════════════════════════
 elif section == "🔍 Eksplorasi Makanan":
     st.header("🔍 Eksplorasi Bahan Makanan")
     st.markdown("Cari dan bandingkan bahan makanan berdasarkan kelas rekomendasi dan kandungan nutrisinya.")
@@ -807,9 +793,7 @@ elif section == "🔍 Eksplorasi Makanan":
         )
 
 
-# ══════════════════════════════════════════════════════════════════════════════
 # SECTION: A/B TESTING & MODEL
-# ══════════════════════════════════════════════════════════════════════════════
 elif section == "🏆 A/B Testing & Model":
     st.header("🏆 A/B Testing — Pemilihan Model")
     st.markdown(
@@ -914,9 +898,7 @@ elif section == "🏆 A/B Testing & Model":
     st.caption("Capstone Project CC26-PSU274 · Dataset: UCI Obesity (2.087 pengguna) × AKG Kemenkes 2019 × TKPI 2017 (1.146 bahan makanan)")
 
 
-# ══════════════════════════════════════════════════════════════════════════════
 # SECTION: KESIMPULAN
-# ══════════════════════════════════════════════════════════════════════════════
 elif section == "📋 Kesimpulan":
     st.header("📋 Kesimpulan & Rekomendasi")
     st.markdown("Rangkuman temuan utama dari seluruh proses analisis data proyek EatSistent.")
